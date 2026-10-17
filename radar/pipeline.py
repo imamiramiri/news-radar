@@ -9,11 +9,13 @@ from . import market, mocks
 from .cluster import cluster_items
 from .config import Config
 from .fetchers import fetch_all, make_session
-from .formatting import alert_sections, brief_sections, calendar_section, sources_line
+from .formatting import (alert_sections, brief_sections, calendar_section, sources_line,
+                         story_sources_line, trend_notice_sections)
 from .llm import LLM
 from .models import Cluster
 from .notify import Telegram
 from .state import State
+from .trends import TrendTracker
 from .utils import (esc, fa, fa_time, fmt_num, hours_ago, in_daily_window, iso, parse_hhmm,
                     parse_iso, to_local, truncate, utcnow)
 
@@ -38,7 +40,10 @@ class Radar:
         self.changes: dict = {}
         self.market_text = "داده‌ی قیمت در دسترس نیست."
         self.events: list[dict] = []
-        self.stats = {"items": 0, "clusters": 0, "scored": 0, "alerts": 0}
+        self.stats = {"items": 0, "clusters": 0, "scored": 0, "alerts": 0, "trends": 0}
+        self.trends: TrendTracker | None = None
+        self.cluster_story: dict[int, dict] = {}
+        self.handled: set[int] = set()  # clusters already alerted in this run
 
     # ───────────────────────── helpers ─────────────────────────
     @property
@@ -68,21 +73,26 @@ class Radar:
         self.update_market()
         self.update_calendar()
         clusters = self.collect()
+        self.update_stories(clusters)
         try:
             scored = self.triage(clusters)
             st.data["llm_fail_streak"] = 0
+            llm_ok = True
         except Exception as exc:  # noqa: BLE001
             self.on_llm_failure(exc)
-            self.finish()
-            return self.stats
-        for c in clusters:
-            st.mark_seen(c.uids, self.now)
-        self.add_to_pool(scored)
+            scored, llm_ok = [], False
+        if llm_ok:
+            for c in clusters:
+                st.mark_seen(c.uids, self.now)
+            self.add_to_pool(scored)
         st.save()  # checkpoint: never re-triage the same items even if a later step crashes
 
-        self.maybe_briefs()
-        self.process_alerts(scored)
-        self.market_alerts()
+        # trends don't depend on the model: they still go out (as short notices) if the API is down
+        self.process_trends(clusters, use_llm=llm_ok)
+        if llm_ok:
+            self.maybe_briefs()
+            self.process_alerts(scored)
+            self.market_alerts()
         self.calendar_reminders()
         self.finish()
         return self.stats
@@ -214,6 +224,67 @@ class Radar:
                 self.state.add_pool({"ts": iso(self.now), "title": truncate(c.rep.title, 200),
                                      "source": c.rep.source, "score": c.score, "category": c.category})
 
+    # ───────────────────────── trends («ترند») ─────────────────────────
+    def update_stories(self, clusters: list[Cluster]) -> None:
+        t = self.cfg.get("trend", {}) or {}
+        if not t.get("enabled", True):
+            return
+        self.trends = TrendTracker(self.state, t, self.now)
+        self.cluster_story = self.trends.update(clusters)
+
+    def process_trends(self, clusters: list[Cluster], use_llm: bool = True) -> None:
+        t = self.cfg.get("trend", {}) or {}
+        if self.trends is None or not t.get("enabled", True):
+            return
+        if self.is_quiet() and not t.get("allow_in_quiet_hours", True):
+            return
+        daily = self.state.daily(self.local_date)
+        daily.setdefault("trends", 0)
+        per_run, per_day = int(t.get("max_per_run", 3)), int(t.get("max_per_day", 15))
+        sent = 0
+        for c, story, count, minutes in self.trends.candidates(clusters, self.cluster_story):
+            if sent >= per_run or daily["trends"] >= per_day:
+                break
+            if self.send_trend(c, story, count, minutes, use_llm):
+                sent += 1
+                daily["trends"] += 1
+                story["trend_at"] = iso(self.now)
+                story["alerted"] = True
+                for other in clusters:  # never send the same story again as a normal alert
+                    if self.cluster_story.get(id(other)) is story:
+                        self.handled.add(id(other))
+        self.stats["trends"] = sent
+
+    def send_trend(self, c: Cluster, story: dict, count: int, minutes: int, use_llm: bool) -> bool:
+        meta = f"⏱ {self.tehran(self.now)} تهران · {fa(count)} منبع مختلف در {fa(minutes)} دقیقه"
+        title = story["titles"][0]["t"] if story.get("titles") else c.rep.title
+
+        def notice(already: bool) -> bool:
+            ok = self.tg.send_html(trend_notice_sections(story, count, minutes, meta, already))
+            if ok:
+                self.state.add_sent(title, "ترند", 95, self.now)
+            return ok
+
+        if story.get("alerted") or not use_llm:
+            return notice(bool(story.get("alerted")))
+        own = {it.source for it in c.items}
+        extra = [f"## 🔥 این خبر ترند شده: {count} منبع مختلف در {minutes} دقیقه پوششش دادن",
+                 "تیتر منابع دیگر:"]
+        extra += [f"- {x['s']}: {x['t']}" for x in story["titles"] if x["s"] not in own][:8]
+        extra.append("اگر خبر هنوز رسماً تأیید نشده، در پست صریح بگو «ادعا»ست و منبعش کیه.")
+        try:
+            result = self.llm.json_call(self.model("writer"), self.cfg.build_prompt("writer.md"),
+                                        self.writer_user(c, "", extra), max_tokens=3000,
+                                        mock=lambda: mocks.writer(c.rep.title))
+        except Exception as exc:  # noqa: BLE001
+            log.error("trend writer failed: %s", exc)
+            result = None
+        if not isinstance(result, dict) or result.get("should_post") is False:
+            return notice(False)
+        sections = alert_sections(result, label=f"🔥 ترند · {fa(count)} منبع در {fa(minutes)} دقیقه",
+                                  meta_line=meta, sources_html=story_sources_line(story))
+        return self._deliver(sections, result, "ترند", 95, fallback_headline=title)
+
     # ───────────────────────── news alerts ─────────────────────────
     def process_alerts(self, scored: list[Cluster]) -> None:
         f = self.cfg.get("filters", {}) or {}
@@ -223,7 +294,7 @@ class Radar:
         quiet = self.is_quiet()
         sent_now = 0
         for c in scored:
-            if c.score < min_s or c.novelty == "repeat":
+            if id(c) in self.handled or c.score < min_s or c.novelty == "repeat":
                 continue
             if sent_now >= per_run or daily["alerts"] >= cap:
                 break
@@ -235,6 +306,10 @@ class Radar:
             if self.send_alert(c):
                 sent_now += 1
                 daily["alerts"] += 1
+                self.handled.add(id(c))
+                story = self.cluster_story.get(id(c))
+                if story is not None:
+                    story["alerted"] = True
         self.stats["alerts"] = sent_now
 
     def verify(self, c: Cluster) -> str:
@@ -255,7 +330,7 @@ class Radar:
             return ""
         return truncate(note, 900)
 
-    def writer_user(self, c: Cluster, verification: str) -> str:
+    def writer_user(self, c: Cluster, verification: str, extra: list[str] | None = None) -> str:
         rep = c.rep
         lines = [
             f"زمان فعلی تهران: {self.tehran(self.now)} ({self.local_date})",
@@ -270,6 +345,8 @@ class Radar:
         if others:
             lines += ["", "## گزارش‌های دیگر از همین خبر"]
             lines += [f"- {it.source}: {truncate((it.title + ' — ' + it.text).strip(' —'), 400)}" for it in others]
+        if extra:
+            lines += [""] + extra
         if c.only_competitors:
             lines.append("\n⚠️ این خبر فقط از کانال رقیب آمده؛ متنش را کپی نکن و اگر منبع اصلی معلوم نیست، "
                          "آن را تک‌منبعی و تأییدنشده حساب کن.")
@@ -437,7 +514,8 @@ class Radar:
         if not morning:
             daily = self.state.daily(self.local_date)
             cost = daily.get("usd", 0.0) + (self._llm.cost_usd() if self._llm else 0.0)
-            extra_lines = [f"📟 <b>گزارش رادار:</b> {fa(daily.get('alerts', 0))} هشدار خبری امروز · "
+            extra_lines = [f"📟 <b>گزارش رادار:</b> {fa(daily.get('alerts', 0))} هشدار خبری و "
+                           f"{fa(daily.get('trends', 0))} ترند امروز · "
                            f"هزینه‌ی تقریبی API امروز: ${cost:.2f}"]
             broken = self.state.broken_sources()
             if broken:

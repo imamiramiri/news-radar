@@ -133,3 +133,28 @@ def calendar_section(ev: dict, minutes_left: int, local_time: str, hint: str) ->
     lines.append(f"💡 {esc(hint)}")
     lines.append("<i>بعد از انتشار، اگه عدد سورپرایز باشه، خبرش با تحلیل میاد.</i>")
     return ["\n".join(lines)]
+
+
+def trend_notice_sections(story: dict, count: int, minutes: int, meta_line: str,
+                          already_covered: bool) -> list[str]:
+    """Short trend alert that needs no model call."""
+    titles = story.get("titles") or []
+    head = (f"🔥 <b>ترند شد</b> · {fa(count)} منبع در {fa(minutes)} دقیقه\n"
+            f"<b>{esc(titles[0]['t'] if titles else '')}</b>")
+    rows = []
+    for t in titles[:6]:
+        src = (f'<a href="{html.escape(t["u"], quote=True)}">{esc(t["s"])}</a>'
+               if t.get("u") else esc(t["s"]))
+        rows.append(f"• {src}: {esc(t['t'])}")
+    body = "\n".join(rows)
+    note = ("قبلاً تحلیل این خبر رو فرستادم؛ این فقط یعنی الان همه دارن پوشش‌ش میدن."
+            if already_covered else
+            "تحلیل کامل در دسترس نبود. تا تأیید رسمی، با کلمهٔ «ادعا» پوشش بده.")
+    return [head, body, f"<i>{esc(note)}</i>\n<i>{esc(meta_line)}</i>"]
+
+
+def story_sources_line(story: dict) -> str:
+    links = []
+    for t in (story.get("titles") or [])[:6]:
+        links.append(f'<a href="{html.escape(t["u"], quote=True)}">{esc(t["s"])}</a>' if t.get("u") else esc(t["s"]))
+    return "🔗 منابع: " + "، ".join(links)

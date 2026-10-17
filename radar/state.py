@@ -20,7 +20,8 @@ DEFAULT = {
     "calendar": {"fetched_at": None, "events": [], "notified": []},
     "source_health": {},    # label -> {fail_streak, last_ok, last_error}
     "llm_fail_streak": 0,
-    "daily": {},            # local date -> {alerts, usd}
+    "daily": {},            # local date -> {alerts, trends, usd}
+    "stories": [],          # recent stories across runs, for trend detection
 }
 
 

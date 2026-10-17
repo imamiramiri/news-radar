@@ -192,3 +192,83 @@ def test_quiet_hours_hold_back_and_morning_brief(tmp_path, capsys):
     assert "بریف صبح" in out2
     assert radar2.state.data["pending_quiet"] == []
     assert radar2.state.data["briefs"]["morning"] == "2026-10-15"
+
+
+# ───────────────────────── trends («ترند») ─────────────────────────
+from radar.trends import trend_window  # noqa: E402
+
+
+def _rss(items) -> str:
+    rows = []
+    for title, publisher, domain, ts in items:
+        rows.append(f"<item><title>{title} - {publisher}</title><link>https://{domain}/n/{abs(hash(title))}</link>"
+                    f"<pubDate>{ts.strftime('%a, %d %b %Y %H:%M:%S GMT')}</pubDate>"
+                    f"<source url=\"https://{domain}\">{publisher}</source></item>")
+    return f"<?xml version='1.0' encoding='UTF-8'?><rss version='2.0'><channel><title>g</title>{''.join(rows)}</channel></rss>"
+
+
+class NewsSession(FakeSession):
+    """Google-News-only fake web: each site returns the items already published at `now`."""
+
+    def __init__(self, articles, now):
+        super().__init__(event_minutes=10_000)
+        self.articles, self.now = articles, now
+
+    def get(self, url, params=None, timeout=None):
+        if "news.google.com" in url:
+            hits = [a for a in self.articles if a[2] in url and a[3] <= self.now]
+            return FakeResp(text=_rss(hits))
+        return FakeResp(status=404, text="not found")
+
+
+SITES = ["shahraranews.ir", "rouydad24.ir", "khabarfoori.com", "imna.ir", "fararu.com", "tejaratnews.com"]
+UTC = timezone.utc
+UAE_STORY = [  # today's real headlines, with their real publication times (Tehran = UTC+3:30)
+    ("پرواز هواپیمای سلطنتی امارات در آسمان تهران", "شهرآرانیوز", "shahraranews.ir", datetime(2026, 10, 17, 14, 45, tzinfo=UTC)),
+    ("گزارش‌ها از حضور یک هواپیمای تشریفاتی اماراتی در تهران", "رویداد۲۴", "rouydad24.ir", datetime(2026, 10, 17, 16, 31, tzinfo=UTC)),
+    ("ادعای برخی منابع خبری درباره ورود یک فروند هواپیمای حامل مقامات امارات به تهران", "خبرفوری", "khabarfoori.com", datetime(2026, 10, 17, 16, 35, tzinfo=UTC)),
+    ("هواپیمای سلطنتی امارات در تهران", "ایمنا", "imna.ir", datetime(2026, 10, 17, 16, 42, tzinfo=UTC)),
+    ("فرود یک هواپیمای تشریفاتی اماراتی در تهران", "فرارو", "fararu.com", datetime(2026, 10, 17, 17, 20, tzinfo=UTC)),
+]
+
+
+def _trend_radar(root, now, articles):
+    radar, tg = make_radar(root, now=now, session=NewsSession(articles, now))
+    radar.cfg.sources = {"google_news": [{"query": f"site:{d} when:2h", "lang": "fa", "name": d} for d in SITES]}
+    return radar
+
+
+def test_trend_window():
+    t0 = datetime(2026, 1, 1, 12, 0, tzinfo=UTC)
+    times = {"a": t0, "b": t0 + timedelta(minutes=100), "c": t0 + timedelta(minutes=110),
+             "d": t0 + timedelta(minutes=125)}
+    count, start, end = trend_window(times, timedelta(minutes=60))
+    assert count == 3 and start == times["b"] and end == times["d"]
+
+
+def test_trend_builds_across_runs_and_alerts_once(tmp_path, capsys):
+    root = make_root(tmp_path)
+    run_times = [datetime(2026, 10, 17, h, m, tzinfo=UTC) for h, m in ((15, 7), (16, 37), (17, 7), (17, 37))]
+    outputs = []
+    for t in run_times:
+        r = _trend_radar(root, t, UAE_STORY)
+        stats = r.run()
+        outputs.append((stats["trends"], capsys.readouterr().out))
+    assert [o[0] for o in outputs] == [0, 0, 1, 0], [o[0] for o in outputs]
+    assert "🔥 ترند" in outputs[2][1] and "۳ منبع در ۱۱ دقیقه" in outputs[2][1]
+    state = json.loads((root / "state" / "state.json").read_text(encoding="utf-8"))
+    uae = [s for s in state["stories"] if "فرارو" in s["sources"]]
+    assert len(uae) == 1 and len(uae[0]["sources"]) == 5 and uae[0]["trend_at"]
+
+
+def test_routine_price_headlines_never_trend(tmp_path, capsys):
+    root = make_root(tmp_path)
+    base = datetime(2026, 10, 17, 6, 0, tzinfo=UTC)
+    routine = [
+        ("قیمت دلار امروز شنبه ۲۵ مهر ۱۴۰۵؛ دلار به ۲۶۳ هزار تومان برگشت", "رویداد۲۴", "rouydad24.ir", base),
+        ("قیمت دلار امروز ۲۵ مهر ۱۴۰۵ کاهش یافت؛ دلار به ۲۶۳ هزار تومان برگشت", "فرارو", "fararu.com", base + timedelta(minutes=5)),
+        ("قیمت دلار امروز شنبه ۲۵ مهر؛ دلار ۲۶۳ هزار تومان برگشت", "تجارت‌نیوز", "tejaratnews.com", base + timedelta(minutes=9)),
+    ]
+    stats = _trend_radar(root, base + timedelta(minutes=20), routine).run()
+    capsys.readouterr()
+    assert stats["trends"] == 0
