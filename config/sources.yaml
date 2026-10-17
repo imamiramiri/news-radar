@@ -46,7 +46,7 @@ rss:
   - {url: "https://www.cnbc.com/id/20910258/device/rss/rss.html",    name: "CNBC Economy",    lang: en, kind: macro, weight: 0.9}
   - {url: "https://feeds.bbci.co.uk/news/business/rss.xml",          name: "BBC Business",    lang: en, kind: macro, weight: 0.8}
   - {url: "https://www.federalreserve.gov/feeds/press_all.xml",      name: "Federal Reserve", lang: en, kind: official, weight: 1.2}
-  - {url: "https://www.fxstreet.com/rss",                            name: "FXStreet",        lang: en, kind: macro, weight: 0.8, enabled: flase}
+  - {url: "https://www.fxstreet.com/rss",                            name: "FXStreet",        lang: en, kind: macro, weight: 0.8, enabled: false}
   - {url: "https://oilprice.com/rss/main",                           name: "OilPrice",        lang: en, kind: macro, weight: 0.8}
   # کریپتو
   - {url: "https://www.coindesk.com/arc/outboundfeeds/rss/",         name: "CoinDesk",        lang: en, kind: crypto, weight: 0.8}
