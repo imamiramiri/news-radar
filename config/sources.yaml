@@ -56,7 +56,14 @@ rss:
   - {url: "https://www.khabaronline.ir/rss",                         name: "خبرآنلاین (سایت)",  lang: fa, kind: news, weight: 0.9}
   - {url: "https://www.isna.ir/rss",                                 name: "ایسنا (سایت)",      lang: fa, kind: news, weight: 0.9}
   - {url: "https://www.mehrnews.com/rss",                            name: "مهر (سایت)",        lang: fa, kind: news, weight: 0.8}
-
+    # سایت‌های خبری پربازدید (برای قانون ترند)
+  - {url: "https://www.tabnak.ir/fa/rss/allnews",     name: "تابناک",         lang: fa, kind: news, weight: 0.8}
+  - {url: "https://www.rouydad24.ir/fa/rss/allnews",  name: "رویداد۲۴",       lang: fa, kind: news, weight: 0.8}
+  - {url: "https://www.asriran.com/fa/rss/allnews",   name: "عصرایران",       lang: fa, kind: news, weight: 0.9}
+  - {url: "https://fararu.com/fa/rss/allnews",        name: "فرارو",          lang: fa, kind: news, weight: 0.9}
+  - {url: "https://shahraranews.ir/fa/rss/allnews",   name: "شهرآرانیوز",     lang: fa, kind: news, weight: 0.8}
+  - {url: "https://www.khabarfoori.com/rss",          name: "خبرفوری (سایت)", lang: fa, kind: news, weight: 0.9}
+  
 # ─── جست‌وجوی گوگل‌نیوز (RSS) ───
 # برای منابعی که RSS عمومی ندارن (رویترز) یا از خارج ایران بسته‌ان (سایت‌های اقتصادی ایران).
 # when:3h یعنی فقط ۳ ساعت اخیر.
