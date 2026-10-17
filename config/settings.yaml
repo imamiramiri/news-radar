@@ -23,11 +23,11 @@ time:
   user_timezone: "Asia/Tehran"      # ساعت خودتون (برای ساعت سکوت). مثلاً Europe/Berlin یا Europe/Amsterdam
 
 models:
-  triage: "claude-haiku-5-5"        # غربال سریع و ارزان همه‌ی خبرها
-  verify: "claude-haiku-5-5"        # راستی‌آزمایی با جست‌وجوی وب
-  writer: "claude-sonnet-5-5"       # تحلیل و نوشتن پست. برای کیفیت بالاتر: claude-opus-5-5
-  brief: "claude-sonnet-5-5"        # بریف صبح و جمع‌بندی شب
-
+  triage: "CLAUDE_6_5_HAIKU"        # غربال سریع و ارزان همه‌ی خبرها
+  verify: "CLAUDE_6_5_HAIKU"        # راستی‌آزمایی با جست‌وجوی وب
+  writer: "CLAUDE_SONNET_5_5"       # تحلیل و نوشتن پست. برای کیفیت بالاتر: CLAUDE_OPUS_5_5
+  brief: "CLAUDE_SONNET_5_5"        # بریف صبح و جمع‌بندی شب
+  
 filters:
   lookback_hours: 3                 # فقط خبرهای چند ساعت اخیر بررسی میشن
   min_score: 72                     # آستانه‌ی ارسال (۰ تا ۱۰۰). زیادی پیام میاد؟ بیشترش کنید
@@ -77,7 +77,7 @@ telegram:
 
 # قیمت‌ها برای تخمین هزینه (دلار به ازای یک میلیون توکن: [ورودی، خروجی])
 pricing_usd_per_mtok:
-  claude-haiku-5-5: [0.10, 0.50]
-  claude-sonnet-5-5: [2.00, 10.00]
-  claude-opus-5-5: [4.00, 20.00]
+  CLAUDE_6_5_HAIKU: [0.10, 0.50]
+  CLAUDE_SONNET_5_5: [2.00, 10.00]
+  CLAUDE_OPUS_5_5: [4.00, 20.00]
 web_search_usd_per_1k: 10
