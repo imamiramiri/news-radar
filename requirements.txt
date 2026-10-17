@@ -1,0 +1,7 @@
+anthropic>=1.0
+requests>=2.31
+feedparser>=6.0
+beautifulsoup4>=4.12
+PyYAML>=6.0
+python-dotenv>=1.0
+tzdata>=2024.1

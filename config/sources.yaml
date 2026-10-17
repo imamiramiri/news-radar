@@ -1,0 +1,72 @@
+# ═══════════════════════════════════════════════════════════════
+#  منابع «رادار خبر»
+#  - برای حذف موقت یک منبع:  enabled: false
+#  - weight: وزن اعتبار/اهمیت منبع (۰.۵ تا ۱.۲)
+#  - kind: news | official | econ | competitor | crypto | macro
+#  - بعد از هر تغییر، دستور check-sources رو اجرا کنید تا ببینید کدوم کار می‌کنه
+# ═══════════════════════════════════════════════════════════════
+
+# ─── کانال‌های عمومی تلگرام (از طریق پیش‌نمایش وب t.me/s/...) ───
+# سریع‌ترین منبع خبر فوری ایران. یوزرنیم بدون @ نوشته میشه.
+telegram:
+  - {username: akhbarefori,     name: "اخبار فوری",        lang: fa, kind: news,       weight: 1.0}   # ✔ تأییدشده
+  - {username: Tasnimnews,      name: "تسنیم",             lang: fa, kind: news,       weight: 0.9}
+  - {username: farsna,          name: "فارس",              lang: fa, kind: news,       weight: 0.9}
+  - {username: irna_1313,       name: "ایرنا",             lang: fa, kind: official,   weight: 0.9}
+  - {username: isna94,          name: "ایسنا",             lang: fa, kind: news,       weight: 0.9}   # ✔ تأییدشده
+  - {username: khabaronline_ir, name: "خبرآنلاین",         lang: fa, kind: news,       weight: 0.9}   # ✔ تأییدشده
+  - {username: tejaratnews,     name: "تجارت‌نیوز",        lang: fa, kind: econ,       weight: 1.0}
+  - {username: bbcpersian,      name: "بی‌بی‌سی فارسی",    lang: fa, kind: news,       weight: 1.0}
+  - {username: iranintltv,      name: "ایران اینترنشنال",  lang: fa, kind: news,       weight: 0.9}
+  - {username: RadioFarda,      name: "رادیو فردا",        lang: fa, kind: news,       weight: 0.9}
+  - {username: VahidOnline,     name: "وحید آنلاین",       lang: fa, kind: news,       weight: 0.8}
+  # تیتر لحظه‌ای بازارهای جهانی (خیلی پرحجم؛ جای خالی X/توییتر رو تا حدی پر می‌کنه)
+  - {username: FinancialJuice,  name: "FinancialJuice",    lang: en, kind: macro,      weight: 0.9}   # ✔ تأییدشده
+  # رقبا: فقط برای «تشخیص ترند». متن‌شون هیچ‌وقت کپی نمیشه.
+  - {username: eco_ehsan,       name: "اکواحسان (رقیب)",   lang: fa, kind: competitor, weight: 0.6}   # ✔ تأییدشده
+  - {username: rastad,          name: "راستاد (رقیب)",     lang: fa, kind: competitor, weight: 0.6}   # ✔ تأییدشده
+  - {username: fx_aradt,        name: "fx_arad (رقیب)",    lang: fa, kind: competitor, weight: 0.6}   # ✔ تأییدشده
+
+# ─── فیدهای RSS ───
+rss:
+  # بین‌الملل: سیاست و خاورمیانه
+  - {url: "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml", name: "BBC Middle East", lang: en, kind: news, weight: 1.0}
+  - {url: "https://feeds.bbci.co.uk/news/world/rss.xml",             name: "BBC World",       lang: en, kind: news, weight: 0.9}
+  - {url: "https://www.aljazeera.com/xml/rss/all.xml",               name: "Al Jazeera",      lang: en, kind: news, weight: 0.9}
+  - {url: "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml", name: "NYT Middle East", lang: en, kind: news, weight: 0.9}
+  - {url: "https://www.timesofisrael.com/feed/",                     name: "Times of Israel", lang: en, kind: news, weight: 0.8}
+  # بین‌الملل: اقتصاد و بازار
+  - {url: "https://www.bloomberg.com/feeds/markets/news.rss",        name: "Bloomberg Markets", lang: en, kind: macro, weight: 1.1}   # ✔
+  - {url: "https://www.bloomberg.com/feeds/economics/news.rss",      name: "Bloomberg Economics", lang: en, kind: macro, weight: 1.0}   # ✔
+  - {url: "https://www.bloomberg.com/feeds/politics/news.rss",       name: "Bloomberg Politics", lang: en, kind: news, weight: 1.0}   # ✔
+  - {url: "https://feeds.a.dj.com/rss/RSSMarketsMain.xml",           name: "WSJ Markets",     lang: en, kind: macro, weight: 1.0}
+  - {url: "https://feeds.a.dj.com/rss/RSSWorldNews.xml",             name: "WSJ World",       lang: en, kind: news, weight: 1.0}
+  - {url: "https://feeds.content.dowjones.io/public/rss/mw_realtimeheadlines", name: "MarketWatch", lang: en, kind: macro, weight: 0.9}
+  - {url: "https://www.cnbc.com/id/100003114/device/rss/rss.html",   name: "CNBC Top News",   lang: en, kind: macro, weight: 0.9}
+  - {url: "https://www.cnbc.com/id/20910258/device/rss/rss.html",    name: "CNBC Economy",    lang: en, kind: macro, weight: 0.9}
+  - {url: "https://feeds.bbci.co.uk/news/business/rss.xml",          name: "BBC Business",    lang: en, kind: macro, weight: 0.8}
+  - {url: "https://www.federalreserve.gov/feeds/press_all.xml",      name: "Federal Reserve", lang: en, kind: official, weight: 1.2}
+  - {url: "https://www.fxstreet.com/rss/news",                       name: "FXStreet",        lang: en, kind: macro, weight: 0.8}
+  - {url: "https://oilprice.com/rss/main",                           name: "OilPrice",        lang: en, kind: macro, weight: 0.8}
+  # کریپتو
+  - {url: "https://www.coindesk.com/arc/outboundfeeds/rss/",         name: "CoinDesk",        lang: en, kind: crypto, weight: 0.8}
+  - {url: "https://cointelegraph.com/rss",                           name: "Cointelegraph",   lang: en, kind: crypto, weight: 0.7}
+  # سایت‌های ایرانی (بعضی‌ها ممکنه از خارج ایران بسته باشن؛ check-sources نشون میده)
+  - {url: "https://tejaratnews.com/feed",                            name: "تجارت‌نیوز (سایت)", lang: fa, kind: econ, weight: 1.0}
+  - {url: "https://www.khabaronline.ir/rss",                         name: "خبرآنلاین (سایت)",  lang: fa, kind: news, weight: 0.9}
+  - {url: "https://www.isna.ir/rss",                                 name: "ایسنا (سایت)",      lang: fa, kind: news, weight: 0.9}
+  - {url: "https://www.mehrnews.com/rss",                            name: "مهر (سایت)",        lang: fa, kind: news, weight: 0.8}
+
+# ─── جست‌وجوی گوگل‌نیوز (RSS) ───
+# برای منابعی که RSS عمومی ندارن (رویترز) یا از خارج ایران بسته‌ان (سایت‌های اقتصادی ایران).
+# when:3h یعنی فقط ۳ ساعت اخیر.
+google_news:
+  - {query: "site:reuters.com (Iran OR oil OR Fed OR gold OR Hormuz) when:3h", lang: en, name: "Reuters", kind: news, weight: 1.2}
+  - {query: "Iran (sanctions OR talks OR nuclear OR strike OR Hormuz) when:3h", lang: en, name: "Iran (EN)", kind: news, weight: 1.0}
+  - {query: "(gold price OR oil prices OR Federal Reserve OR dollar index) when:2h", lang: en, name: "Markets (EN)", kind: macro, weight: 0.9}
+  - {query: "(دلار OR طلا OR سکه OR تتر) when:2h", lang: fa, name: "بازار ارز و طلا", kind: econ, weight: 1.0}
+  - {query: "site:eghtesadnews.com when:3h",    lang: fa, name: "اقتصادنیوز",    kind: econ, weight: 1.0}
+  - {query: "site:donya-e-eqtesad.com when:3h", lang: fa, name: "دنیای اقتصاد",  kind: econ, weight: 1.0}
+  - {query: "site:ecoiran.com when:3h",         lang: fa, name: "اکوایران",      kind: econ, weight: 0.9}
+  - {query: "(مذاکره OR تحریم OR اسنپ‌بک OR آژانس) ایران when:3h", lang: fa, name: "سیاست خارجی", kind: news, weight: 1.0}
+  - {query: "(بانک مرکزی OR بنزین OR کالابرگ OR یارانه OR قیمت خودرو) when:4h", lang: fa, name: "معیشت و سیاست‌گذاری", kind: econ, weight: 0.9}
