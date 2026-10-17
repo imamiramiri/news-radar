@@ -1595,10 +1595,25 @@
     "gold18_intrinsic": 26635886.182423204,
     "coin_intrinsic": 259955594.78597745
    }
+  },
+  {
+   "ts": "2026-10-17T17:00:41+00:00",
+   "values": {
+    "gold_ounce": 4181.1,
+    "brent": 109.86,
+    "dxy": 101.779,
+    "btc": 81150.48,
+    "spx_fut": 7704.25,
+    "usdt_irt": 263626.0,
+    "gold18_intrinsic": 26578520.148857847,
+    "coin_intrinsic": 259395725.24479303
+   }
   }
  ],
  "market_alert_last": {},
- "briefs": {},
+ "briefs": {
+  "morning": "2026-10-17"
+ },
  "calendar": {
   "fetched_at": "2026-10-17T15:09:51+00:00",
   "events": [
@@ -1927,7 +1942,7 @@
  "daily": {
   "2026-10-17": {
    "alerts": 4,
-   "usd": 0.0584
+   "usd": 0.0672
   }
  }
 }
