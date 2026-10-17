@@ -1,0 +1,64 @@
+# رادار خبر: هر ۳۰ دقیقه اجرا میشه (دقیقه‌ی ۷ و ۳۷ هر ساعت، به وقت UTC)
+name: News Radar
+
+on:
+  schedule:
+    - cron: "7,37 * * * *"
+  workflow_dispatch:
+    inputs:
+      command:
+        description: "دستور"
+        type: choice
+        default: run
+        options:
+          - run
+          - check-sources
+          - test-telegram
+          - chat-id
+          - prices
+          - brief morning
+          - brief evening
+
+permissions:
+  contents: write
+
+concurrency:
+  group: news-radar
+  cancel-in-progress: false
+
+jobs:
+  radar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install
+        run: pip install -r requirements.txt
+
+      - name: Run radar
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          PYTHONUNBUFFERED: "1"
+        run: python -m radar ${{ github.event.inputs.command || 'run' }}
+
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "news-radar-bot"
+          git config user.email "news-radar-bot@users.noreply.github.com"
+          git add state/state.json
+          if git diff --cached --quiet; then exit 0; fi
+          git commit -m "state: update [skip ci]"
+          for i in 1 2 3; do
+            git pull --rebase -X theirs --quiet && git push --quiet && exit 0
+            sleep 5
+          done
+          echo "could not push state" && exit 1
