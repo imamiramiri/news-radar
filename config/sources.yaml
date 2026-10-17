@@ -10,7 +10,7 @@
 # سریع‌ترین منبع خبر فوری ایران. یوزرنیم بدون @ نوشته میشه.
 telegram:
   - {username: akhbarefori,     name: "اخبار فوری",        lang: fa, kind: news,       weight: 1.0}   # ✔ تأییدشده
-  - {username: Tasnimnews,      name: "تسنیم",             lang: fa, kind: news,       weight: 0.9}
+  - {username: Tasnimnews,      name: "تسنیم",             lang: fa, kind: news,       weight: 0.9, enabled: false}
   - {username: farsna,          name: "فارس",              lang: fa, kind: news,       weight: 0.9}
   - {username: irna_1313,       name: "ایرنا",             lang: fa, kind: official,   weight: 0.9}
   - {username: isna94,          name: "ایسنا",             lang: fa, kind: news,       weight: 0.9}   # ✔ تأییدشده
@@ -34,7 +34,7 @@ rss:
   - {url: "https://feeds.bbci.co.uk/news/world/rss.xml",             name: "BBC World",       lang: en, kind: news, weight: 0.9}
   - {url: "https://www.aljazeera.com/xml/rss/all.xml",               name: "Al Jazeera",      lang: en, kind: news, weight: 0.9}
   - {url: "https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml", name: "NYT Middle East", lang: en, kind: news, weight: 0.9}
-  - {url: "https://www.timesofisrael.com/feed/",                     name: "Times of Israel", lang: en, kind: news, weight: 0.8}
+  - {url: "https://www.timesofisrael.com/feed/",                     name: "Times of Israel", lang: en, kind: news, weight: 0.8, enabled: false}
   # بین‌الملل: اقتصاد و بازار
   - {url: "https://www.bloomberg.com/feeds/markets/news.rss",        name: "Bloomberg Markets", lang: en, kind: macro, weight: 1.1}   # ✔
   - {url: "https://www.bloomberg.com/feeds/economics/news.rss",      name: "Bloomberg Economics", lang: en, kind: macro, weight: 1.0}   # ✔
@@ -46,7 +46,7 @@ rss:
   - {url: "https://www.cnbc.com/id/20910258/device/rss/rss.html",    name: "CNBC Economy",    lang: en, kind: macro, weight: 0.9}
   - {url: "https://feeds.bbci.co.uk/news/business/rss.xml",          name: "BBC Business",    lang: en, kind: macro, weight: 0.8}
   - {url: "https://www.federalreserve.gov/feeds/press_all.xml",      name: "Federal Reserve", lang: en, kind: official, weight: 1.2}
-  - {url: "https://www.fxstreet.com/rss/news",                       name: "FXStreet",        lang: en, kind: macro, weight: 0.8}
+  - {url: "https://www.fxstreet.com/rss",                            name: "FXStreet",        lang: en, kind: macro, weight: 0.8}
   - {url: "https://oilprice.com/rss/main",                           name: "OilPrice",        lang: en, kind: macro, weight: 0.8}
   # کریپتو
   - {url: "https://www.coindesk.com/arc/outboundfeeds/rss/",         name: "CoinDesk",        lang: en, kind: crypto, weight: 0.8}
