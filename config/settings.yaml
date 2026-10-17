@@ -38,7 +38,7 @@ filters:
   similarity_threshold: 0.6         # تشخیص یک خبر از چند منبع (۰ تا ۱)
 
 verification:
-  enabled: true                     # خبرهای تک‌منبعی مهم با جست‌وجوی وب چک میشن
+  enabled: false                     # خبرهای تک‌منبعی مهم با جست‌وجوی وب چک میشن
   min_score: 75
   only_single_source: true
   max_searches: 3
