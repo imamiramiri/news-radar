@@ -6475,7 +6475,26 @@
   "tg:IranintlTV/362891": "2026-10-18T21:48:33+00:00",
   "tg:IranintlTV/362892": "2026-10-18T21:48:33+00:00",
   "tg:bbcpersian/293589": "2026-10-18T21:48:33+00:00",
-  "tg:farsna/469279": "2026-10-18T21:48:33+00:00"
+  "tg:farsna/469279": "2026-10-18T21:48:33+00:00",
+  "google_news:c8f0e9d04da3745e": "2026-10-18T22:00:41+00:00",
+  "google_news:ea53c9b0da9d45ff": "2026-10-18T22:00:41+00:00",
+  "google_news:28a52fd15d1d0d0d": "2026-10-18T22:00:41+00:00",
+  "rss:aa263e63af08e05c": "2026-10-18T22:00:41+00:00",
+  "google_news:add186acd6ffef91": "2026-10-18T22:00:41+00:00",
+  "tg:IranintlTV/362893": "2026-10-18T22:00:41+00:00",
+  "tg:IranintlTV/362894": "2026-10-18T22:00:41+00:00",
+  "tg:IranintlTV/362895": "2026-10-18T22:00:41+00:00",
+  "rss:3ec531f2a6ea7407": "2026-10-18T22:00:41+00:00",
+  "google_news:14d6cf5f1129cc8d": "2026-10-18T22:00:41+00:00",
+  "rss:6bb80c22e57a0963": "2026-10-18T22:00:41+00:00",
+  "tg:bbcpersian/293590": "2026-10-18T22:00:41+00:00",
+  "tg:khabaronline_ir/665122": "2026-10-18T22:00:41+00:00",
+  "tg:irna_1313/463709": "2026-10-18T22:00:41+00:00",
+  "google_news:9ef8aae8c341fa73": "2026-10-18T22:00:41+00:00",
+  "tg:farsna/469280": "2026-10-18T22:00:41+00:00",
+  "rss:79ac1b7052e31221": "2026-10-18T22:00:41+00:00",
+  "tg:farsna/469281": "2026-10-18T22:00:41+00:00",
+  "tg:bbcpersian/293591": "2026-10-18T22:00:41+00:00"
  },
  "sent": [
   {
@@ -11838,23 +11857,60 @@
    "source": "fx_arad (رقیب)",
    "score": 55,
    "category": "ژئوپلیتیک"
+  },
+  {
+   "ts": "2026-10-18T22:00:41+00:00",
+   "title": "US Says it Struck Iranian Military Sites, Tehran Responds with Air Base Attack",
+   "source": "EnergyNow.com",
+   "score": 75,
+   "category": "ژئوپلیتیک"
+  },
+  {
+   "ts": "2026-10-18T22:00:41+00:00",
+   "title": "[ویدیو] مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «نتانیاهو با اعلام دکترین امنیتی جدید اسرائیل گفت من به نهادهای امنیتی و اطلاعاتی دستور داده‌ام که جمهو…",
+   "source": "ایران اینترنشنال",
+   "score": 72,
+   "category": "ژئوپلیتیک"
+  },
+  {
+   "ts": "2026-10-18T22:00:41+00:00",
+   "title": "[ویدیو] 🔻اکتبر ماه اطلاع رسانی درباره سرطان پستان است. همزمان با جنگ ایران و آمریکا دسترسی به داروهای مرتبط با سرطان سخت‌تر شده است. بر اساس گزارش‌ها کمبود و گ…",
+   "source": "بی‌بی‌سی فارسی",
+   "score": 65,
+   "category": "معیشت"
+  },
+  {
+   "ts": "2026-10-18T22:00:41+00:00",
+   "title": "[ویدیو] 🔻مجلس ایران در جلسه‌ای مجازی به مهرداد اخلاقی به‌ عنوان وزیر تازه دفاع رای اعتماد داد. او از مدیران با سابقه وزارت دفاع در حوزه موشکی است. در تحریم‌های…",
+   "source": "بی‌بی‌سی فارسی",
+   "score": 62,
+   "category": "ژئوپلیتیک"
+  },
+  {
+   "ts": "2026-10-18T22:00:41+00:00",
+   "title": "Iran threatens Gulf AI infrastructure amid US tensions",
+   "source": "JFeed",
+   "score": 60,
+   "category": "ژئوپلیتیک"
   }
  ],
- "pending_quiet": [],
- "price_history": [
+ "pending_quiet": [
   {
-   "ts": "2026-10-17T15:52:49+00:00",
-   "values": {
-    "gold_ounce": 4181.1,
-    "brent": 109.86,
-    "dxy": 101.779,
-    "btc": 81263.57,
-    "spx_fut": 7704.25,
-    "usdt_irt": 263979.0,
-    "gold18_intrinsic": 26614109.269857094,
-    "coin_intrinsic": 259743060.83009726
-   }
+   "ts": "2026-10-18T22:00:41+00:00",
+   "title": "US Says it Struck Iranian Military Sites, Tehran Responds with Air Base Attack",
+   "source": "EnergyNow.com",
+   "score": 75,
+   "category": "ژئوپلیتیک"
   },
+  {
+   "ts": "2026-10-18T22:00:41+00:00",
+   "title": "[ویدیو] مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «نتانیاهو با اعلام دکترین امنیتی جدید اسرائیل گفت من به نهادهای امنیتی و اطلاعاتی دستور داده‌ام که جمهو…",
+   "source": "ایران اینترنشنال",
+   "score": 72,
+   "category": "ژئوپلیتیک"
+  }
+ ],
+ "price_history": [
   {
    "ts": "2026-10-17T16:40:40+00:00",
    "values": {
@@ -12218,6 +12274,19 @@
     "gold18_intrinsic": 26411160.54302571,
     "coin_intrinsic": 257762362.43571368
    }
+  },
+  {
+   "ts": "2026-10-18T22:00:41+00:00",
+   "values": {
+    "gold_ounce": 4181.1,
+    "brent": 109.86,
+    "dxy": 101.779,
+    "btc": 81330.31,
+    "spx_fut": 7704.25,
+    "usdt_irt": 261966.0,
+    "gold18_intrinsic": 26411160.54302571,
+    "coin_intrinsic": 257762362.43571368
+   }
   }
  ],
  "market_alert_last": {},
@@ -12233,12 +12302,12 @@
  "source_health": {
   "FinancialJuice": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "اخبار فوری": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "تسنیم": {
@@ -12248,57 +12317,57 @@
   },
   "ایران اینترنشنال": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "ایسنا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "تجارت‌نیوز": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "رادیو فردا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "وحید آنلاین": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "بی‌بی‌سی فارسی": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "اکواحسان (رقیب)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "ایرنا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "فارس": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "راستاد (رقیب)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "خبرآنلاین": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "Times of Israel": {
@@ -12308,77 +12377,77 @@
   },
   "fx_arad (رقیب)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "Al Jazeera": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "BBC World": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "BBC Middle East": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "Bloomberg Markets": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "MarketWatch": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "WSJ World": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "WSJ Markets": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "Bloomberg Politics": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "NYT Middle East": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "Bloomberg Economics": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "CNBC Economy": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "BBC Business": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "Federal Reserve": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_all.xml"
   },
   "CNBC Top News": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "FXStreet": {
@@ -12388,112 +12457,112 @@
   },
   "Cointelegraph": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "CoinDesk": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · بازار ارز و طلا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · اقتصادنیوز": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · Markets (EN)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · Reuters": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "OilPrice": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · دنیای اقتصاد": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · Iran (EN)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · سیاست خارجی": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · اکوایران": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · معیشت و سیاست‌گذاری": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "مهر (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "ایسنا (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "خبرآنلاین (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "تجارت‌نیوز (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='tejaratnews.com', port=443): Read timed out."
   },
   "رویداد۲۴": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "فرارو": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "عصرایران": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "تابناک": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "شهرآرانیوز": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   },
   "خبرفوری (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-18T21:48:33+00:00",
+   "last_ok": "2026-10-18T22:00:41+00:00",
    "last_error": ""
   }
  },
@@ -12511,7 +12580,7 @@
   },
   "2026-10-19": {
    "alerts": 3,
-   "usd": 0.1783,
+   "usd": 0.179,
    "trends": 10
   }
  },
@@ -12946,7 +13015,7 @@
     "مهر (سایت)": "2026-10-18T17:20:55+00:00"
    },
    "first": "2026-10-18T07:20:28+00:00",
-   "last": "2026-10-18T21:30:36+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
    "trend_at": "2026-10-18T09:31:17+00:00",
    "alerted": true
   },
@@ -13468,7 +13537,7 @@
     "ایرنا": "2026-10-18T21:17:51+00:00"
    },
    "first": "2026-10-18T10:52:47+00:00",
-   "last": "2026-10-18T21:48:33+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -14054,16 +14123,23 @@
      "s": "ایرنا",
      "u": "https://t.me/irna_1313/463707",
      "ts": "2026-10-18T21:43:42+00:00"
+    },
+    {
+     "t": "حمله پهپادی اوکراین به سن‌پترزبورگ روسیه | آتش‌سوزی در پایانه نفتی و انبار سوخت + فیلم (۲۷ مهر ۱۴۰۵)",
+     "s": "شهرآرانیوز",
+     "u": "https://shahraranews.ir/fa/news/453464/حمله-پهپادی-اوکراین-به-سن-پترزبورگ-روسیه-آتش-سوزی-در-پایانه-نفتی-و-انبار-سوخت-فیلم-27-مهر-1405",
+     "ts": "2026-10-18T21:50:30+00:00"
     }
    ],
    "sources": {
     "فارس": "2026-10-18T13:06:28+00:00",
     "اخبار فوری": "2026-10-18T13:10:30+00:00",
     "خبرآنلاین": "2026-10-18T18:30:00+00:00",
-    "ایرنا": "2026-10-18T21:43:42+00:00"
+    "ایرنا": "2026-10-18T21:43:42+00:00",
+    "شهرآرانیوز": "2026-10-18T21:50:30+00:00"
    },
    "first": "2026-10-18T13:06:28+00:00",
-   "last": "2026-10-18T21:48:33+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
    "trend_at": null,
    "alerted": true
   },
@@ -29927,7 +30003,7 @@
     "ایسنا": "2026-10-18T21:00:45+00:00"
    },
    "first": "2026-10-18T19:25:02+00:00",
-   "last": "2026-10-18T21:30:36+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
    "trend_at": "2026-10-18T21:30:36+00:00",
    "alerted": true
   },
@@ -34035,7 +34111,7 @@
     "خبرآنلاین": "2026-10-18T21:18:29+00:00"
    },
    "first": "2026-10-18T21:18:29+00:00",
-   "last": "2026-10-18T21:30:36+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34518,6 +34594,234 @@
    },
    "first": "2026-10-18T21:47:00+00:00",
    "last": "2026-10-18T21:48:33+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "2d1cd180809504d0",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Iran threatens Gulf AI infrastructure amid US tensions",
+     "s": "JFeed",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE02RW1pdFdWYlEwSS04OTBFNF9SMU04b3JxR01GUTFXODQ5eHRmSWYzVUlKYTJ5TXR2ejVlY0tuMVdzLTJ6NTlDTw?oc=5",
+     "ts": "2026-10-18T19:35:00+00:00"
+    }
+   ],
+   "sources": {
+    "JFeed": "2026-10-18T19:35:00+00:00"
+   },
+   "first": "2026-10-18T19:35:00+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "2c635f0626deddf0",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "US Says it Struck Iranian Military Sites, Tehran Responds with Air Base Attack",
+     "s": "EnergyNow.com",
+     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZXBFSTJUZDVqVmk2cllmdWlpUGZ0TGtmZlZYZW1OLWY4c2YzX2ZYSXZIS2hzX1RPZWhXYzh6VXg4UTRuUTB0QjVwdnNoMnhUYmJtZVFsUVRxdFhKYzNISXpXbTF3UjFyVG1FczBrcThVUS1BUnk3cDJvN2J6YnZXNG9kM1k2aFhGZGRxYzVjTWI1MnZWbU85NldTNkdLREVVQnA5ZWpjOG15TG9k?oc=5",
+     "ts": "2026-10-18T20:09:55+00:00"
+    }
+   ],
+   "sources": {
+    "EnergyNow.com": "2026-10-18T20:09:55+00:00"
+   },
+   "first": "2026-10-18T20:09:55+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "f33069ae48d05cba",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "How Terror Networks Exploit Europe’s Financial Regulations to Evade Detection",
+     "s": "Jerusalem Center for Security and Foreign Affairs",
+     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdW52d3Z6ZWtCQjlLTS1XX1ZUTzVHNDdTa0ZjODdtN3pNVDZWT2FvbVROVjJDdUtjakM3di1nd1ZVQko4SW80NHY3NjV0REJraTRhRkxjNk04ZnF0U0JMalhIQVZPbEVNSVBqcnNuSkYxdnZ2ZDh1enZjVG1Dc1daRnlQNnc5aGVFTll0ODc0aHNJTG9yR09sMFl3?oc=5",
+     "ts": "2026-10-18T21:26:28+00:00"
+    }
+   ],
+   "sources": {
+    "Jerusalem Center for Security and Foreign Affairs": "2026-10-18T21:26:28+00:00"
+   },
+   "first": "2026-10-18T21:26:28+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "61ebde59c4630cd6",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Lyon go top after comeback win over Nice",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZUY3eDgzTm5rbXE2UDJNTUJSZkNrMVpSeXJRZHB0OUtkNXRiMDJMWUJyME5ldnRYYWU4UkJXNkI0Y1J0X1lFSDY2b2E5YmtTZXh4RGNUNnNMMlBNQk1ZNmlESVBfaV9SamljV281S1BhamV5d25telRMRlk4Wi1Md2JUT2E0cU1iNlJVTFdfVHY2MTBO?oc=5",
+     "ts": "2026-10-18T21:41:57+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-18T21:41:57+00:00"
+   },
+   "first": "2026-10-18T21:41:57+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "2f846ecbafc7b017",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "[ویدیو] مراد ویسی، تحلیل‌گر ارشد ایران‌اینترنشنال، گفت: «نتانیاهو با اعلام دکترین امنیتی جدید اسرائیل گفت من به نهادهای امنیتی و اطلاعاتی د…",
+     "s": "ایران اینترنشنال",
+     "u": "https://t.me/IranintlTV/362894",
+     "ts": "2026-10-18T21:49:59+00:00"
+    }
+   ],
+   "sources": {
+    "ایران اینترنشنال": "2026-10-18T21:49:59+00:00"
+   },
+   "first": "2026-10-18T21:49:59+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "21c86e83a29dda73",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "کاهش شانس استخدام در دانشگاه با نگارش رساله با هوش‌مصنوعی",
+     "s": "ایسنا (سایت)",
+     "u": "https://www.isna.ir/news/1405072617441/%DA%A9%D8%A7%D9%87%D8%B4-%D8%B4%D8%A7%D9%86%D8%B3-%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-%D8%AF%D8%B1-%D8%AF%D8%A7%D9%86%D8%B4%DA%AF%D8%A7%D9%87-%D8%A8%D8%A7-%D9%86%DA%AF%D8%A7%D8%B1%D8%B4-%D8%B1%D8%B3%D8%A7%D9%84%D9%87-%D8%A8%D8%A7-%D9%87%D9%88%D8%B4-%D9%…",
+     "ts": "2026-10-18T21:50:00+00:00"
+    }
+   ],
+   "sources": {
+    "ایسنا": "2026-10-18T21:50:00+00:00"
+   },
+   "first": "2026-10-18T21:50:00+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "aa56ad2bdc50cd72",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Netanyahu After Trump Endorsement: ‘Together We Will Complete the Mission’ Against Iran",
+     "s": "Breitbart News",
+     "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSktmSWpvMkZSS2xkVUQ5Mlh5Szdza0NweHZMVEJ2d2ZIc3NlckhqSzBydDdTLU1Bc1FJMEc5c2VNNHFzbHlTN2syR18xejE0Xzl3em84dmFPejB3WXFFZFhpVlNMOTVtSnh6X1c5U0p0SkVkdDFpSVI3dXlnWXNRUzNNS2cwNVZCNEFUazNHdnphRnV0UlljUnBMRFRXZ015akhfNVRaVks2ekhaczQzUVkyNTVnTV9ETVlTU0J0WU…",
+     "ts": "2026-10-18T21:50:26+00:00"
+    }
+   ],
+   "sources": {
+    "Breitbart News": "2026-10-18T21:50:26+00:00"
+   },
+   "first": "2026-10-18T21:50:26+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "16e9d5e58d10eb59",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "[ویدیو] 🔻اکتبر ماه اطلاع رسانی درباره سرطان پستان است. همزمان با جنگ ایران و آمریکا دسترسی به داروهای مرتبط با سرطان سخت‌تر شده است. بر اسا…",
+     "s": "بی‌بی‌سی فارسی",
+     "u": "https://t.me/bbcpersian/293590",
+     "ts": "2026-10-18T21:51:33+00:00"
+    }
+   ],
+   "sources": {
+    "بی‌بی‌سی فارسی": "2026-10-18T21:51:33+00:00"
+   },
+   "first": "2026-10-18T21:51:33+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "7e20963c77372ddc",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "[عکس] کشف استخوان‌های نئاندرتال در عراق",
+     "s": "ایرنا",
+     "u": "https://t.me/irna_1313/463709",
+     "ts": "2026-10-18T21:52:23+00:00"
+    }
+   ],
+   "sources": {
+    "ایرنا": "2026-10-18T21:52:23+00:00"
+   },
+   "first": "2026-10-18T21:52:23+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "a4df3eb5b92d4174",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Australia's Challenger gets takeover bid from unit of Japan's Daiichi Life",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaHBxWmpQTnRabkREbWRsWWZPUzZUdkpDWXh1b3M2aWdERGxSMVlLODVaaHlkU0lkSTBaa3dhVVZEcmJPejRfVHpScTRCRXhCZjRHTWxMbzYwYU5IbVpPUzNUdzNDWUlzbFJMWVYzSkFvRlZOMWtxeGk5dlpEWDRtVDRqVmlhSXpFODdqaWlsX1RqOVFUckNHbE1jOVVObE1FdHhrREVMNlZ6dDFuM1ViY19SNll4Q3k2M0pV?oc=5",
+     "ts": "2026-10-18T21:52:52+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-18T21:52:52+00:00"
+   },
+   "first": "2026-10-18T21:52:52+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "c0d5948b3dd9c553",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "[عکس] 🎥 پس از کسب مدال طلای اهورا خاطری، سرود مقدس جمهوری‌اسلامی‌ایران در قلب آمریکا طنین‌انداز شد. @Farsna",
+     "s": "فارس",
+     "u": "https://t.me/farsna/469280",
+     "ts": "2026-10-18T21:55:32+00:00"
+    }
+   ],
+   "sources": {
+    "فارس": "2026-10-18T21:55:32+00:00"
+   },
+   "first": "2026-10-18T21:55:32+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "9d94eda77c758340",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "🥇 ایران با طلای یوسفی، پس از قهرمانی در کشتی فرنگی، در کشتی آزاد هم قهرمان شد.",
+     "s": "فارس",
+     "u": "https://t.me/farsna/469281",
+     "ts": "2026-10-18T21:56:33+00:00"
+    }
+   ],
+   "sources": {
+    "فارس": "2026-10-18T21:56:33+00:00"
+   },
+   "first": "2026-10-18T21:56:33+00:00",
+   "last": "2026-10-18T22:00:41+00:00",
    "trend_at": null,
    "alerted": false
   }
