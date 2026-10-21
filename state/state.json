@@ -19210,7 +19210,17 @@
   "google_news:8f01a7afca53f167": "2026-10-21T01:58:11+00:00",
   "google_news:744096b6ce1ac9a5": "2026-10-21T01:58:11+00:00",
   "tg:bbcpersian/293713": "2026-10-21T01:58:11+00:00",
-  "google_news:e67bc038fb3086fd": "2026-10-21T01:58:11+00:00"
+  "google_news:e67bc038fb3086fd": "2026-10-21T01:58:11+00:00",
+  "google_news:49f77b0f16471302": "2026-10-21T02:00:45+00:00",
+  "google_news:e049bce241eea4cf": "2026-10-21T02:00:45+00:00",
+  "google_news:81fd8fe82b61c921": "2026-10-21T02:00:45+00:00",
+  "google_news:dc422e2d5738a35d": "2026-10-21T02:00:45+00:00",
+  "google_news:f62989b83787c384": "2026-10-21T02:00:45+00:00",
+  "google_news:d270b051ba667967": "2026-10-21T02:00:45+00:00",
+  "tg:IranintlTV/363216": "2026-10-21T02:00:45+00:00",
+  "rss:8fab966095c3ec5e": "2026-10-21T02:00:45+00:00",
+  "rss:87adff0b7cdec27b": "2026-10-21T02:00:45+00:00",
+  "tg:farsna/469724": "2026-10-21T02:00:45+00:00"
  },
  "sent": [
   {
@@ -20784,135 +20794,15 @@
    "headline": "سپاه: دو نفتکش جنوب هرمز با مین آتش گرفتن",
    "category": "انرژی",
    "score": 88
+  },
+  {
+   "ts": "2026-10-21T02:00:45+00:00",
+   "headline": "طلا سر جاشه؛ سیگنال‌های ضدونقیض ایران نرخ بهره رو مبهم کرده",
+   "category": "ترند",
+   "score": 95
   }
  ],
  "pool": [
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "قیمت سکه امروز ۲۷ مهر ۱۴۰۵ در زمان بسته شدن بازار/ سکه کانال ۲۶۶ میلیون تومان قرار گرفت + جدول",
-   "source": "خبرآنلاین (سایت)",
-   "score": 78,
-   "category": "ارز و طلا"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "ادعای ترامپ:ضربات بسیار سخت اقتصادی و نظامی به ایران وارد می‌کنیم",
-   "source": "عصرایران",
-   "score": 76,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "حملات نیروی هوایی آمریکا به پایگاه کنارک!",
-   "source": "تابناک",
-   "score": 72,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "برنامه جدید آمریکا حمله به زیرساخت‌های نفتی خارک است",
-   "source": "خبرفوری (سایت)",
-   "score": 70,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "🇮🇷 سخنگوی سپاه: اهداف و سلاح‌های جدید رونمایی خواهد شد",
-   "source": "خبرآنلاین",
-   "score": 70,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "🎧نسخه صوتی ۲۴ با فرداد فرحزاد: نتانیاهو: برای ضربه زدن در هر لحظه آماده‌ایم",
-   "source": "ایران اینترنشنال",
-   "score": 66,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "Trump says he is open to joining trilateral meeting with Xi, Putin",
-   "source": "Reuters",
-   "score": 65,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "[ویدیو] ♦️ادعای ترامپ: چین هم می‌توانست کارهای بسیار بیشتری برای ایران انجام دهد",
-   "source": "اخبار فوری",
-   "score": 65,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "[عکس] ادعای ترامپ: وضعیت خوبی در قبال ایران داریم",
-   "source": "ایرنا",
-   "score": 65,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "روبیو: ایران اهرم فشار خود را بر تنگه هرمز از دست داده است!",
-   "source": "تجارت‌نیوز (سایت)",
-   "score": 62,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "[عکس] 🇨🇳 رشد اقتصادی چین به ۴.۵ درصد رسید؛ صادرات جای خالی مصرف داخلی را پر کرد",
-   "source": "خبرآنلاین",
-   "score": 62,
-   "category": "اقتصاد جهانی"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "[عکس] 🔻عربستان سعودی تصمیم گرفته است حضور شرکت‌کنندگان در کنفرانس سرمایه‌گذاری سالانه‌اش را که به «داووس صحرا» معروف است لغو کند.",
-   "source": "بی‌بی‌سی فارسی",
-   "score": 62,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "ایران تهدید کرده ۷تا از کابل‌های اینترنتی که زیر خلیج فارس هست رو در صورت درگیری دوباره قطع می‌کنه",
-   "source": "اکواحسان (رقیب)",
-   "score": 60,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "Ukraine’s President Zelenskiy: Ukraine could stop striking Russian refineries in return for the US helping with patriot missiles for this period|FJ",
-   "source": "FinancialJuice",
-   "score": 58,
-   "category": "انرژی"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "[عکس] الکسی اورچوک، معاون نخست‌وزیر روسیه، اعلام کرد میخائیل میشوستین، نخست‌وزیر این کشور و محمدرضا عارف، معاون اول مسعود پزشکیان، در دیداری در دوشنبه، پایتخت…",
-   "source": "ایران اینترنشنال",
-   "score": 55,
-   "category": "انرژی"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "[عکس] وزیر آموزش و پرورش: رئیس‌جمهور برای کمک به بهبود معیشت فرهنگیان قول مساعد داد",
-   "source": "ایرنا",
-   "score": 55,
-   "category": "معیشت"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "[عکس] ♦️حسینی‌کیا: توسعه شبکه به افزایش درآمد اپراتورها وابسته است",
-   "source": "اخبار فوری",
-   "score": 55,
-   "category": "معیشت"
-  },
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "title": "❗ MOC IMBALANCE",
-   "source": "FinancialJuice",
-   "score": 55,
-   "category": "اقتصاد جهانی"
-  },
   {
    "ts": "2026-10-19T20:30:36+00:00",
    "title": "Trump weighs strikes on Iran’s oil lifeline after vowing to ‘finish the job’",
@@ -31062,6 +30952,34 @@
    "source": "Reuters",
    "score": 55,
    "category": "اقتصاد جهانی"
+  },
+  {
+   "ts": "2026-10-21T02:00:45+00:00",
+   "title": "Rubio Accuses Iran of ‘Nazi U-Boat Tactics’ — Warns It’s ‘Tough to Make a Deal’ with ‘Radical Shia Clerics’",
+   "source": "Breitbart News",
+   "score": 70,
+   "category": "ژئوپلیتیک"
+  },
+  {
+   "ts": "2026-10-21T02:00:45+00:00",
+   "title": "[عکس] ریک اسکات، سناتور جمهوری‌خواه، به سی‌بی‌اس نیوز گفت در صورتی که ازسرگیری حملات هوایی آمریکا به جمهوری اسلامی به تغییر سریع‌تر حکومت منجر شود، از این اقدا…",
+   "source": "ایران اینترنشنال",
+   "score": 65,
+   "category": "ژئوپلیتیک"
+  },
+  {
+   "ts": "2026-10-21T02:00:45+00:00",
+   "title": "Gold Steadies as Conflicting Iran Signals Cloud Path for Rates",
+   "source": "Bloomberg.com",
+   "score": 62,
+   "category": "ارز و طلا"
+  },
+  {
+   "ts": "2026-10-21T02:00:45+00:00",
+   "title": "Hormuz Strait may lose oil trade dominance in 5 years –HSBC CEO",
+   "source": "The Sun Nigeria",
+   "score": 55,
+   "category": "انرژی"
   }
  ],
  "pending_quiet": [
@@ -31382,19 +31300,6 @@
   }
  ],
  "price_history": [
-  {
-   "ts": "2026-10-19T20:00:43+00:00",
-   "values": {
-    "gold_ounce": 4163.1,
-    "brent": 109.43,
-    "dxy": 101.986,
-    "btc": 81758.79,
-    "spx_fut": 7742.0,
-    "usdt_irt": 260940.0,
-    "gold18_intrinsic": 26194463.179384958,
-    "coin_intrinsic": 255647482.8455254
-   }
-  },
   {
    "ts": "2026-10-19T20:30:36+00:00",
    "values": {
@@ -32226,6 +32131,19 @@
     "gold18_intrinsic": 26166237.32055878,
     "coin_intrinsic": 255372009.75372544
    }
+  },
+  {
+   "ts": "2026-10-21T02:00:45+00:00",
+   "values": {
+    "gold_ounce": 4137.8,
+    "brent": 110.08,
+    "dxy": 101.804,
+    "btc": 82910.46,
+    "spx_fut": 7780.0,
+    "usdt_irt": 262500.0,
+    "gold18_intrinsic": 26190923.047245488,
+    "coin_intrinsic": 255612932.57189706
+   }
   }
  ],
  "market_alert_last": {},
@@ -32241,12 +32159,12 @@
  "source_health": {
   "FinancialJuice": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "اخبار فوری": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "تسنیم": {
@@ -32256,57 +32174,57 @@
   },
   "ایران اینترنشنال": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "ایسنا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "تجارت‌نیوز": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "رادیو فردا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "وحید آنلاین": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "بی‌بی‌سی فارسی": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "اکواحسان (رقیب)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "ایرنا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "فارس": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "راستاد (رقیب)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "خبرآنلاین": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "Times of Israel": {
@@ -32316,77 +32234,77 @@
   },
   "fx_arad (رقیب)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "Al Jazeera": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "BBC World": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "BBC Middle East": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "Bloomberg Markets": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "MarketWatch": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "WSJ World": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "WSJ Markets": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "Bloomberg Politics": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "NYT Middle East": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "Bloomberg Economics": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "CNBC Economy": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "BBC Business": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "Federal Reserve": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_all.xml"
   },
   "CNBC Top News": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "FXStreet": {
@@ -32396,112 +32314,112 @@
   },
   "Cointelegraph": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "CoinDesk": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · بازار ارز و طلا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%D8%AF%D9%84%D8%A7%D8%B1+OR+%D8%B7%D9%84%D8%A7+OR+%D8%B3%DA%A9%D9%87+OR+%D8%AA%D8%AA%D8%B1%29+when%3A2"
   },
   "گوگل‌نیوز · اقتصادنیوز": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aeghtesadnews.com+when%3A3h&hl=fa&gl=IR&ceid=IR:fa"
   },
   "گوگل‌نیوز · Markets (EN)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28gold+price+OR+oil+prices+OR+Federal+Reserve+OR+dollar+index%29+when%3A2h&hl=en-US&gl=US&ceid=US:en"
   },
   "گوگل‌نیوز · Reuters": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Areuters.com+%28Iran+OR+oil+OR+Fed+OR+gold+OR+Hormuz%29+when%3A3h&hl=en-US&gl=US&ceid=US:en"
   },
   "OilPrice": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · دنیای اقتصاد": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Adonya-e-eqtesad.com+when%3A3h&hl=fa&gl=IR&ceid=IR:fa"
   },
   "گوگل‌نیوز · Iran (EN)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Iran+%28sanctions+OR+talks+OR+nuclear+OR+strike+OR+Hormuz%29+when%3A3h&hl=en-US&gl=US&ceid=US:en"
   },
   "گوگل‌نیوز · سیاست خارجی": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87+OR+%D8%AA%D8%AD%D8%B1%DB%8C%D9%85+OR+%D8%A7%D8%B3%D9%86%D9%BE%E2%"
   },
   "گوگل‌نیوز · اکوایران": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aecoiran.com+when%3A3h&hl=fa&gl=IR&ceid=IR:fa"
   },
   "گوگل‌نیوز · معیشت و سیاست‌گذاری": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%D8%A8%D8%A7%D9%86%DA%A9+%D9%85%D8%B1%DA%A9%D8%B2%DB%8C+OR+%D8%A8%D9%86%D8%B2%DB%8C%D9%86+OR+%DA%A9%D8"
   },
   "مهر (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "ایسنا (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='www.isna.ir', port=443): Max retries exceeded with url: /rss (Caused by NameResolutionError(\"HTTPSConnection(host='www.isna.ir', port=443): Failed to resolve"
   },
   "خبرآنلاین (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='www.khabaronline.ir', port=443): Max retries exceeded with url: /rss (Caused by NameResolutionError(\"HTTPSConnection(host='www.khabaronline.ir', port=443): F"
   },
   "تجارت‌نیوز (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='tejaratnews.com', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='tejaratnews.com', port=443): Failed t"
   },
   "رویداد۲۴": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='www.rouydad24.ir', port=443): Max retries exceeded with url: /fa/rss/allnews (Caused by NameResolutionError(\"HTTPSConnection(host='www.rouydad24.ir', port=44"
   },
   "فرارو": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": ""
   },
   "عصرایران": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='www.asriran.com', port=443): Max retries exceeded with url: /fa/rss/allnews (Caused by NameResolutionError(\"HTTPSConnection(host='www.asriran.com', port=443)"
   },
   "تابناک": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='www.tabnak.ir', port=443): Max retries exceeded with url: /fa/rss/allnews (Caused by NameResolutionError(\"HTTPSConnection(host='www.tabnak.ir', port=443): Fa"
   },
   "شهرآرانیوز": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='shahraranews.ir', port=443): Max retries exceeded with url: /fa/rss/allnews (Caused by NameResolutionError(\"HTTPSConnection(host='shahraranews.ir', port=443)"
   },
   "خبرفوری (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-21T01:58:11+00:00",
+   "last_ok": "2026-10-21T02:00:45+00:00",
    "last_error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   }
  },
@@ -32529,8 +32447,8 @@
   },
   "2026-10-21": {
    "alerts": 17,
-   "usd": 0.398,
-   "trends": 14
+   "usd": 0.4101,
+   "trends": 15
   }
  },
  "stories": [
@@ -33600,7 +33518,7 @@
     "بی‌بی‌سی فارسی": "2026-10-20T13:22:47+00:00"
    },
    "first": "2026-10-19T03:48:06+00:00",
-   "last": "2026-10-20T20:00:47+00:00",
+   "last": "2026-10-21T02:00:45+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34298,7 +34216,7 @@
     "Reuters": "2026-10-19T23:05:18+00:00"
    },
    "first": "2026-10-19T23:05:18+00:00",
-   "last": "2026-10-21T00:30:37+00:00",
+   "last": "2026-10-21T02:00:45+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34907,6 +34825,12 @@
      "s": "Newser",
      "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeTFrVmYyZkU5ZkNyOVlpZlhxOUFJcU1ydFNsalNjMVY5ak1ILXdudDdhZFhIY2dSUW5jUlRjUEtBME1mTkJFdlRhaktiVjNhMTdWdUJPUG8zakdWbGFTMzN4WTlfVGpQM2V6aEJOTXU3Vnl4N2UyRXZUNnA2Qk9mYVZiMDhOM1BSWkNXXzFBWjFxZi1maGc?oc=5",
      "ts": "2026-10-20T21:30:00+00:00"
+    },
+    {
+     "t": "Hormuz Strait may lose oil trade dominance in 5 years –HSBC CEO",
+     "s": "The Sun Nigeria",
+     "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkpHM25RT1JpclhDcG4wWnNrUTdQVno3ZU81THUydmlxVnp0T3F6dmhVVy1vRGk0V1p1ajV2TWtCWTlTTDhkOWxwX0pvSUJzaUhrc3k2YjhWZGhmVkNNRXZJakVYTllRNmd0Rmp1Q2g5dTJFVTlWQzZ4NmFKUEthN1puQlJmTGZ1?oc=5",
+     "ts": "2026-10-21T01:27:27+00:00"
     }
    ],
    "sources": {
@@ -34914,10 +34838,11 @@
     "TRT World": "2026-10-20T09:54:23+00:00",
     "Business Today": "2026-10-20T09:53:40+00:00",
     "The Times": "2026-10-20T16:50:00+00:00",
-    "Newser": "2026-10-20T21:30:00+00:00"
+    "Newser": "2026-10-20T21:30:00+00:00",
+    "The Sun Nigeria": "2026-10-21T01:27:27+00:00"
    },
    "first": "2026-10-20T06:14:00+00:00",
-   "last": "2026-10-20T23:21:39+00:00",
+   "last": "2026-10-21T02:00:45+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -55475,16 +55400,23 @@
      "s": "Livemint",
      "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQjdaNndZT1A1NC1RLXRmUTlPaUFkYmJBQ0s1QUZhQmpoM0wxa21lLUFUMjVJNnVfV2duLS1XdUg4TmJENFVXYUJsUkZuMGRHanRmRXNNU1FsTjFRdS1aNmd0aGNlc3FPeDgwUnRPQ2xSc3JvcGdoZFpHRDJOOC13R3ZXMVlnZHdnMngtVl9wMkJrUTh2MDdPOVZfeXgxOE1FelhMOWQzbDdEWEFLQXZCVTJxQUTSAboBQVVfeXFMT2…",
      "ts": "2026-10-21T00:40:51+00:00"
+    },
+    {
+     "t": "Gold Steadies as Conflicting Iran Signals Cloud Path for Rates",
+     "s": "Bloomberg.com",
+     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVVhiNnNvSzlrcTh1Sk53QWlQU0tVZXk0TjItdnNEa2hKMVNKSTdmUVhNWnAtcUE2YTFpRVhCV2VzaFQ0ZVJHOHA5ZWdvb1ZvcGFvSk1zZ3BnMl9OSnpNLUVhUWM0amw4anNNcWx1ZF9WZVBaLVNneDVxYUQ5ZW5BM2phZjNaVkxNS1Y5T21aNlhJT19SQ3VWR0NKbW9FQmZGTTk3UmRvNlZQSm93eFZiUVpKSQ?oc=5",
+     "ts": "2026-10-21T00:13:00+00:00"
     }
    ],
    "sources": {
     "Bloomberg Markets": "2026-10-21T00:13:21+00:00",
-    "Livemint": "2026-10-21T00:40:51+00:00"
+    "Livemint": "2026-10-21T00:40:51+00:00",
+    "Bloomberg.com": "2026-10-21T00:13:00+00:00"
    },
    "first": "2026-10-21T00:13:21+00:00",
-   "last": "2026-10-21T01:00:47+00:00",
-   "trend_at": null,
-   "alerted": false
+   "last": "2026-10-21T02:00:45+00:00",
+   "trend_at": "2026-10-21T02:00:45+00:00",
+   "alerted": true
   },
   {
    "id": "901fc6273559ccd0",
@@ -56896,10 +56828,10 @@
     }
    ],
    "sources": {
-    "Breitbart News": "2026-10-21T00:58:17+00:00"
+    "Breitbart News": "2026-10-21T00:57:49+00:00"
    },
    "first": "2026-10-21T00:58:17+00:00",
-   "last": "2026-10-21T01:58:11+00:00",
+   "last": "2026-10-21T02:00:45+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -57318,6 +57250,82 @@
    },
    "first": "2026-10-21T01:54:16+00:00",
    "last": "2026-10-21T01:58:11+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "9ed4373042bc1932",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Ramat Gan's G27 restaurant reopens after Iranian missile strike",
+     "s": "The Jerusalem Post",
+     "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QS0tmOXhQdWszTzJidDZ3c20tSS1mcHN4ZV9wUjEyWWZNeG5qU0lFYnpvZzg4aExZemNXWEk5LTA3RTdNRTlnOUVrN2Y4ZFRfOVRWeGt5bk1WWHlRa1FqbTdBQjI0Q1E?oc=5",
+     "ts": "2026-10-21T00:46:56+00:00"
+    }
+   ],
+   "sources": {
+    "The Jerusalem Post": "2026-10-21T00:46:56+00:00"
+   },
+   "first": "2026-10-21T00:46:56+00:00",
+   "last": "2026-10-21T02:00:45+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "2b88c3b2e395f5a7",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "[عکس] ریک اسکات، سناتور جمهوری‌خواه، به سی‌بی‌اس نیوز گفت در صورتی که ازسرگیری حملات هوایی آمریکا به جمهوری اسلامی به تغییر سریع‌تر حکومت م…",
+     "s": "ایران اینترنشنال",
+     "u": "https://t.me/IranintlTV/363216",
+     "ts": "2026-10-21T01:58:27+00:00"
+    }
+   ],
+   "sources": {
+    "ایران اینترنشنال": "2026-10-21T01:58:27+00:00"
+   },
+   "first": "2026-10-21T01:58:27+00:00",
+   "last": "2026-10-21T02:00:45+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "e38f0c517f8d610e",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "ارتباط چرت زدن با خطر ابتلا به زوال عقل",
+     "s": "مهر (سایت)",
+     "u": "https://www.mehrnews.com/news/6984040/%D8%A7%D8%B1%D8%AA%D8%A8%D8%A7%D8%B7-%DA%86%D8%B1%D8%AA-%D8%B2%D8%AF%D9%86-%D8%A8%D8%A7-%D8%AE%D8%B7%D8%B1-%D8%A7%D8%A8%D8%AA%D9%84%D8%A7-%D8%A8%D9%87-%D8%B2%D9%88%D8%A7%D9%84-%D8%B9%D9%82%D9%84",
+     "ts": "2026-10-21T02:00:00+00:00"
+    }
+   ],
+   "sources": {
+    "مهر (سایت)": "2026-10-21T02:00:00+00:00"
+   },
+   "first": "2026-10-21T02:00:00+00:00",
+   "last": "2026-10-21T02:00:45+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "b7f2884eba354f40",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "[عکس] اخبار جنجالی ۲۸ مهر؛ کدام اخبار شایعه بود؟",
+     "s": "فارس",
+     "u": "https://t.me/farsna/469724",
+     "ts": "2026-10-21T02:00:12+00:00"
+    }
+   ],
+   "sources": {
+    "فارس": "2026-10-21T02:00:12+00:00"
+   },
+   "first": "2026-10-21T02:00:12+00:00",
+   "last": "2026-10-21T02:00:45+00:00",
    "trend_at": null,
    "alerted": false
   }
