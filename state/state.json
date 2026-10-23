@@ -1,38 +1,6 @@
 {
  "version": 1,
  "seen": {
-  "google_news:8c2177477fcfd465": "2026-10-20T01:13:27+00:00",
-  "google_news:cfab271a2a32e585": "2026-10-20T01:13:27+00:00",
-  "google_news:13e4134d0eb22014": "2026-10-20T01:13:27+00:00",
-  "google_news:8e966aa654d7d700": "2026-10-20T01:13:27+00:00",
-  "google_news:c10696256b92aaa0": "2026-10-20T01:13:27+00:00",
-  "google_news:f08b54ff65019ac8": "2026-10-20T01:13:27+00:00",
-  "google_news:52ac41cb47fc0a6d": "2026-10-20T01:13:27+00:00",
-  "google_news:46bd9a24c161f828": "2026-10-20T01:13:27+00:00",
-  "rss:178830dde00f1a12": "2026-10-20T01:13:27+00:00",
-  "google_news:c9b39d7346144b58": "2026-10-20T01:13:27+00:00",
-  "google_news:46fc7ba26aebdb01": "2026-10-20T01:13:27+00:00",
-  "google_news:35dce17089fcca53": "2026-10-20T01:13:27+00:00",
-  "google_news:fe089052cf33e4e5": "2026-10-20T01:13:27+00:00",
-  "google_news:6c437b5d155dd060": "2026-10-20T01:13:27+00:00",
-  "google_news:bd7cb39edff94eb2": "2026-10-20T01:13:27+00:00",
-  "google_news:8f3d92c592fa855c": "2026-10-20T01:13:27+00:00",
-  "google_news:d799370772ae0fc3": "2026-10-20T01:13:27+00:00",
-  "google_news:82c4bc61097a3231": "2026-10-20T01:13:27+00:00",
-  "google_news:babeab01c72ca9de": "2026-10-20T01:13:27+00:00",
-  "rss:8ee30be8427c388a": "2026-10-20T01:13:27+00:00",
-  "rss:4a93200dc393141e": "2026-10-20T01:13:27+00:00",
-  "tg:FinancialJuice/141381": "2026-10-20T01:13:27+00:00",
-  "tg:FinancialJuice/141382": "2026-10-20T01:13:27+00:00",
-  "tg:FinancialJuice/141383": "2026-10-20T01:13:27+00:00",
-  "tg:FinancialJuice/141384": "2026-10-20T01:13:27+00:00",
-  "google_news:4126af19a531a59e": "2026-10-20T01:13:27+00:00",
-  "rss:1a8ee85a0344cf3c": "2026-10-20T01:13:27+00:00",
-  "tg:farsna/469517": "2026-10-20T01:13:27+00:00",
-  "tg:irna_1313/464137": "2026-10-20T01:13:27+00:00",
-  "google_news:ffd5f2b10b6f9a14": "2026-10-20T01:13:27+00:00",
-  "tg:irna_1313/464138": "2026-10-20T01:13:27+00:00",
-  "tg:IranintlTV/363059": "2026-10-20T01:13:27+00:00",
   "google_news:0fbcce80ba425b13": "2026-10-20T01:30:38+00:00",
   "google_news:81c911cb64ad864b": "2026-10-20T01:30:38+00:00",
   "google_news:9c630f65caadf3d3": "2026-10-20T01:30:38+00:00",
@@ -22119,7 +22087,71 @@
   "rss:3219e765bcfba80c": "2026-10-23T01:00:46+00:00",
   "google_news:d372d9b4518cfa95": "2026-10-23T01:00:46+00:00",
   "rss:235030ea0c91aad4": "2026-10-23T01:00:46+00:00",
-  "tg:FinancialJuice/142270": "2026-10-23T01:00:46+00:00"
+  "tg:FinancialJuice/142270": "2026-10-23T01:00:46+00:00",
+  "google_news:678304e692b27062": "2026-10-23T01:30:34+00:00",
+  "google_news:e2561a3dd5275d4c": "2026-10-23T01:30:34+00:00",
+  "google_news:1591134e2da32e82": "2026-10-23T01:30:34+00:00",
+  "google_news:f452d386df20040e": "2026-10-23T01:30:34+00:00",
+  "google_news:5e413e963c917d5d": "2026-10-23T01:30:34+00:00",
+  "google_news:037eaa0a1c368fea": "2026-10-23T01:30:34+00:00",
+  "google_news:36fd12d6bb64c429": "2026-10-23T01:30:34+00:00",
+  "google_news:ba526d690c281534": "2026-10-23T01:30:34+00:00",
+  "google_news:b777b49660952f85": "2026-10-23T01:30:34+00:00",
+  "google_news:620666e6c529469d": "2026-10-23T01:30:34+00:00",
+  "google_news:9c5c0dc9d75c8960": "2026-10-23T01:30:34+00:00",
+  "google_news:8ae2981ba3c430a0": "2026-10-23T01:30:34+00:00",
+  "google_news:97ae90ccb5b4d2d0": "2026-10-23T01:30:34+00:00",
+  "rss:5ea618f03449bc69": "2026-10-23T01:30:34+00:00",
+  "google_news:f170fba8d503f12d": "2026-10-23T01:30:34+00:00",
+  "google_news:c993cf973d953bc4": "2026-10-23T01:30:34+00:00",
+  "google_news:c8de982741176c86": "2026-10-23T01:30:34+00:00",
+  "google_news:2e5a5bbc05211432": "2026-10-23T01:30:34+00:00",
+  "google_news:e0a9cbb3d991c59c": "2026-10-23T01:30:34+00:00",
+  "google_news:6d32db29fe0dca9c": "2026-10-23T01:30:34+00:00",
+  "google_news:0adf16273ff77785": "2026-10-23T01:30:34+00:00",
+  "google_news:e1e7eb1d7b26a7de": "2026-10-23T01:30:34+00:00",
+  "rss:0c83f6b8cf27feb1": "2026-10-23T01:30:34+00:00",
+  "rss:c19e34d50c0e742b": "2026-10-23T01:30:34+00:00",
+  "google_news:3cd65ec11e0ff0b3": "2026-10-23T01:30:34+00:00",
+  "google_news:ed25a514d2549419": "2026-10-23T01:30:34+00:00",
+  "rss:33d0f620839aa7cf": "2026-10-23T01:30:34+00:00",
+  "google_news:2c85e25c41ae9e2e": "2026-10-23T01:30:34+00:00",
+  "google_news:4632cbe767e60466": "2026-10-23T01:30:34+00:00",
+  "rss:c4cc0e2debb15f1f": "2026-10-23T01:30:34+00:00",
+  "rss:7d9857bf3735884e": "2026-10-23T01:30:34+00:00",
+  "rss:7d5d670ac72909f3": "2026-10-23T01:30:34+00:00",
+  "google_news:bd03bea8461e289c": "2026-10-23T01:30:34+00:00",
+  "tg:bbcpersian/293837": "2026-10-23T01:30:34+00:00",
+  "google_news:c628761ffe08a526": "2026-10-23T01:30:34+00:00",
+  "rss:b48ffe5ff3a7776e": "2026-10-23T01:30:34+00:00",
+  "tg:irna_1313/465196": "2026-10-23T01:30:34+00:00",
+  "google_news:9c3d121501000049": "2026-10-23T01:30:34+00:00",
+  "google_news:994144801342bea2": "2026-10-23T01:30:34+00:00",
+  "tg:farsna/470112": "2026-10-23T01:30:34+00:00",
+  "rss:17b2509890dcf8d8": "2026-10-23T01:30:34+00:00",
+  "google_news:f69578dce9e485e9": "2026-10-23T01:30:34+00:00",
+  "google_news:58395bab4cf35aa0": "2026-10-23T01:30:34+00:00",
+  "google_news:0a20e69581401efd": "2026-10-23T01:30:34+00:00",
+  "rss:fd98008896bc3766": "2026-10-23T01:30:34+00:00",
+  "google_news:76cf2bb1d7f7ab9f": "2026-10-23T01:30:34+00:00",
+  "tg:FinancialJuice/142271": "2026-10-23T01:30:34+00:00",
+  "google_news:2884f81487f6a684": "2026-10-23T01:30:34+00:00",
+  "google_news:7cc7b8bd0f65cd1f": "2026-10-23T01:30:34+00:00",
+  "google_news:8c95f6420fb2f777": "2026-10-23T01:30:34+00:00",
+  "tg:FinancialJuice/142272": "2026-10-23T01:30:34+00:00",
+  "tg:FinancialJuice/142273": "2026-10-23T01:30:34+00:00",
+  "tg:irna_1313/465197": "2026-10-23T01:30:34+00:00",
+  "rss:bc21b3b27cb705b6": "2026-10-23T01:30:34+00:00",
+  "rss:4d3452f2d88791cf": "2026-10-23T01:30:34+00:00",
+  "tg:FinancialJuice/142274": "2026-10-23T01:30:34+00:00",
+  "tg:farsna/470113": "2026-10-23T01:30:34+00:00",
+  "rss:aa60365084ed8e92": "2026-10-23T01:30:34+00:00",
+  "rss:5b0fccfb2b4f16eb": "2026-10-23T01:30:34+00:00",
+  "rss:400064889b5077b2": "2026-10-23T01:30:34+00:00",
+  "tg:irna_1313/465198": "2026-10-23T01:30:34+00:00",
+  "rss:fd962670267330c7": "2026-10-23T01:30:34+00:00",
+  "tg:FinancialJuice/142275": "2026-10-23T01:30:34+00:00",
+  "rss:10f801d0bb849b5d": "2026-10-23T01:30:34+00:00"
  },
  "sent": [
   {
@@ -24020,314 +24052,6 @@
   }
  ],
  "pool": [
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "[ویدیو] 🎥 فرمانده نیروی دریایی سپاه: منتظریم ناوهای آمریکایی به ورودی تنگۀ هرمز نزدیک شوند تا غرق‌شان کنیم؛ لحظه‌به‌لحظه روزشماری می‌کنیم تا این اتفاق بیفتد. @…",
-   "source": "فارس",
-   "score": 80,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "‼ BREAKING: US State Dept is preparing to issue an ordered departure of some personnel and family members at US embassies across the Gulf - US Officials|FJ",
-   "source": "FinancialJuice",
-   "score": 80,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Iran Engages In Indirect Talks With U.S. Amid Tensions",
-   "source": "WGY",
-   "score": 78,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "قیمت طلا امروز ۲۹ مهر ۱۴۰۵ در زمان بسته شدن بازار/ طلا از مرز ۲۷ میلیون تومان عبور کرد + جدول",
-   "source": "خبرآنلاین (سایت)",
-   "score": 78,
-   "category": "ارز و طلا"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "📰 فارس: دقایقی پیش صدای چند انفجار در کرپان سیریک استان هرمزگان شنیده شد",
-   "source": "خبرآنلاین",
-   "score": 76,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "[عکس] ♦️ ادعای آکسیوس از جزئیات جدیدِ عملیات فریب اسرائیل برای آغاز جنگ با ایران",
-   "source": "اخبار فوری",
-   "score": 75,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "US imposes sanctions on Greek, Panama law firm for helping Iran shipping",
-   "source": "Fresno Bee",
-   "score": 74,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "شنیده شدن صدای چند انفجار در سیریک/ شلیک موشک به سمت کشتی های متخلف در تنگه هرمز",
-   "source": "خبرفوری (سایت)",
-   "score": 74,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Trump to decide soon on Iran war; UK deploys RAF jets to defend Saudis TV7 Israel News - 21 Oct.",
-   "source": "TV7 Israel News",
-   "score": 72,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Kuwait Petroleum CEO Says Oil Output Tops 2 Million Barrels a Day",
-   "source": "Bloomberg Markets",
-   "score": 72,
-   "category": "انرژی"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Russia’s Northern Sea Route Workaround Supplying Asian Buyers",
-   "source": "OilPrice",
-   "score": 72,
-   "category": "انرژی"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Iran Warns Against Renewed Attacks, Says it Will Conduct 'Offensive Retaliation'",
-   "source": "inkl",
-   "score": 70,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Netanyahu planned fresh large-scale strikes on Iran",
-   "source": "Daily Times",
-   "score": 70,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "تصاویری از لحظه هدف قرار گرفتن یک کشتی در تنگه هرمز",
-   "source": "خبرفوری (سایت)",
-   "score": 70,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "US Embassy posts alert over Houthis attacks against Saudi Arabia|FJ",
-   "source": "FinancialJuice",
-   "score": 70,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "[عکس] ♦️سفر عاصم منیر به تهران؛ تهدید، یا راهی تازه برای دیپلماسی؟",
-   "source": "اخبار فوری",
-   "score": 70,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "دیدار و گفت و گوی بن سلمان و مکرون؛ عربستان وعده افزایش عرضه گازوئیل داد",
-   "source": "خبرآنلاین (سایت)",
-   "score": 68,
-   "category": "انرژی"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Trump team turns Iran sanctions sights on legal sector with blacklisting of maritime law firm",
-   "source": "TradeWinds News",
-   "score": 68,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "عارف: منابع حاصل از اصلاحات اقتصادی صرف معیشت مردم می‌شود",
-   "source": "تجارت‌نیوز (سایت)",
-   "score": 66,
-   "category": "سیاست‌گذاری اقتصادی"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "جزئیات جدید از پرواز جنگنده‌های اسرائیلی در نزدیکی مرز ایران",
-   "source": "فرارو",
-   "score": 66,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Netanyahu: Trump Pledged to 'Finish the Job' on Iran",
-   "source": "JFeed",
-   "score": 65,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "WATCH LIVE: Trump Speaks 2:30 PM ET|FJ",
-   "source": "FinancialJuice",
-   "score": 65,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "[عکس] #اختصاصی ",
-   "source": "تجارت‌نیوز",
-   "score": 65,
-   "category": "سیاست‌گذاری اقتصادی"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Gold edges up as oil remains elevated fueling inflation concerns",
-   "source": "Invezz",
-   "score": 62,
-   "category": "ارز و طلا"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "🔻ادعای مسئول سیاست خارجی اروپا: ایران کشتیرانی در تنگه هرمز را «خطرناک و پرهزینه» کرده است",
-   "source": "تجارت‌نیوز",
-   "score": 62,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "[عکس] ۶۲ حمله هوایی عربستان در یمن طی ۲۴ ساعت",
-   "source": "ایسنا",
-   "score": 62,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "طرح نشان‌دار کردن مالیات اقدامی مثبت در راستای افزایش مشارکت مردم در امور کشور است",
-   "source": "ایسنا (سایت)",
-   "score": 62,
-   "category": "سیاست‌گذاری اقتصادی"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "در شبکه خبر اعلام شد: حمله به ایران قطعی است!",
-   "source": "خبرفوری (سایت)",
-   "score": 62,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Saudi Crude Exports Hit Five-Month High as Production Falls to Record Low",
-   "source": "OilPrice",
-   "score": 60,
-   "category": "انرژی"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Saudi capital's airport reopens to limited traffic, and other Mideast news",
-   "source": "CTV News",
-   "score": 60,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Daily Summary: SpaceX and the tech sector drive Wall Street, oil retreats sharply below $97",
-   "source": "XTB.com",
-   "score": 60,
-   "category": "اقتصاد جهانی"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "ویتکاف: مذاکرات با پوتین در سن‌پترزبورگ سازنده بود",
-   "source": "تجارت‌نیوز (سایت)",
-   "score": 60,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "روایت ویتکاف از دیدارش با پوتین",
-   "source": "خبرآنلاین (سایت)",
-   "score": 60,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "توضیحات عراق درباره دلیل بسته شدن گذرگاه چذابه",
-   "source": "عصرایران",
-   "score": 58,
-   "category": "سایر"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "WATCH LIVE: Trump tp Speak Soon|FJ",
-   "source": "FinancialJuice",
-   "score": 58,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "دستاوردسازی انتخاباتی نتانیاهو با برجسته‌کردن حمله به ایران + فیلم",
-   "source": "خبرآنلاین (سایت)",
-   "score": 58,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "[عکس] 🔻احتمال بسته شدن مرزهای اصلی ایران و عراق کم است / بازار میلگرد عراق را از دست داده‌ایم / بازار صادراتی فولاد ایران به عراق به سمت شمش می‌رود",
-   "source": "تجارت‌نیوز",
-   "score": 56,
-   "category": "سایر"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "NYMEX WTI Crude Dec. futures settle at $97.15 a barrel down 67 cents, 0.68%|FJ",
-   "source": "FinancialJuice",
-   "score": 55,
-   "category": "انرژی"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Iran’s Hormuz demands put pressure on Trump as threats grow",
-   "source": "Townpress Newspaper",
-   "score": 55,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Qatar, Turkiye, Pakistan and Indonesia sign ‘Badr’ defence pact",
-   "source": "Al Jazeera",
-   "score": 55,
-   "category": "ژئوپلیتیک"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "واردات و صادرات کالا از مرز ریمدان پاکستان دوباره از سر گرفته شد",
-   "source": "اکواحسان (رقیب)",
-   "score": 55,
-   "category": "معیشت"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "🗣روایت شما: وضعیت زندگی در سایه سرکوب سیاسی و تنش‌های نظامی - چهارشنبه ۲۹ مهر",
-   "source": "ایران اینترنشنال",
-   "score": 55,
-   "category": "معیشت"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "[ویدیو] 🎥 ۴۰ برابر شدن معافیت بار مسافری از کیش",
-   "source": "خبرآنلاین",
-   "score": 55,
-   "category": "سیاست‌گذاری اقتصادی"
-  },
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "title": "Canada's PM Carney: We discussed wide range of issues with Trump, including Iran|FJ",
-   "source": "FinancialJuice",
-   "score": 55,
-   "category": "ژئوپلیتیک"
-  },
   {
    "ts": "2026-10-21T19:30:36+00:00",
    "title": "EXCLUSIVE: US preparing to issue ordered departure of some personnel from Gulf embassies, say US officials",
@@ -33322,6 +33046,69 @@
    "source": "Bloomberg Markets",
    "score": 61,
    "category": "بورس"
+  },
+  {
+   "ts": "2026-10-23T01:30:34+00:00",
+   "title": "Donald Trump claims Iran faked Strait of Hormuz attacks to influence midterm elections",
+   "source": "The Jerusalem Post",
+   "score": 79,
+   "category": "ژئوپلیتیک"
+  },
+  {
+   "ts": "2026-10-23T01:30:34+00:00",
+   "title": "Trump lands in China ahead of high-stakes talks with Xi on trade, Iran, and Taiwan",
+   "source": "WXLV",
+   "score": 77,
+   "category": "ژئوپلیتیک"
+  },
+  {
+   "ts": "2026-10-23T01:30:34+00:00",
+   "title": "[عکس] 🔻بهای نفت در بازارهای شرق آسیا در آغاز روز جمعه رکورد جدید ثبت کرد و برای هر بشکه نفت برنت دریای شمال به بیش از ۱۱۳ دلار افزایش یافت.",
+   "source": "بی‌بی‌سی فارسی",
+   "score": 73,
+   "category": "انرژی"
+  },
+  {
+   "ts": "2026-10-23T01:30:34+00:00",
+   "title": "درپی حملات یمن، منابع خبری از وقوع انفجار در نجران عربستان و فعال‌شدن آژیرهای خطر در این منطقه خبر می‌دهند.",
+   "source": "فارس",
+   "score": 69,
+   "category": "ژئوپلیتیک"
+  },
+  {
+   "ts": "2026-10-23T01:30:34+00:00",
+   "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+   "source": "Cointelegraph",
+   "score": 66,
+   "category": "کریپتو"
+  },
+  {
+   "ts": "2026-10-23T01:30:34+00:00",
+   "title": "Gold Holds Near Three-Month Low as AI Jitters Fuel Volatility",
+   "source": "Bloomberg.com",
+   "score": 62,
+   "category": "ارز و طلا"
+  },
+  {
+   "ts": "2026-10-23T01:30:34+00:00",
+   "title": "China sets yuan mid-point at strongest level since Feb. 2, 2023|FJ",
+   "source": "FinancialJuice",
+   "score": 60,
+   "category": "اقتصاد جهانی"
+  },
+  {
+   "ts": "2026-10-23T01:30:34+00:00",
+   "title": "Saudi civil defense: danger in Najran has passed|FJ",
+   "source": "FinancialJuice",
+   "score": 60,
+   "category": "ژئوپلیتیک"
+  },
+  {
+   "ts": "2026-10-23T01:30:34+00:00",
+   "title": "Global Market Today: Asian stocks slide after US tech rout",
+   "source": "The Economic Times",
+   "score": 57,
+   "category": "اقتصاد جهانی"
   }
  ],
  "pending_quiet": [
@@ -33478,22 +33265,30 @@
    "source": "ایرنا",
    "score": 73,
    "category": "ژئوپلیتیک"
+  },
+  {
+   "ts": "2026-10-23T01:30:34+00:00",
+   "title": "Donald Trump claims Iran faked Strait of Hormuz attacks to influence midterm elections",
+   "source": "The Jerusalem Post",
+   "score": 79,
+   "category": "ژئوپلیتیک"
+  },
+  {
+   "ts": "2026-10-23T01:30:34+00:00",
+   "title": "Trump lands in China ahead of high-stakes talks with Xi on trade, Iran, and Taiwan",
+   "source": "WXLV",
+   "score": 77,
+   "category": "ژئوپلیتیک"
+  },
+  {
+   "ts": "2026-10-23T01:30:34+00:00",
+   "title": "[عکس] 🔻بهای نفت در بازارهای شرق آسیا در آغاز روز جمعه رکورد جدید ثبت کرد و برای هر بشکه نفت برنت دریای شمال به بیش از ۱۱۳ دلار افزایش یافت.",
+   "source": "بی‌بی‌سی فارسی",
+   "score": 73,
+   "category": "انرژی"
   }
  ],
  "price_history": [
-  {
-   "ts": "2026-10-21T19:00:47+00:00",
-   "values": {
-    "gold_ounce": 4146.7,
-    "brent": 109.39,
-    "dxy": 101.742,
-    "btc": 84316.72,
-    "spx_fut": 7799.0,
-    "usdt_irt": 266766.0,
-    "gold18_intrinsic": 26673812.56610992,
-    "coin_intrinsic": 260325741.12020636
-   }
-  },
   {
    "ts": "2026-10-21T19:30:36+00:00",
    "values": {
@@ -34325,6 +34120,19 @@
     "gold18_intrinsic": 26315850.764383428,
     "coin_intrinsic": 256832177.12007648
    }
+  },
+  {
+   "ts": "2026-10-23T01:30:34+00:00",
+   "values": {
+    "gold_ounce": 4033.5,
+    "brent": 113.75,
+    "dxy": 101.547,
+    "btc": 81356.32,
+    "spx_fut": 7696.0,
+    "usdt_irt": 270010.0,
+    "gold18_intrinsic": 26261160.359766584,
+    "coin_intrinsic": 256298420.64717793
+   }
   }
  ],
  "market_alert_last": {},
@@ -34340,12 +34148,12 @@
  "source_health": {
   "FinancialJuice": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "اخبار فوری": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "تسنیم": {
@@ -34355,57 +34163,57 @@
   },
   "ایران اینترنشنال": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "ایسنا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "تجارت‌نیوز": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "رادیو فردا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "وحید آنلاین": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "بی‌بی‌سی فارسی": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "اکواحسان (رقیب)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "ایرنا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "فارس": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "راستاد (رقیب)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "خبرآنلاین": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "Times of Israel": {
@@ -34415,77 +34223,77 @@
   },
   "fx_arad (رقیب)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "Al Jazeera": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "BBC World": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "BBC Middle East": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "Bloomberg Markets": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "MarketWatch": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "WSJ World": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "WSJ Markets": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "Bloomberg Politics": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "NYT Middle East": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "Bloomberg Economics": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "CNBC Economy": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "BBC Business": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "Federal Reserve": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_all.xml"
   },
   "CNBC Top News": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "FXStreet": {
@@ -34495,112 +34303,112 @@
   },
   "Cointelegraph": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "CoinDesk": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · بازار ارز و طلا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%D8%AF%D9%84%D8%A7%D8%B1+OR+%D8%B7%D9%84%D8%A7+OR+%D8%B3%DA%A9%D9%87+OR+%D8%AA%D8%AA%D8%B1%29+when%3A2"
   },
   "گوگل‌نیوز · اقتصادنیوز": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aeghtesadnews.com+when%3A3h&hl=fa&gl=IR&ceid=IR:fa"
   },
   "گوگل‌نیوز · Markets (EN)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28gold+price+OR+oil+prices+OR+Federal+Reserve+OR+dollar+index%29+when%3A2h&hl=en-US&gl=US&ceid=US:en"
   },
   "گوگل‌نیوز · Reuters": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Areuters.com+%28Iran+OR+oil+OR+Fed+OR+gold+OR+Hormuz%29+when%3A3h&hl=en-US&gl=US&ceid=US:en"
   },
   "OilPrice": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · دنیای اقتصاد": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Adonya-e-eqtesad.com+when%3A3h&hl=fa&gl=IR&ceid=IR:fa"
   },
   "گوگل‌نیوز · Iran (EN)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Iran+%28sanctions+OR+talks+OR+nuclear+OR+strike+OR+Hormuz%29+when%3A3h&hl=en-US&gl=US&ceid=US:en"
   },
   "گوگل‌نیوز · سیاست خارجی": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87+OR+%D8%AA%D8%AD%D8%B1%DB%8C%D9%85+OR+%D8%A7%D8%B3%D9%86%D9%BE%E2%"
   },
   "گوگل‌نیوز · اکوایران": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aecoiran.com+when%3A3h&hl=fa&gl=IR&ceid=IR:fa"
   },
   "گوگل‌نیوز · معیشت و سیاست‌گذاری": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%D8%A8%D8%A7%D9%86%DA%A9+%D9%85%D8%B1%DA%A9%D8%B2%DB%8C+OR+%D8%A8%D9%86%D8%B2%DB%8C%D9%86+OR+%DA%A9%D8"
   },
   "مهر (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": ""
   },
   "ایسنا (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='www.isna.ir', port=443): Max retries exceeded with url: /rss (Caused by NameResolutionError(\"HTTPSConnection(host='www.isna.ir', port=443): Failed to resolve"
   },
   "خبرآنلاین (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='www.khabaronline.ir', port=443): Max retries exceeded with url: /rss (Caused by NameResolutionError(\"HTTPSConnection(host='www.khabaronline.ir', port=443): F"
   },
   "تجارت‌نیوز (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='tejaratnews.com', port=443): Max retries exceeded with url: /feed (Caused by NameResolutionError(\"HTTPSConnection(host='tejaratnews.com', port=443): Failed t"
   },
   "رویداد۲۴": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='www.rouydad24.ir', port=443): Max retries exceeded with url: /fa/rss/allnews (Caused by NameResolutionError(\"HTTPSConnection(host='www.rouydad24.ir', port=44"
   },
   "فرارو": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   "عصرایران": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='www.asriran.com', port=443): Max retries exceeded with url: /fa/rss/allnews (Caused by NameResolutionError(\"HTTPSConnection(host='www.asriran.com', port=443)"
   },
   "تابناک": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='www.tabnak.ir', port=443): Max retries exceeded with url: /fa/rss/allnews (Caused by NameResolutionError(\"HTTPSConnection(host='www.tabnak.ir', port=443): Fa"
   },
   "شهرآرانیوز": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='shahraranews.ir', port=443): Max retries exceeded with url: /fa/rss/allnews (Caused by NameResolutionError(\"HTTPSConnection(host='shahraranews.ir', port=443)"
   },
   "خبرفوری (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-23T01:00:46+00:00",
+   "last_ok": "2026-10-23T01:30:34+00:00",
    "last_error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   }
  },
@@ -34638,7 +34446,7 @@
   },
   "2026-10-23": {
    "alerts": 12,
-   "usd": 0.4847,
+   "usd": 0.4854,
    "trends": 12
   }
  },
@@ -35048,10 +34856,11 @@
     "TelegraphHerald.com": "2026-10-22T22:35:16+00:00",
     "thecanadianpressnews.ca": "2026-10-22T21:01:09+00:00",
     "Energies Media": "2026-10-22T22:34:49+00:00",
-    "PBS": "2026-10-22T22:48:30+00:00"
+    "PBS": "2026-10-22T22:48:30+00:00",
+    "The Jerusalem Post": "2026-10-23T01:17:40+00:00"
    },
    "first": "2026-10-17T16:52:33+00:00",
-   "last": "2026-10-23T01:00:46+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": "2026-10-18T05:04:19+00:00",
    "alerted": true
   },
@@ -35183,7 +34992,7 @@
     "OilPrice": "2026-10-21T17:00:00+00:00"
    },
    "first": "2026-10-18T10:45:34+00:00",
-   "last": "2026-10-23T01:00:46+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35789,10 +35598,11 @@
     "Raw Story": "2026-10-22T16:06:00+00:00",
     "EnergyNow.com": "2026-10-22T16:40:02+00:00",
     "Modern Ghana": "2026-10-22T17:55:22+00:00",
-    "Roya News": "2026-10-22T19:26:02+00:00"
+    "Roya News": "2026-10-22T19:26:02+00:00",
+    "World Tribune": "2026-10-22T23:08:05+00:00"
    },
    "first": "2026-10-21T02:26:43+00:00",
-   "last": "2026-10-23T00:30:37+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": true
   },
@@ -36126,78 +35936,6 @@
    "last": "2026-10-22T22:30:34+00:00",
    "trend_at": null,
    "alerted": false
-  },
-  {
-   "id": "b618b48b4c9dcf4e",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "[عکس] آئین‌نامه دورکاری و نحوه رفت و آمد کارکنان ابلاغ شد/ امکان دورکاری دو روز در هفته",
-     "s": "ایرنا",
-     "u": "https://t.me/irna_1313/464881",
-     "ts": "2026-10-21T17:38:13+00:00"
-    },
-    {
-     "t": "آئین‌نامه دورکاری و نحوه رفت و آمد کارکنان ابلاغ شد",
-     "s": "مهر (سایت)",
-     "u": "https://www.mehrnews.com/news/6985821/%D8%A2%D8%A6%DB%8C%D9%86-%D9%86%D8%A7%D9%85%D9%87-%D8%AF%D9%88%D8%B1%DA%A9%D8%A7%D8%B1%DB%8C-%D9%88-%D9%86%D8%AD%D9%88%D9%87-%D8%B1%D9%81%D8%AA-%D9%88-%D8%A2%D9%85%D8%AF-%DA%A9%D8%A7%D8%B1%DA%A9%D9%86%D8%A7%D9%86-%D8%A7%D8%A8%D9%84%D8%A7%D8%BA-%D8%B4%D8%AF",
-     "ts": "2026-10-21T18:01:40+00:00"
-    },
-    {
-     "t": "آئین‌نامه دورکاری و نحوه رفت و آمد کارکنان ابلاغ شد",
-     "s": "خبرفوری (سایت)",
-     "u": "https://www.khabarfoori.com/fa/tiny/news-3254212",
-     "ts": "2026-10-21T18:08:28+00:00"
-    },
-    {
-     "t": "آئین‌نامه ۲ روز دورکاری در هفته کارکنان دولت ابلاغ شد (۲۹ مهر ۱۴۰۵)",
-     "s": "شهرآرانیوز",
-     "u": "https://shahraranews.ir/fa/news/454208/آئین-نامه-2-روز-دورکاری-در-هفته-کارکنان-دولت-ابلاغ-شد-29-مهر-1405",
-     "ts": "2026-10-21T18:04:45+00:00"
-    },
-    {
-     "t": "آئین‌نامه دورکاری و نحوه رفت و آمد کارکنان ابلاغ شد",
-     "s": "تجارت‌نیوز (سایت)",
-     "u": "https://tejaratnews.com/%d8%a2%d8%a6%db%8c%d9%86%d9%86%d8%a7%d9%85%d9%87-%d8%af%d9%88%d8%b1%da%a9%d8%a7%d8%b1%db%8c-%d9%88-%d9%86%d8%ad%d9%88%d9%87-%d8%b1%d9%81%d8%aa-%d9%88-%d8%a2%d9%85%d8%af-%da%a9%d8%a7%d8%b1",
-     "ts": "2026-10-21T18:54:12+00:00"
-    },
-    {
-     "t": "ابلاغ آئین‌نامه نحوه رفت و آمد کارکنان دستگاه‌های اجرایی/ امکان ۲ روز دورکاری در هفته",
-     "s": "ایسنا (سایت)",
-     "u": "https://www.isna.ir/news/1405073020210/%D8%A7%D8%A8%D9%84%D8%A7%D8%BA-%D8%A2%D8%A6%DB%8C%D9%86-%D9%86%D8%A7%D9%85%D9%87-%D9%86%D8%AD%D9%88%D9%87-%D8%B1%D9%81%D8%AA-%D9%88-%D8%A2%D9%85%D8%AF-%DA%A9%D8%A7%D8%B1%DA%A9%D9%86%D8%A7%D9%86-%D8%AF%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%…",
-     "ts": "2026-10-21T22:16:43+00:00"
-    },
-    {
-     "t": "[عکس] ابلاغ آئین‌نامه نحوه رفت و آمد کارکنان دستگاه‌های اجرایی",
-     "s": "ایسنا",
-     "u": "https://t.me/isna94/409859",
-     "ts": "2026-10-21T22:25:06+00:00"
-    },
-    {
-     "t": "♦️امکان ۲ روز دورکاری در هفته برای کارکنان دستگاه‌های اجرایی ",
-     "s": "اخبار فوری",
-     "u": "https://t.me/akhbarefori/700526",
-     "ts": "2026-10-22T04:34:01+00:00"
-    }
-   ],
-   "sources": {
-    "ایرنا": "2026-10-21T17:38:13+00:00",
-    "مهر (سایت)": "2026-10-21T18:01:40+00:00",
-    "اخبار فوری": "2026-10-21T18:08:28+00:00",
-    "شهرآرانیوز": "2026-10-21T18:04:45+00:00",
-    "تجارت‌نیوز": "2026-10-21T18:54:12+00:00",
-    "ایسنا": "2026-10-21T22:16:43+00:00",
-    "فرارو": "2026-10-22T04:38:37+00:00",
-    "عصرایران": "2026-10-22T05:42:01+00:00",
-    "تابناک": "2026-10-22T08:34:44+00:00",
-    "خبرآنلاین": "2026-10-22T08:55:01+00:00",
-    "رویداد۲۴": "2026-10-22T14:21:37+00:00",
-    "رادیو فردا": "2026-10-22T16:32:29+00:00"
-   },
-   "first": "2026-10-21T17:38:13+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": true
   },
   {
    "id": "937ba364115b5554",
@@ -36743,10 +36481,12 @@
     "GV Wire": "2026-10-22T15:56:25+00:00",
     "KTSA": "2026-10-22T18:10:00+00:00",
     "ABC News - Breaking News, Latest News and Videos": "2026-10-22T17:48:00+00:00",
-    "WJBD Online": "2026-10-22T21:02:27+00:00"
+    "WJBD Online": "2026-10-22T21:02:27+00:00",
+    "The New American": "2026-10-22T23:08:32+00:00",
+    "X": "2026-10-23T01:14:49+00:00"
    },
    "first": "2026-10-22T00:22:00+00:00",
-   "last": "2026-10-23T00:00:48+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": "2026-10-22T00:37:41+00:00",
    "alerted": true
   },
@@ -37438,10 +37178,11 @@
     "ایرنا": "2026-10-22T13:53:01+00:00",
     "فرارو": "2026-10-22T15:06:11+00:00",
     "عصرایران": "2026-10-22T20:02:11+00:00",
-    "رویداد۲۴": "2026-10-22T20:48:45+00:00"
+    "رویداد۲۴": "2026-10-22T20:48:45+00:00",
+    "بی‌بی‌سی فارسی": "2026-10-23T01:04:59+00:00"
    },
    "first": "2026-10-22T05:47:45+00:00",
-   "last": "2026-10-22T21:00:47+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": "2026-10-22T06:06:01+00:00",
    "alerted": true
   },
@@ -37997,10 +37738,11 @@
     "KTRE": "2026-10-22T21:45:00+00:00",
     "NBC News": "2026-10-22T21:33:09+00:00",
     "WWNY": "2026-10-22T21:45:00+00:00",
-    "Chicago Tribune": "2026-10-22T22:06:46+00:00"
+    "Chicago Tribune": "2026-10-22T22:06:46+00:00",
+    "1News": "2026-10-23T01:19:27+00:00"
    },
    "first": "2026-10-22T08:52:03+00:00",
-   "last": "2026-10-23T01:00:46+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": true
   },
@@ -38205,79 +37947,6 @@
    "alerted": false
   },
   {
-   "id": "93dce58d23ae0090",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "پزشکیان: روستا و عشایر، ریشه‌های اصیل هویت فرهنگی و اجتماعی ایران عزیز هستند",
-     "s": "ایسنا (سایت)",
-     "u": "https://www.isna.ir/news/1405073020460/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7-%D9%88-%D8%B9%D8%B4%D8%A7%DB%8C%D8%B1-%D8%B1%DB%8C%D8%B4%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D8%B5%DB%8C%D9%84-%D9%87%D9%88%DB%8C%D8%AA-%D9%81%D8%B1%D9%87%D9%86%DA%AF%DB%8C-%D9%88-%D8%A7%D8%…",
-     "ts": "2026-10-22T10:19:54+00:00"
-    },
-    {
-     "t": "[عکس] رئیس جمهور: روستا و عشایر،ریشه‌های اصیل هویت فرهنگی و اجتماعی ایران هستند",
-     "s": "ایرنا",
-     "u": "https://t.me/irna_1313/465061",
-     "ts": "2026-10-22T10:38:54+00:00"
-    },
-    {
-     "t": "پزشکیان: هنر می‌تواند یکی از ابزارهای مؤثر دیپلماسی فرهنگی باشد/ روستا و عشایر، ریشه‌های اصیل هویت فرهنگی و اجتماعی ایران عزیز هستند",
-     "s": "خبرآنلاین (سایت)",
-     "u": "https://www.khabaronline.ir/news/2291690/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D9%87%D9%86%D8%B1-%D9%85%DB%8C-%D8%AA%D9%88%D8%A7%D9%86%D8%AF-%DB%8C%DA%A9%DB%8C-%D8%A7%D8%B2-%D8%A7%D8%A8%D8%B2%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D9%85%D8%A4%D8%AB%D8%B1-%D8%AF%DB%8C%D9%BE%D9%84%D9%85%D8%A7%D8%B3%DB%…",
-     "ts": "2026-10-22T10:50:25+00:00"
-    },
-    {
-     "t": "پزشکیان: فرهنگ روستا و عشایر بخشی از ریشه‌های هویت ایرانی است",
-     "s": "مهر (سایت)",
-     "u": "https://www.mehrnews.com/news/6986613/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D9%81%D8%B1%D9%87%D9%86%DA%AF-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7-%D9%88-%D8%B9%D8%B4%D8%A7%DB%8C%D8%B1-%D8%A8%D8%AE%D8%B4%DB%8C-%D8%A7%D8%B2-%D8%B1%DB%8C%D8%B4%D9%87-%D9%87%D8%A7%DB%8C-%D9%87%D9%88%DB%8C%D8%AA-%D8%A7%DB%8…",
-     "ts": "2026-10-22T16:53:42+00:00"
-    }
-   ],
-   "sources": {
-    "ایسنا": "2026-10-22T10:19:54+00:00",
-    "ایرنا": "2026-10-22T10:38:54+00:00",
-    "خبرآنلاین": "2026-10-22T10:50:25+00:00",
-    "مهر (سایت)": "2026-10-22T16:53:42+00:00"
-   },
-   "first": "2026-10-22T10:19:54+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "64e0cfc052560308",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Irish central bank fines Coinbase unit €3.25 million",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbk5FZEJQRDhUeGJnTnFGVEtCcm8xVWpHalUxT2dna2h5WXdOdTVOSU8wbFFGZkJMcjUzUnRjTDA0bmd1OUxXRm41ckZkRDVkZFFVT3lhVHpyQlNyTTlRQ0dSNDVPUDBIRURNY0l6czBQWENOcTdlTmh5dUFsQ1VpQzJzRzVUS29Zc243aFNsWlFCUDF4dENwWU9CS3AtOTd6d2h2ZXJ3?oc=5",
-     "ts": "2026-10-22T10:20:10+00:00"
-    },
-    {
-     "t": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
-     "s": "CoinDesk",
-     "u": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
-     "ts": "2026-10-22T15:40:25+00:00"
-    },
-    {
-     "t": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
-     "s": "Cointelegraph",
-     "u": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "ts": "2026-10-22T16:48:00+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T10:20:10+00:00",
-    "CoinDesk": "2026-10-22T15:40:25+00:00",
-    "Cointelegraph": "2026-10-22T16:48:00+00:00"
-   },
-   "first": "2026-10-22T10:20:10+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "ee11a21e3290ec11",
    "lang": "en",
    "titles": [
@@ -38453,84 +38122,6 @@
    },
    "first": "2026-10-22T11:09:49+00:00",
    "last": "2026-10-22T19:00:58+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "1d74aa83e2ab76a8",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "[ویدیو] ♦️ علت عدم حضور رهبر انقلاب در بین مردم چیست؟",
-     "s": "اخبار فوری",
-     "u": "https://t.me/akhbarefori/700646",
-     "ts": "2026-10-22T11:16:24+00:00"
-    },
-    {
-     "t": "عضو خبرگان: آقا مجتبی با دستان خودشان برایمان سفره باز کردند و غذا آوردند؛ کاملا سالم اند",
-     "s": "عصرایران",
-     "u": "https://www.asriran.com/fa/news/1200744/عضو-خبرگان-آقا-مجتبی-با-دستان-خودشان-برایمان-سفره-باز-کردند-و-غذا-آوردند-کاملا-سالم-اند",
-     "ts": "2026-10-22T16:53:56+00:00"
-    }
-   ],
-   "sources": {
-    "اخبار فوری": "2026-10-22T11:16:24+00:00",
-    "عصرایران": "2026-10-22T16:53:56+00:00"
-   },
-   "first": "2026-10-22T11:16:24+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "3bf1eea6731b399e",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "پزشکیان: آینده ایران، در گرو بهره‌گیری از همه سرمایه‌های انسانی و فرهنگی این سرزمین است",
-     "s": "ایسنا (سایت)",
-     "u": "https://www.isna.ir/news/1405073020503/%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C%D8%A7%D9%86-%D8%A2%DB%8C%D9%86%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%AF%D8%B1-%DA%AF%D8%B1%D9%88-%D8%A8%D9%87%D8%B1%D9%87-%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A7%D8%B2-%D9%87%D9%85%D9%87-%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D9%87-%D9%…",
-     "ts": "2026-10-22T11:31:04+00:00"
-    },
-    {
-     "t": "[عکس] پزشکیان: آینده ایران، در گرو بهره‌گیری از همه سرمایه‌های انسانی و فرهنگی این سرزمین است",
-     "s": "ایسنا",
-     "u": "https://t.me/isna94/409926",
-     "ts": "2026-10-22T11:35:45+00:00"
-    },
-    {
-     "t": "پزشکیان: برنامه ایران جان، فرصتی ارزشمند برای دیدن دوباره ایران است",
-     "s": "خبرفوری (سایت)",
-     "u": "https://www.khabarfoori.com/fa/tiny/news-3254369",
-     "ts": "2026-10-22T11:50:10+00:00"
-    },
-    {
-     "t": "پزشکیان: آینده ایران، در گرو بهره‌گیری از همه سرمایه‌های انسانی و فرهنگی این سرزمین است",
-     "s": "تجارت‌نیوز (سایت)",
-     "u": "https://tejaratnews.com/%d9%be%d8%b2%d8%b4%da%a9%db%8c%d8%a7%d9%86-%d8%a2%db%8c%d9%86%d8%af%d9%87-%d8%a7%db%8c%d8%b1%d8%a7%d9%86%d8%8c-%d8%af%d8%b1-%da%af%d8%b1%d9%88-%d8%a8%d9%87%d8%b1%d9%87%da%af%db%8c%d8%b1",
-     "ts": "2026-10-22T11:52:47+00:00"
-    },
-    {
-     "t": "[عکس] 🔻پزشکیان: آینده ایران، در گرو بهره‌گیری از همه سرمایه‌های انسانی و فرهنگی این سرزمین است",
-     "s": "تجارت‌نیوز",
-     "u": "https://t.me/tejaratnews/315261",
-     "ts": "2026-10-22T11:55:03+00:00"
-    },
-    {
-     "t": "[عکس] پزشکیان: «ایران‌جان» فرصتی ارزشمند برای دیدن دوباره ایران است",
-     "s": "ایرنا",
-     "u": "https://t.me/irna_1313/465076",
-     "ts": "2026-10-22T11:47:19+00:00"
-    }
-   ],
-   "sources": {
-    "ایسنا": "2026-10-22T11:31:04+00:00",
-    "اخبار فوری": "2026-10-22T11:50:10+00:00",
-    "تجارت‌نیوز": "2026-10-22T11:52:47+00:00",
-    "ایرنا": "2026-10-22T11:47:19+00:00"
-   },
-   "first": "2026-10-22T11:31:04+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -38776,46 +38367,6 @@
    },
    "first": "2026-10-22T11:42:00+00:00",
    "last": "2026-10-22T17:30:42+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "4d85c01b3db37850",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "وجود ۴۰۰ مدرسه در کشور با یک دانش‌آموز",
-     "s": "مهر (سایت)",
-     "u": "https://www.mehrnews.com/news/6986403/%D9%88%D8%AC%D9%88%D8%AF-%DB%B4%DB%B0%DB%B0-%D9%85%D8%AF%D8%B1%D8%B3%D9%87-%D8%AF%D8%B1-%DA%A9%D8%B4%D9%88%D8%B1-%D8%A8%D8%A7-%DB%8C%DA%A9-%D8%AF%D8%A7%D9%86%D8%B4-%D8%A2%D9%85%D9%88%D8%B2",
-     "ts": "2026-10-22T12:10:40+00:00"
-    },
-    {
-     "t": "۴۰۰ مدرسه در کشور تنها یک دانش‌آموز دارند",
-     "s": "خبرفوری (سایت)",
-     "u": "https://www.khabarfoori.com/fa/tiny/news-3254375",
-     "ts": "2026-10-22T12:19:14+00:00"
-    },
-    {
-     "t": "400 مدرسه در کشور فقط یک دانش‌آموز دارند",
-     "s": "تجارت‌نیوز (سایت)",
-     "u": "https://tejaratnews.com/400-%d9%85%d8%af%d8%b1%d8%b3%d9%87-%d8%af%d8%b1-%da%a9%d8%b4%d9%88%d8%b1-%d9%81%d9%82%d8%b7-%db%8c%da%a9-%d8%af%d8%a7%d9%86%d8%b4%d8%a2%d9%85%d9%88%d8%b2-%d8%af%d8%a7%d8%b1%d9%86%d8%af",
-     "ts": "2026-10-22T15:03:42+00:00"
-    },
-    {
-     "t": "تلاش برای گسترش عدالت آموزشی | ۴۰۰ مدرسه در کشور فقط یک دانش‌آموز دارند",
-     "s": "شهرآرانیوز",
-     "u": "https://shahraranews.ir/fa/news/454387/تلاش-برای-گسترش-عدالت-آموزشی-400-مدرسه-در-کشور-فقط-یک-دانش-آموز-دارند",
-     "ts": "2026-10-22T16:49:11+00:00"
-    }
-   ],
-   "sources": {
-    "مهر (سایت)": "2026-10-22T12:10:40+00:00",
-    "اخبار فوری": "2026-10-22T12:19:14+00:00",
-    "تجارت‌نیوز": "2026-10-22T15:03:42+00:00",
-    "شهرآرانیوز": "2026-10-22T16:49:11+00:00"
-   },
-   "first": "2026-10-22T12:10:40+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -39355,7 +38906,7 @@
     "Bloomberg Markets": "2026-10-23T00:15:37+00:00"
    },
    "first": "2026-10-22T13:23:43+00:00",
-   "last": "2026-10-23T00:30:37+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -39516,90 +39067,6 @@
    "alerted": false
   },
   {
-   "id": "9b9ea823b41e8ad8",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "France's 24-year high borrowing costs could be 'warm up for Germany'",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yN3lydGRLS0xpMll1YUVkWHNHb1ktc3NYX2dHTzU4MTgxZHNNc1F4Q0s0a25Da3BCTE9scGRNT1N4WnlRZV9kQ1lCSTVXbzlvdzhRdklTbFUxQWhSRTdSOG5FQUxEQmc?oc=5",
-     "ts": "2026-10-22T14:05:44+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T14:05:44+00:00"
-   },
-   "first": "2026-10-22T14:05:44+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "851f2e620aecda02",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Teacher in Oregon shooting said she pretended to be dead to survive",
-     "s": "BBC World",
-     "u": "https://www.bbc.co.uk/news/articles/cqvgrmzdzgr7o?at_medium=RSS&at_campaign=rss",
-     "ts": "2026-10-22T14:09:54+00:00"
-    }
-   ],
-   "sources": {
-    "BBC World": "2026-10-22T14:09:54+00:00"
-   },
-   "first": "2026-10-22T14:09:54+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "e7fd0fe982469898",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "اقدام خصمانه پارلمان اروپا علیه انصارالله یمن",
-     "s": "ایسنا (سایت)",
-     "u": "https://www.isna.ir/news/1405073020573/%D8%A7%D9%82%D8%AF%D8%A7%D9%85-%D8%AE%D8%B5%D9%85%D8%A7%D9%86%D9%87-%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%D8%A7%D9%84%D9%84%D9%87-%DB%8C%D9%85%D9%86",
-     "ts": "2026-10-22T14:12:32+00:00"
-    },
-    {
-     "t": "اقدام پارلمان اروپا علیه انصارالله یمن",
-     "s": "فرارو",
-     "u": "https://fararu.com/fa/news/1011667/%D8%A7%D9%82%D8%AF%D8%A7%D9%85-%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%B9%D9%84%DB%8C%D9%87-%D8%A7%D9%86%D8%B5%D8%A7%D8%B1%D8%A7%D9%84%D9%84%D9%87-%DB%8C%D9%85%D9%86",
-     "ts": "2026-10-22T15:11:34+00:00"
-    },
-    {
-     "t": "اقدام پارلمان اروپا علیه انصارالله یمن",
-     "s": "رویداد۲۴",
-     "u": "https://www.rouydad24.ir/fa/news/474965/اقدام-پارلمان-اروپا-علیه-انصارالله-یمن",
-     "ts": "2026-10-22T15:46:37+00:00"
-    },
-    {
-     "t": "[عکس] اقدام خصمانه پارلمان اروپا علیه انصارالله یمن",
-     "s": "ایسنا",
-     "u": "https://t.me/isna94/409944",
-     "ts": "2026-10-22T15:50:01+00:00"
-    },
-    {
-     "t": "اقدام خصمانه پارلمان اروپا علیه انصارالله یمن",
-     "s": "تابناک",
-     "u": "https://www.tabnak.ir/fa/news/1399911/اقدام-خصمانه-پارلمان-اروپا-علیه-انصارالله-یمن",
-     "ts": "2026-10-22T16:26:45+00:00"
-    }
-   ],
-   "sources": {
-    "ایسنا": "2026-10-22T14:12:32+00:00",
-    "فرارو": "2026-10-22T15:11:34+00:00",
-    "رویداد۲۴": "2026-10-22T15:46:37+00:00",
-    "تابناک": "2026-10-22T16:26:45+00:00"
-   },
-   "first": "2026-10-22T14:12:32+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "6f3a7552a1e8715d",
    "lang": "fa",
    "titles": [
@@ -39629,25 +39096,6 @@
    },
    "first": "2026-10-22T14:14:44+00:00",
    "last": "2026-10-22T19:00:58+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "d4df9f6723bc9539",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Macro Matters: 'France is too big to fail'",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1OcURjQmVwT0pRYVhNZU92cHlhVExDSEt4eGJENDJsUU1VQXBTMTlNOFVwQk1MSGdCVUZkelVBYUpIcVhXZlE5a1k0V1c5N3V5Tl9lbVF1aUNoUERERkdjZWc0dUQtVnc?oc=5",
-     "ts": "2026-10-22T14:20:47+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T14:20:47+00:00"
-   },
-   "first": "2026-10-22T14:20:47+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -39836,71 +39284,6 @@
    },
    "first": "2026-10-22T14:41:43+00:00",
    "last": "2026-10-22T20:00:50+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "d3c3ab7640bbfd68",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "موافقت بن‌گویر با توزیع سلاح در ۱۱ شهرک جدید در کرانه باختری",
-     "s": "ایسنا (سایت)",
-     "u": "https://www.isna.ir/news/1405073020584/%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%AA-%D8%A8%D9%86-%DA%AF%D9%88%DB%8C%D8%B1-%D8%A8%D8%A7-%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%D8%B3%D9%84%D8%A7%D8%AD-%D8%AF%D8%B1-%DB%B1%DB%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%A7%D9%86%D9…",
-     "ts": "2026-10-22T14:44:14+00:00"
-    },
-    {
-     "t": "[عکس] حماس: تصمیم بن‌گویر برای تسلیح شهرک‌نشینان، دعوت صریح به کشتار فلسطینیان است",
-     "s": "ایسنا",
-     "u": "https://t.me/isna94/409946",
-     "ts": "2026-10-22T16:01:01+00:00"
-    },
-    {
-     "t": "واکنش حماس به تصمیم بن‌گویر برای تسلیح شهرک‌نشینان در ۱۱ شهرک کرانه باختری",
-     "s": "شهرآرانیوز",
-     "u": "https://shahraranews.ir/fa/news/454378/واکنش-حماس-به-تصمیم-بن-گویر-برای-تسلیح-شهرک-نشینان-در-11-شهرک-کرانه-باختری",
-     "ts": "2026-10-22T16:03:40+00:00"
-    },
-    {
-     "t": "موافقت بن‌گویر با توزیع سلاح در ۱۱ شهرک جدید در کرانه باختری",
-     "s": "خبرآنلاین (سایت)",
-     "u": "https://www.khabaronline.ir/news/2291811/%D9%85%D9%88%D8%A7%D9%81%D9%82%D8%AA-%D8%A8%D9%86-%DA%AF%D9%88%DB%8C%D8%B1-%D8%A8%D8%A7-%D8%AA%D9%88%D8%B2%DB%8C%D8%B9-%D8%B3%D9%84%D8%A7%D8%AD-%D8%AF%D8%B1-%DB%B1%DB%B1-%D8%B4%D9%87%D8%B1%DA%A9-%D8%AC%D8%AF%DB%8C%D8%AF-%D8%AF%D8%B1-%DA%A9%D8%B1%D8%A7%D9%86%…",
-     "ts": "2026-10-22T16:30:42+00:00"
-    }
-   ],
-   "sources": {
-    "ایسنا": "2026-10-22T14:44:14+00:00",
-    "شهرآرانیوز": "2026-10-22T16:03:40+00:00",
-    "خبرآنلاین": "2026-10-22T16:30:42+00:00"
-   },
-   "first": "2026-10-22T14:44:14+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "0a4babff2d7b80a5",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Iran’s FM says they will always have ‘leverage’ over Hormuz",
-     "s": "Fox News",
-     "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fSXZURTFWS2ozaUdudGhLSGZzVGMtMF9Kekk5T0V1RGZUb3lNTDVUcUxKLXZnZHNmTEVaT3ZnS1NHa2dySEo3QzNzczFEUlZCZXU2Mzhn?oc=5",
-     "ts": "2026-10-22T14:48:51+00:00"
-    },
-    {
-     "t": "Iran’s FM says they will always have ‘leverage’ over Hormuz",
-     "s": "Yahoo",
-     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbGh1TjdrdHR4WTV0Y0Z5UmdBSEhIZ3hWQnBESFdOaWtEaE5nZHNIN0xmQ0lLd0hORzg5SjFYblhKQWdhdkJZZ1pWbzdxQTR4azhwa0d3Vjg1YWdZRjFQSUMwNjUtaVd0QlJMVmJyU2pJcnRHN2FDREh6ai1WTXhReHhhZw?oc=5",
-     "ts": "2026-10-22T14:48:51+00:00"
-    }
-   ],
-   "sources": {
-    "Fox News": "2026-10-22T14:48:51+00:00",
-    "Yahoo": "2026-10-22T14:48:51+00:00"
-   },
-   "first": "2026-10-22T14:48:51+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -40186,25 +39569,6 @@
    "alerted": false
   },
   {
-   "id": "f854d05835600d5e",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "اجتماع زنان مشهدی در دفاع از حجاب دختران آذربایجانی",
-     "s": "مهر (سایت)",
-     "u": "https://www.mehrnews.com/news/6986552/%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9-%D8%B2%D9%86%D8%A7%D9%86-%D9%85%D8%B4%D9%87%D8%AF%DB%8C-%D8%AF%D8%B1-%D8%AF%D9%81%D8%A7%D8%B9-%D8%A7%D8%B2-%D8%AD%D8%AC%D8%A7%D8%A8-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86-%D8%A2%D8%B0%D8%B1%D8%A8%D8%A7%DB%8C%D8%AC%D8%A7%D9%86%…",
-     "ts": "2026-10-22T15:21:08+00:00"
-    }
-   ],
-   "sources": {
-    "مهر (سایت)": "2026-10-22T15:21:08+00:00"
-   },
-   "first": "2026-10-22T15:21:08+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "0cdcda401cf0190e",
    "lang": "fa",
    "titles": [
@@ -40259,14 +39623,21 @@
      "s": "Bloomberg Markets",
      "u": "https://www.bloomberg.com/news/articles/2026-10-22/stock-market-today-dow-s-p-live-updates",
      "ts": "2026-10-22T22:05:06+00:00"
+    },
+    {
+     "t": "Global Market Today: Asian stocks slide after US tech rout",
+     "s": "The Economic Times",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORTI2bkFqeXlwYXZmY2VBMVB0a2pESkdwbkJfenZleGNrT0lxWmZCUnFGX1Nzd3FhSkI2RUdrWjRrVDRFaXhlXzY3cndfd2o4eFZvZmxkVkI0MTZlU2lGMUNyN2pEUFROUkxiRDBqczFrdnRURTFJWXZMLTlCWjJjTjlRZkxZWUh3RlZsOUducHpDMlpLSERuRGcwR0t0aHNWbFlvSXZyeHBFMWY5X0w5eWpmWW9iWFJvREttc3h6M2…",
+     "ts": "2026-10-23T00:52:15+00:00"
     }
    ],
    "sources": {
     "Howl.link": "2026-10-22T13:11:23+00:00",
-    "Bloomberg Markets": "2026-10-22T22:05:06+00:00"
+    "Bloomberg Markets": "2026-10-22T22:05:06+00:00",
+    "The Economic Times": "2026-10-23T00:52:15+00:00"
    },
    "first": "2026-10-22T13:11:23+00:00",
-   "last": "2026-10-22T22:30:34+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -40442,25 +39813,6 @@
    "alerted": false
   },
   {
-   "id": "bcdda7bd4144e535",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "British teenager Slater to make F1 practice debut with Audi",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUG9UQzF1N2R0eDNEdE9TNlVWX0VWOTJfTXBud3lkRDZiY2ludzE0eHp5UVlidlRLN29ZSV9ZZEZ6UGRvRktRaDREeEQ3dVBEZVNiaUo3UHBMaktudWVHVGxTRzJVekhvOXMwbm1EU1pmRTYyWVZWVVF0MXdCTDUxMnRFR25DVTF5OTd6UDg1T3dJVXhwNWthWFFRTy1Vd0JaTU1kVS10bXB6aTNB?oc=5",
-     "ts": "2026-10-22T15:47:44+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T15:47:44+00:00"
-   },
-   "first": "2026-10-22T15:47:44+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "3c561c81ecfb8d65",
    "lang": "fa",
    "titles": [
@@ -40581,32 +39933,6 @@
    },
    "first": "2026-10-22T15:40:00+00:00",
    "last": "2026-10-22T19:00:58+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "ce7b0b8dd2270df3",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "US to host inaugural Women's Club World Cup in 2028",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcFByMHpnbHFVX3ZIcG1ObGFicGt0aXZDazFfZGJ5SF93WUh1U016XzNrOWJ3RXN6LWVoZC11VExwMmtYb0t2Yl9wU2N5ZDMyMXdyWmVZR3EyRUJHWDY0V3kwUnkzekc2Mmx2a1g5RTlCVUZYbG8xaXRnckhteUhPWkV4M1dPcm1GamFqWmtGN0lFd2lTQWU0cHVn?oc=5",
-     "ts": "2026-10-22T15:59:44+00:00"
-    },
-    {
-     "t": "FIFA announces USA to host first Women’s Club World Cup in 2028",
-     "s": "Al Jazeera",
-     "u": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss",
-     "ts": "2026-10-22T16:34:38+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T15:59:44+00:00",
-    "Al Jazeera": "2026-10-22T16:34:38+00:00"
-   },
-   "first": "2026-10-22T15:59:44+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -40833,32 +40159,6 @@
    "alerted": false
   },
   {
-   "id": "1d9dfdb243d86142",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "[عکس] تجارت چین و آسیای مرکزی از ۱۰۶ میلیارد دلار گذشت؛ تحولی مهم در معادلات اقتصادی اوراسیا",
-     "s": "ایرنا",
-     "u": "https://t.me/irna_1313/465119",
-     "ts": "2026-10-22T16:17:01+00:00"
-    },
-    {
-     "t": "تجارت چین و آسیای مرکزی از ۱۰۶ میلیارد دلار گذشت",
-     "s": "تجارت‌نیوز (سایت)",
-     "u": "https://tejaratnews.com/%d8%aa%d8%ac%d8%a7%d8%b1%d8%aa-%da%86%db%8c%d9%86-%d9%88-%d8%a2%d8%b3%db%8c%d8%a7%db%8c-%d9%85%d8%b1%da%a9%d8%b2%db%8c-%d8%a7%d8%b2-%db%b1%db%b0%db%b6-%d9%85%db%8c%d9%84%db%8c%d8%a7%d8%b1%d8%af-%d8%af",
-     "ts": "2026-10-22T16:45:15+00:00"
-    }
-   ],
-   "sources": {
-    "ایرنا": "2026-10-22T16:17:01+00:00",
-    "تجارت‌نیوز": "2026-10-22T16:45:15+00:00"
-   },
-   "first": "2026-10-22T16:17:01+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "5768a41358643b38",
    "lang": "fa",
    "titles": [
@@ -40983,386 +40283,6 @@
    "alerted": false
   },
   {
-   "id": "aa64fab03ddca1e3",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Infineum International Limited",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tUzE0ZDJXYm9QOGZPUWNvU1Bodzg2d2doeV8wQTRxbXYwN0ktcnZnRE82b1RuelFzQWttQzhUTjhRQkZXTHdxTS1TbjlyUl9TdnlmZl91cHkyYm9IcGJSWEN2clZoby1lNThDdzdtUmY?oc=5",
-     "ts": "2026-10-22T14:20:46+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T14:20:46+00:00"
-   },
-   "first": "2026-10-22T14:20:46+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "08e31e01b32ff63e",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "MHUBF.PK",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tMmlQREVqaWRoRGFjMURhT2lkY3FHQTRJZnUyenlDVEtVT29GSWJpNHRTUVAzVjZtY2JZRmJGNWxERVZqUTRaYy1PcUUwekVLb0otbjI2WWpPWVhrcjBWY3ZZTFo?oc=5",
-     "ts": "2026-10-22T14:36:11+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T14:36:11+00:00"
-   },
-   "first": "2026-10-22T14:36:11+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "9590f6a3c85af9c0",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "- Reuters",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSEN5cV9zZ2NnTHRBbDBRUWptRVE3eGR1ZGtLbG5ZMmRCdWFXaFJfY0hBaDNndERWdXQwR28ydlFTczZoQnFyMi1OQ1pYLTlLZXlPT3FZN1Myd3o5c0pZSkJkcm9HOHpON2ZZUjRiRk9vbFhMdEtRTjFsSDh6YlFoVzlHNUxfa25oX3FWcDdLV0RBZw?oc=5",
-     "ts": "2026-10-22T14:42:16+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T14:42:16+00:00"
-   },
-   "first": "2026-10-22T14:42:16+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "22fffa47b90475a2",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Oil price surge keeps Nifty in red, Sensex sheds 460 points on Thursday",
-     "s": "Business Standard",
-     "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYjZpeFhkNWRaYnc3dzhjc0RHcWc2WlJYVEpUVjBtT2NWeXNiSklFWGhBbEhSc0lTeU5LbjNLa1RHTXQxdzJYa3VjRlJfRndyQVpIaDVnLTVUY29kTlJ1cUV6ekRCRmphTWstUWFmZlc3cEZPZFlTdmpSYmxkQ2tXbVpvSlNPWTdka3lTdnRya0dmNmVTX05LT3RIY0JYYTJXbEtSdVNwaE9vU2UxdFF4TnNORjRGYzRuYlhEQ2hJdC…",
-     "ts": "2026-10-22T15:03:06+00:00"
-    }
-   ],
-   "sources": {
-    "Business Standard": "2026-10-22T15:03:06+00:00"
-   },
-   "first": "2026-10-22T15:03:06+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "6e3962b372afd593",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "井上哲也 ソニーフィナンシャルグループ エグゼクティブ・エコノミスト",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxQZjFJb29wcjdSUkFMN0k5TnlPRDVUWERkVGcxQi1JRF91SjNNd1BxRm5Dei1Uajl6NEhjQjN6eU03MkE5cUNiNWc5aVBzX204RFhwQ3lVbDMybmJHMGk1U295ZnFIT3gzekhkUlYzR0xBNmxWYnhjWmdmNDUwQVhxdHRCaTdlcmVZdFFWZ3VNWVJiR2dMTDUtUUJZMnlFVWpaVEllSnVKLVNPRDNaTWx0Z2tEbnY0SGlXNWl4dE1DRU…",
-     "ts": "2026-10-22T15:06:19+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T15:06:19+00:00"
-   },
-   "first": "2026-10-22T15:06:19+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "6d14db83a2979895",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Bitcoin trades between $80K support and $87.5K resistance ahead of Fed rate decision and MSCI index changes.",
-     "s": "Pluang",
-     "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVzRzbUlxU0lMMWZpNUVkWktnOW9kV0JHMkJYNXBLWk9NQW56eUVsRHg3NC1yZjdtYzlhZVhmZExBeEhMSlJKVzFGWE9veG4yR2NfNW1aazIzWTFNa2pvallycDFvdHY5bk1wakdrRE94WGllQ2VpRldfdTltZjJNSHVxdElHTzFYemloR0llaW9sb0lHOU9JMFdB?oc=5",
-     "ts": "2026-10-22T15:31:22+00:00"
-    }
-   ],
-   "sources": {
-    "Pluang": "2026-10-22T15:31:22+00:00"
-   },
-   "first": "2026-10-22T15:31:22+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "66003bb5d924c131",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Trump: Iran manipulating oil, killing protesters en masse",
-     "s": "JFeed",
-     "u": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYeTZkWDJfZjNuMnYwV21jTHZtajZiQXliN3Jab2J3WTV3Sm8tU053eExGSEdsdGdRb1FSS29CakJpZjNpZi02VEFKY1ZTelg5?oc=5",
-     "ts": "2026-10-22T16:00:06+00:00"
-    }
-   ],
-   "sources": {
-    "JFeed": "2026-10-22T16:00:06+00:00"
-   },
-   "first": "2026-10-22T16:00:06+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "1c5a0b6522cf0fed",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Equity Rebound Stutters as Oil Spikes Again, Yen Gains From AI Jitters",
-     "s": "Investing.com",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYURMY1pmQWt2QUR0VXRza25LYU00V21yWXBVVkRvRWl4SkZ4SlpUdzBFMDRMZWUzeTJoMWZ0RVZ5bW5yeGliODZRLXU1Znk3ZU5aLXYzUlUyZ2ZucjRDbFRSZVE5R1pfSlh1QUxSeGhxc0lzM0c1ZGRucGI0cFJaaU1XVC1LOFM2ZzhjUDhXU2dYQTRtc3NYd241M3pIS0Zpd2dLX3hjOWJhSUFRcXphai12Ty0?oc=5",
-     "ts": "2026-10-22T16:07:30+00:00"
-    }
-   ],
-   "sources": {
-    "Investing.com": "2026-10-22T16:07:30+00:00"
-   },
-   "first": "2026-10-22T16:07:30+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "b80493e5711505a1",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Why is US Stock Market Down Today? Dow Jones Slips 200 Points, S&P 500 Falls 1.25%, Nasdaq Climbs 1.04% as SpaceX Rally, AI Demand & Fed Ra…",
-     "s": "The Sunday Guardian",
-     "u": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPaDFRUVBra1duT1NfZlkybm8ybmJfUlQwdFMwa0E1eXNGMDdjaTNYZjhfVGdvMGhyZVdoZDNTQ1ZEX09BRlNnT2xIYWFKSm9zNk0tSnlldjA2THl2M0pFQmdERkJHU3MwTG9Obm9fTjhFSG4tMWRkeGhMb0JLbkRvQTdTUzN1SFR6WW92UHJoVWhid01aU2FRMHNmdFRNLUIwQ2VjVmRRd2tBZ0Z3LVVIRlUta3l0NU9LbFZEaXBFbj…",
-     "ts": "2026-10-22T16:17:58+00:00"
-    }
-   ],
-   "sources": {
-    "The Sunday Guardian": "2026-10-22T16:17:58+00:00"
-   },
-   "first": "2026-10-22T16:17:58+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "bf5e07e43596cd74",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Oct.22: Sensex Falls 460 Pts for Third Day as Oil Risks Weigh; Nifty Slips Below 22,700",
-     "s": "The Indian Awaaz",
-     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZ1JUSXIyMDFuTk9fZG1tTm1pazNWTmFUQ3VvLU9kT3lSVC1yUXh2UHpMRDFRS25EUlc0dmtseFRKM0k4X3BySURXdkpZTllLUkEybzYtV3ZNXzhUdTNNODZYa0tfdWxDeVRvOGw4SlRMVkZIcGRoazItWmF0N2RtSU52Wm5sclE5a1owNzhPTzRTNUpxVFFLdnlzOElWRkJub3JVTnJCckxKM3Rxa3NyMkFR?oc=5",
-     "ts": "2026-10-22T16:21:00+00:00"
-    }
-   ],
-   "sources": {
-    "The Indian Awaaz": "2026-10-22T16:21:00+00:00"
-   },
-   "first": "2026-10-22T16:21:00+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "be6d19c90132994e",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Greek Finance Ministry Announces Sanctions Enforcement Against Iran",
-     "s": "IranWire",
-     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYWVVQm9FQmVpalVVSGpwZk5Xa1EwbGJKRHpDNW5RdzdJVDlRUm4zYldVTjdJNTJkX0NnQlY2RHdZZUkwX2hodlY1RTNtaGc1STBxS3Y5bEUxLS16NmNyM1NTYW82aEdXUEJHY2Y5ZENPM3hqTHFXcy11VjZSbHNMQlFzMmViR191NDVSamRQUDhCU0dhaUMzQXJTaUJmZ2lsN1hOS0dxaw?oc=5",
-     "ts": "2026-10-22T16:22:12+00:00"
-    }
-   ],
-   "sources": {
-    "IranWire": "2026-10-22T16:22:12+00:00"
-   },
-   "first": "2026-10-22T16:22:12+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "bcda19df31e9400c",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "بانک اهداف راهبردی تهران مشخص شد؛ نیروگاه‌های حیاتی اسرائیل و ۶ کشور منطقه در تیررس پاسخ متقابل ایران",
-     "s": "خبرفوری (سایت)",
-     "u": "https://www.khabarfoori.com/fa/tiny/news-3254404",
-     "ts": "2026-10-22T16:23:15+00:00"
-    }
-   ],
-   "sources": {
-    "اخبار فوری": "2026-10-22T16:23:15+00:00"
-   },
-   "first": "2026-10-22T16:23:15+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "ab945e50e337e0da",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "یازده ویدیو از حملات مرگبار به مرز ایران و پاکستان",
-     "s": "تابناک",
-     "u": "https://www.tabnak.ir/fa/news/1399912/یازده-ویدیو-از-حملات-مرگبار-به-مرز-ایران-و-پاکستان",
-     "ts": "2026-10-22T16:25:09+00:00"
-    }
-   ],
-   "sources": {
-    "تابناک": "2026-10-22T16:25:09+00:00"
-   },
-   "first": "2026-10-22T16:25:09+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "b320ffce4f2363e8",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Disclosure: The Big Lebowski and the Hunt for Presidential Records",
-     "s": "Bloomberg Politics",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-22/disclosure-the-big-lebowski-and-the-hunt-for-presidential-records",
-     "ts": "2026-10-22T16:29:14+00:00"
-    }
-   ],
-   "sources": {
-    "Bloomberg Politics": "2026-10-22T16:29:14+00:00"
-   },
-   "first": "2026-10-22T16:29:14+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "42c52ad4d38611f1",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Venezuela eyes Qatar bridge loan to clear IDB arrears, sources say",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzcxOU92RVJXd2JmQWs2Zk40dmRBdExvaFVkOXp6OGNkVkMwckwwRE94RjAydWtDc050QVVrMmV3WW5hT0QxdjN5b1RCMHZrUGpBZE5nRGRsNV85RHQydTRzS2RsdUR3WVc4SU9oMnE0RU44OThiNTRjdXFnZGk1RFhKTEx3YmxMS0F2RzJLa1o2aVZnQnFiQk9ReVF6YkhXczRKdGxUSHlRV1dWZXhFTmc3aw?oc=5",
-     "ts": "2026-10-22T16:29:31+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T16:29:31+00:00"
-   },
-   "first": "2026-10-22T16:29:31+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "a99a95bba74d16a5",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "[ویدیو] مادر جاویدنام مائده مرادی‌کیان با انتشار ویدیویی از مزار دخترش خبر داد که عکس و کتیبه مزار او را برده‌اند. او با اشاره به اینکه حتی…",
-     "s": "ایران اینترنشنال",
-     "u": "https://t.me/IranintlTV/363445",
-     "ts": "2026-10-22T16:30:00+00:00"
-    }
-   ],
-   "sources": {
-    "ایران اینترنشنال": "2026-10-22T16:30:00+00:00"
-   },
-   "first": "2026-10-22T16:30:00+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "65f8bab77b351514",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "US regulator is probing suspicious Iran oil trading, official says",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPem1fOEZ2aU10cDBTVHhDUXFuN3ZTU1l3ZXR4dkpMUUNCazJDMEk4V0UxT01nZ2tNckxuTllmYXhNeUlhSTQzbzg5dHN2aVNjMUpnNnU0T2FJWmNtTGZ4ZTg0UXNjRFhReHlDbThZalczOHdVZFBKLU9pVEp3YTBTS096QUdKVm4tbTdlQzJSYWQ5eGhDZ05FSjJJWFhNYkt2dHZERzg1Zmltc2xKUkd1UjBXUEpTdjNC?oc=5",
-     "ts": "2026-10-22T16:30:32+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T16:30:32+00:00"
-   },
-   "first": "2026-10-22T16:30:32+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "d4a24deaf7c6e229",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Blackstone Leads Debt for Gooch & Housego’s Take-Private",
-     "s": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-22/blackstone-leads-debt-package-to-take-gooch-housego-private",
-     "ts": "2026-10-22T16:30:38+00:00"
-    }
-   ],
-   "sources": {
-    "Bloomberg Markets": "2026-10-22T16:30:38+00:00"
-   },
-   "first": "2026-10-22T16:30:38+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "09612b166a393c17",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "بزرگترین باغ زیتون کشور در زنجان افتتاح شد",
-     "s": "تجارت‌نیوز (سایت)",
-     "u": "https://tejaratnews.com/%d8%a8%d8%b2%d8%b1%da%af%d8%aa%d8%b1%db%8c%d9%86-%d8%a8%d8%a7%d8%ba-%d8%b2%db%8c%d8%aa%d9%88%d9%86-%da%a9%d8%b4%d9%88%d8%b1-%d8%af%d8%b1-%d8%b2%d9%86%d8%ac%d8%a7%d9%86-%d8%a7%d9%81%d8%aa%d8%aa%d8%a7",
-     "ts": "2026-10-22T16:30:50+00:00"
-    }
-   ],
-   "sources": {
-    "تجارت‌نیوز": "2026-10-22T16:30:50+00:00"
-   },
-   "first": "2026-10-22T16:30:50+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "d30f3ddca0ac7c89",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "افتتاحیه موزه آثار استاد ابراهیم بخت‌ شکوهی - عمارت تاریخی ساعت تبریز",
-     "s": "ایسنا (سایت)",
-     "u": "https://www.isna.ir/photo/1405073020631/%D8%A7%D9%81%D8%AA%D8%AA%D8%A7%D8%AD%DB%8C%D9%87-%D9%85%D9%88%D8%B2%D9%87-%D8%A2%D8%AB%D8%A7%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF-%D8%A7%D8%A8%D8%B1%D8%A7%D9%87%DB%8C%D9%85-%D8%A8%D8%AE%D8%AA-%D8%B4%DA%A9%D9%88%D9%87%DB%8C-%D8%B9%D9%85%D8%A7%D8%B1%D8%AA-%D8%A…",
-     "ts": "2026-10-22T16:31:22+00:00"
-    }
-   ],
-   "sources": {
-    "ایسنا": "2026-10-22T16:31:22+00:00"
-   },
-   "first": "2026-10-22T16:31:22+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "610f179b09d3e661",
    "lang": "fa",
    "titles": [
@@ -41385,44 +40305,6 @@
    },
    "first": "2026-10-22T16:31:55+00:00",
    "last": "2026-10-22T17:30:42+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "bb34eeb4b521072f",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "چرا تصمیم‌های ترامپ به سود پوتین تمام می‌شوند؟",
-     "s": "فرارو",
-     "u": "https://fararu.com/fa/news/1011642/%DA%86%D8%B1%D8%A7-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D9%87%D8%A7%DB%8C-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D8%A8%D9%87-%D8%B3%D9%88%D8%AF-%D9%BE%D9%88%D8%AA%DB%8C%D9%86-%D8%AA%D9%85%D8%A7%D9%85-%D9%85%DB%8C-%D8%B4%D9%88%D9%86%D8%AF",
-     "ts": "2026-10-22T16:32:02+00:00"
-    }
-   ],
-   "sources": {
-    "فرارو": "2026-10-22T16:32:02+00:00"
-   },
-   "first": "2026-10-22T16:32:02+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "49b7186def9615ae",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "تعطیلی درس خارج آیت‌الله سبحانی در ایام فاطمیه",
-     "s": "مهر (سایت)",
-     "u": "https://www.mehrnews.com/news/6986604/%D8%AA%D8%B9%D8%B7%DB%8C%D9%84%DB%8C-%D8%AF%D8%B1%D8%B3-%D8%AE%D8%A7%D8%B1%D8%AC-%D8%A2%DB%8C%D8%AA-%D8%A7%D9%84%D9%84%D9%87-%D8%B3%D8%A8%D8%AD%D8%A7%D9%86%DB%8C-%D8%AF%D8%B1-%D8%A7%DB%8C%D8%A7%D9%85-%D9%81%D8%A7%D8%B7%D9%85%DB%8C%D9%87",
-     "ts": "2026-10-22T16:32:19+00:00"
-    }
-   ],
-   "sources": {
-    "مهر (سایت)": "2026-10-22T16:32:19+00:00"
-   },
-   "first": "2026-10-22T16:32:19+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -41453,247 +40335,6 @@
    "alerted": false
   },
   {
-   "id": "2db2040bc4ec3672",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "حسین‌زاده: روستاییان بهترین بازیگران توسعه مناطق خود هستند",
-     "s": "مهر (سایت)",
-     "u": "https://www.mehrnews.com/news/6986603/%D8%AD%D8%B3%DB%8C%D9%86-%D8%B2%D8%A7%D8%AF%D9%87-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%DB%8C%DB%8C%D8%A7%D9%86-%D8%A8%D9%87%D8%AA%D8%B1%DB%8C%D9%86-%D8%A8%D8%A7%D8%B2%DB%8C%DA%AF%D8%B1%D8%A7%D9%86-%D8%AA%D9%88%D8%B3%D8%B9%D9%87-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D8%AE%D…",
-     "ts": "2026-10-22T16:33:27+00:00"
-    }
-   ],
-   "sources": {
-    "مهر (سایت)": "2026-10-22T16:33:27+00:00"
-   },
-   "first": "2026-10-22T16:33:27+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "a3483d0d5e577466",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "ونس: اروپا به آمریکا وابسته است اما از متحدان خود انتقاد می‌کند",
-     "s": "ایسنا (سایت)",
-     "u": "https://www.isna.ir/news/1405073020632/%D9%88%D9%86%D8%B3-%D8%A7%D8%B1%D9%88%D9%BE%D8%A7-%D8%A8%D9%87-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D9%88%D8%A7%D8%A8%D8%B3%D8%AA%D9%87-%D8%A7%D8%B3%D8%AA-%D8%A7%D9%85%D8%A7-%D8%A7%D8%B2-%D9%85%D8%AA%D8%AD%D8%AF%D8%A7%D9%86-%D8%AE%D9%88%D8%AF-%D8%A7%D9%86%D8%…",
-     "ts": "2026-10-22T16:34:08+00:00"
-    },
-    {
-     "t": "واکنش ونس به ماجرای استارلینک | اروپا همچنان به آمریکا وابسته است",
-     "s": "شهرآرانیوز",
-     "u": "https://shahraranews.ir/fa/news/454389/واکنش-ونس-به-ماجرای-استارلینک-اروپا-همچنان-به-آمریکا-وابسته-است",
-     "ts": "2026-10-22T16:35:05+00:00"
-    },
-    {
-     "t": "[عکس] ونس: اروپا به آمریکا وابسته است اما از متحدان خود انتقاد می‌کند",
-     "s": "ایسنا",
-     "u": "https://t.me/isna94/409956",
-     "ts": "2026-10-22T17:00:17+00:00"
-    }
-   ],
-   "sources": {
-    "ایسنا": "2026-10-22T16:34:08+00:00",
-    "شهرآرانیوز": "2026-10-22T16:35:05+00:00"
-   },
-   "first": "2026-10-22T16:34:08+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "7006f6ddc9830130",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "همزمان با ریزش طلا جهانی، بانک‌های مرکزی همچنان دارن طلا می‌خرن ",
-     "s": "اکواحسان (رقیب)",
-     "u": "https://t.me/eco_ehsan/10086",
-     "ts": "2026-10-22T16:34:12+00:00"
-    }
-   ],
-   "sources": {
-    "اکواحسان (رقیب)": "2026-10-22T16:34:12+00:00"
-   },
-   "first": "2026-10-22T16:34:12+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "94b88208edfaf60c",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "شکست نزدیک جوانان گلنور مقابل تیم پرمهره زاگرس جهرم",
-     "s": "ایسنا (سایت)",
-     "u": "https://www.isna.ir/news/1405073020633/%D8%B4%DA%A9%D8%B3%D8%AA-%D9%86%D8%B2%D8%AF%DB%8C%DA%A9-%D8%AC%D9%88%D8%A7%D9%86%D8%A7%D9%86-%DA%AF%D9%84%D9%86%D9%88%D8%B1-%D9%85%D9%82%D8%A7%D8%A8%D9%84-%D8%AA%DB%8C%D9%85-%D9%BE%D8%B1%D9%85%D9%87%D8%B1%D9%87-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3-%D8%AC%D9%87%D8%B1…",
-     "ts": "2026-10-22T16:34:22+00:00"
-    }
-   ],
-   "sources": {
-    "ایسنا": "2026-10-22T16:34:22+00:00"
-   },
-   "first": "2026-10-22T16:34:22+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "88f2b24e38949dfb",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Albanian lawmakers scuffle in parliament as street protests continue",
-     "s": "Al Jazeera",
-     "u": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss",
-     "ts": "2026-10-22T16:35:12+00:00"
-    }
-   ],
-   "sources": {
-    "Al Jazeera": "2026-10-22T16:35:12+00:00"
-   },
-   "first": "2026-10-22T16:35:12+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "b9ee34361abb1aff",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "بختیاری‌زاده برای برد استقلال در یزد برنامه دارد: هر کاری لازم باشد انجام می‌دهیم",
-     "s": "شهرآرانیوز",
-     "u": "https://shahraranews.ir/fa/news/454383/بختیاری-زاده-برای-برد-استقلال-در-یزد-برنامه-دارد-هر-کاری-لازم-باشد-انجام-می-دهیم",
-     "ts": "2026-10-22T16:35:25+00:00"
-    }
-   ],
-   "sources": {
-    "شهرآرانیوز": "2026-10-22T16:35:25+00:00"
-   },
-   "first": "2026-10-22T16:35:25+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "4c31bfb6c502b587",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "US, Israel weigh new Iran strikes as attacks on Hormuz shipping mount",
-     "s": "Stars and Stripes",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTFU1NkJqRURqVVAzck4xVkpmbjF5ZEJMblM5OUMwQWt5YWZyVTY5LUVMRFdSdDF5T0IzOU1nU3RmQXhRMHZsc2J5MVNPVGo5dThmUHlpV0VTaHptRGhoZWp5NjM1bDBCVHNZemZwWGpjX09hY29OVFhfTzBYVTZrQVNaZVB0bE9oVnhOX1NwLTdiLUt2VWlWczV5bFdVdTg?oc=5",
-     "ts": "2026-10-22T16:35:42+00:00"
-    }
-   ],
-   "sources": {
-    "Stars and Stripes": "2026-10-22T16:35:42+00:00"
-   },
-   "first": "2026-10-22T16:35:42+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "8f475c2789a335c2",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "تاکید رئیس کمیسیون سامان‌دهی حاشیه شهر شورای اسلامی شهر بر ضرورت اجرای پروژه‌های بلاتکلیف مناطق‌ ۶‌ و ۷ مشهد",
-     "s": "شهرآرانیوز",
-     "u": "https://shahraranews.ir/fa/news/454384/تاکید-رئیس-کمیسیون-سامان-دهی-حاشیه-شهر-شورای-اسلامی-شهر-بر-ضرورت-اجرای-پروژه-های-بلاتکلیف-مناطق-6-و-7-مشهد",
-     "ts": "2026-10-22T16:35:58+00:00"
-    }
-   ],
-   "sources": {
-    "شهرآرانیوز": "2026-10-22T16:35:58+00:00"
-   },
-   "first": "2026-10-22T16:35:58+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "d846ec12a8d09972",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "[ویدیو] ♦️ ۶ ترفند طلایی برای وقت‌هایی که خورشت خراب شده! #ترفند_فوری 🇮🇷 ✊ @AkhbareFori | Link",
-     "s": "اخبار فوری",
-     "u": "https://t.me/akhbarefori/700706",
-     "ts": "2026-10-22T16:36:01+00:00"
-    }
-   ],
-   "sources": {
-    "اخبار فوری": "2026-10-22T16:36:01+00:00"
-   },
-   "first": "2026-10-22T16:36:01+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "67e4034a604afb45",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "آردا به امباپه: گل تو را دزدیدم، مرسی کیلیان!",
-     "s": "خبرآنلاین (سایت)",
-     "u": "https://www.khabaronline.ir/news/2291812/%D8%A2%D8%B1%D8%AF%D8%A7-%D8%A8%D9%87-%D8%A7%D9%85%D8%A8%D8%A7%D9%BE%D9%87-%DA%AF%D9%84-%D8%AA%D9%88-%D8%B1%D8%A7-%D8%AF%D8%B2%D8%AF%DB%8C%D8%AF%D9%85-%D9%85%D8%B1%D8%B3%DB%8C-%DA%A9%DB%8C%D9%84%DB%8C%D8%A7%D9%86",
-     "ts": "2026-10-22T16:36:03+00:00"
-    }
-   ],
-   "sources": {
-    "خبرآنلاین": "2026-10-22T16:36:03+00:00"
-   },
-   "first": "2026-10-22T16:36:03+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "a14140f6c7c62035",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "انتقال اموال گام مهم در راستای رفع ناترازی و احیای بانک ایران زمین",
-     "s": "عصرایران",
-     "u": "https://www.asriran.com/fa/news/1200743/انتقال-اموال-گام-مهم-در-راستای-رفع-ناترازی-و-احیای-بانک-ایران-زمین",
-     "ts": "2026-10-22T16:37:02+00:00"
-    }
-   ],
-   "sources": {
-    "عصرایران": "2026-10-22T16:37:02+00:00"
-   },
-   "first": "2026-10-22T16:37:02+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "e6dbd52091339aa8",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "♦️تفسیر سوره محمد| جلسه بیست‌ونهم؛ بخش اول",
-     "s": "اخبار فوری",
-     "u": "https://t.me/akhbarefori/700707",
-     "ts": "2026-10-22T16:38:02+00:00"
-    }
-   ],
-   "sources": {
-    "اخبار فوری": "2026-10-22T16:38:02+00:00"
-   },
-   "first": "2026-10-22T16:38:02+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "5f7d013cf6e9d0a7",
    "lang": "fa",
    "titles": [
@@ -41716,253 +40357,6 @@
    },
    "first": "2026-10-22T16:39:32+00:00",
    "last": "2026-10-22T17:30:42+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "9d19316d7af0cc64",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "اگر دموکرات‌ها پیروز شوند، چه بر سر ترامپ می‌آید؟",
-     "s": "فرارو",
-     "u": "https://fararu.com/fa/news/1011617/%D8%A7%DA%AF%D8%B1-%D8%AF%D9%85%D9%88%DA%A9%D8%B1%D8%A7%D8%AA-%D9%87%D8%A7-%D9%BE%DB%8C%D8%B1%D9%88%D8%B2-%D8%B4%D9%88%D9%86%D8%AF-%DA%86%D9%87-%D8%A8%D8%B1-%D8%B3%D8%B1-%D8%AA%D8%B1%D8%A7%D9%85%D9%BE-%D9%85%DB%8C-%D8%A2%DB%8C%D8%AF",
-     "ts": "2026-10-22T16:40:00+00:00"
-    }
-   ],
-   "sources": {
-    "فرارو": "2026-10-22T16:40:00+00:00"
-   },
-   "first": "2026-10-22T16:40:00+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "b8361a01545b0ac3",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "With September PPI Coming in Red Hot — Is an October Rate Hike All But Assured?",
-     "s": "24/7 Wall St.",
-     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHNKc1NreE5VODJnTWtUbmQ1UEdsV0M3V0tyZjUyd3poVHlCaTBzVjdVLVdZS1ZESVhDR2hPZVBhUXRkVlJDWlJmMS1rRjN0b0JxUWJsRDVUYjFfTDdqN3hvZFp6eElHVlJZdTJiV0N6aWtYeDRmWWN5TGgzWFJZN1ljWGUyU1R6dW1iNDJZZXlVdllXajhaRHNxTzhCSnU0OWI3SVZPcEN5SVRtb3IxbFRKOVNXUENJR3pVYg?oc=5",
-     "ts": "2026-10-22T16:40:00+00:00"
-    }
-   ],
-   "sources": {
-    "24/7 Wall St.": "2026-10-22T16:40:00+00:00"
-   },
-   "first": "2026-10-22T16:40:00+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "66d8fbe7fd43160a",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "'This is despicable': Amy Acton responds to Ohio attack ad featuring her estranged mother",
-     "s": "BBC World",
-     "u": "https://www.bbc.co.uk/news/articles/c6z981l59wnwo?at_medium=RSS&at_campaign=rss",
-     "ts": "2026-10-22T16:40:07+00:00"
-    }
-   ],
-   "sources": {
-    "BBC World": "2026-10-22T16:40:07+00:00"
-   },
-   "first": "2026-10-22T16:40:07+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "2105fec711c24024",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "U.S. Dollar Moves Away From Session Highs As Treasury Yields Drop: Analysis For EUR/USD, GBP/USD, USD/CAD, USD/JPY",
-     "s": "FXEmpire",
-     "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdWVMTW9NU2NfeGxjSHQ0cTNKTFBLbFhMVWYwZkJobjAtSDYzbjAySmRBNHRDS3F2QjdsUExnR2V5endnRHppN01HUHhWNmRaV0owdUYzc0dtOHp2OU1OV1hySEFwM0k3Z01EVElQcUx2dXFZZVJaRUhhUTJfWUxRWm1WeVluYkxuQ2d6a0tteXF4eE9FdG4tVm9ENUtwS3VUQ3dSSWNWanNDUzBtcWxuQlY4LTlrOWRmaWRneVJnZn…",
-     "ts": "2026-10-22T16:40:35+00:00"
-    }
-   ],
-   "sources": {
-    "FXEmpire": "2026-10-22T16:40:35+00:00"
-   },
-   "first": "2026-10-22T16:40:35+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "d66f4f5d9701488c",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "[عکس] محمدصالح جوکار، رییس کمیسیون امور داخلی مجلس، پنج‌شنبه ۳۰ مهر در گفت‌وگو با خبرگزاری «خانه ملت» اعلام کرد کشورهایی که سرزمین و حریم ه…",
-     "s": "ایران اینترنشنال",
-     "u": "https://t.me/IranintlTV/363447",
-     "ts": "2026-10-22T16:41:50+00:00"
-    }
-   ],
-   "sources": {
-    "ایران اینترنشنال": "2026-10-22T16:41:50+00:00"
-   },
-   "first": "2026-10-22T16:41:50+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "f440c3a5ec7202cd",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "خاورمیانه در انتظار تصمیم سرنوشت‌ساز / آیا هنوز راهی برای جلوگیری از جنگ وجود دارد؟",
-     "s": "فرارو",
-     "u": "https://fararu.com/fa/news/1011640/%D8%AE%D8%A7%D9%88%D8%B1%D9%85%DB%8C%D8%A7%D9%86%D9%87-%D8%AF%D8%B1-%D8%A7%D9%86%D8%AA%D8%B8%D8%A7%D8%B1-%D8%AA%D8%B5%D9%85%DB%8C%D9%85-%D8%B3%D8%B1%D9%86%D9%88%D8%B4%D8%AA-%D8%B3%D8%A7%D8%B2-%D8%A2%DB%8C%D8%A7-%D9%87%D9%86%D9%88%D8%B2-%D8%B1%D8%A7%D9%87%DB%8C-%D8…",
-     "ts": "2026-10-22T16:42:29+00:00"
-    }
-   ],
-   "sources": {
-    "فرارو": "2026-10-22T16:42:29+00:00"
-   },
-   "first": "2026-10-22T16:42:29+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "58df5e9a9efeceac",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Breakingviews - COMMENTARY: Mark Zuckerberg, Meta’s designated first citizen",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOaXMyZHJwMHpHYUNLRWZoSzlnM1JYODU0eEVOUko5dlBMNDBZekdnaGtzZWlSV0twMnZieG93aTZ1US1QVmVSd3RGTERQbUY0OEpGTXlHRy0xenlDMnZKbnRLOTUzMnI4ZjdTOWlyZHJQVHBzT2J2VVJHa19UM0lxUjJZNVZxRXBOZGR2TzgybHVKWUlaMFVfdEpLTVpNdWVDQ0hZVnAyVmJhVzA?oc=5",
-     "ts": "2026-10-22T16:45:00+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T16:45:00+00:00"
-   },
-   "first": "2026-10-22T16:45:00+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "c9cdd1057c1c1262",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "کشف بزرگترین پرونده برنج قاچاق در استان خراسان رضوی",
-     "s": "مهر (سایت)",
-     "u": "https://www.mehrnews.com/news/6986609/%DA%A9%D8%B4%D9%81-%D8%A8%D8%B2%D8%B1%DA%AF%D8%AA%D8%B1%DB%8C%D9%86-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%A8%D8%B1%D9%86%D8%AC-%D9%82%D8%A7%DA%86%D8%A7%D9%82-%D8%AF%D8%B1-%D8%A7%D8%B3%D8%AA%D8%A7%D9%86-%D8%AE%D8%B1%D8%A7%D8%B3%D8%A7%D9%86-%D8%B1%D8%B6%D9%88%…",
-     "ts": "2026-10-22T16:45:22+00:00"
-    }
-   ],
-   "sources": {
-    "مهر (سایت)": "2026-10-22T16:45:22+00:00"
-   },
-   "first": "2026-10-22T16:45:22+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "69d89f9603912304",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "۲۵ میلیارد تومان هزینه برای ناکامی نفت آبادان",
-     "s": "شهرآرانیوز",
-     "u": "https://shahraranews.ir/fa/news/454385/25-میلیارد-تومان-هزینه-برای-ناکامی-نفت-آبادان",
-     "ts": "2026-10-22T16:45:24+00:00"
-    }
-   ],
-   "sources": {
-    "شهرآرانیوز": "2026-10-22T16:45:24+00:00"
-   },
-   "first": "2026-10-22T16:45:24+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "ef8689c38cd3497d",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "تاثیر دارو‌های نقص توجه پیشگیری از مرگ زودرس",
-     "s": "تابناک",
-     "u": "https://www.tabnak.ir/fa/news/1399829/تاثیر-دارو-های-نقص-توجه-پیشگیری-از-مرگ-زودرس",
-     "ts": "2026-10-22T16:46:02+00:00"
-    }
-   ],
-   "sources": {
-    "تابناک": "2026-10-22T16:46:02+00:00"
-   },
-   "first": "2026-10-22T16:46:02+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "af08ab906f7aa2cf",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "[ویدیو] ♦️غافلگیر شدن مستندساز سابق من‌و‌تو توسط فلسطینیان در کف خیابان‌های کرانه باختری ",
-     "s": "اخبار فوری",
-     "u": "https://t.me/akhbarefori/700709",
-     "ts": "2026-10-22T16:46:41+00:00"
-    }
-   ],
-   "sources": {
-    "اخبار فوری": "2026-10-22T16:46:41+00:00"
-   },
-   "first": "2026-10-22T16:46:41+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "0a0ac6858c82ed1c",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets",
-     "s": "CryptoRank",
-     "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9kUUpqUTVUSldwSzJVMTJWbm9YTTRkNmU5aUx1UzA2TUFTOHMxbkVEanZqQzdUYjRLbUlyUC12VkFVbTNfOXM2Z1NfcW5GazJoMGU0VXI2OE1oRG84ME9KemIxekZKOU9GQ000T1U3LXdWUWpE?oc=5",
-     "ts": "2026-10-22T16:46:56+00:00"
-    }
-   ],
-   "sources": {
-    "CryptoRank": "2026-10-22T16:46:56+00:00"
-   },
-   "first": "2026-10-22T16:46:56+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "917aa0de310cfd61",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "معاون سیاسی سپاه: برخی در داخل دچار خودتحقیری شده‌اند و بزرگی ملت ایران را نمی‌بینند/ برای برخی در داخل، شکست آمریکا تلخ‌تر از خود آمریکایی…",
-     "s": "خبرآنلاین (سایت)",
-     "u": "https://www.khabaronline.ir/news/2291803/%D9%85%D8%B9%D8%A7%D9%88%D9%86-%D8%B3%DB%8C%D8%A7%D8%B3%DB%8C-%D8%B3%D9%BE%D8%A7%D9%87-%D8%A8%D8%B1%D8%AE%DB%8C-%D8%AF%D8%B1-%D8%AF%D8%A7%D8%AE%D9%84-%D8%AF%DA%86%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF%D8%AA%D8%AD%D9%82%DB%8C%D8%B1%DB%8C-%D8%B4%D8%AF%D9%87-%D8%A7%D9…",
-     "ts": "2026-10-22T16:48:00+00:00"
-    }
-   ],
-   "sources": {
-    "خبرآنلاین": "2026-10-22T16:48:00+00:00"
-   },
-   "first": "2026-10-22T16:48:00+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -42010,82 +40404,6 @@
    },
    "first": "2026-10-22T16:48:21+00:00",
    "last": "2026-10-22T21:30:35+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "15fee7ea1ccfae22",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "✅ تحلیل شرایط بازار و منطقه ",
-     "s": "fx_arad (رقیب)",
-     "u": "https://t.me/fx_aradt/7281",
-     "ts": "2026-10-22T16:49:18+00:00"
-    }
-   ],
-   "sources": {
-    "fx_arad (رقیب)": "2026-10-22T16:49:18+00:00"
-   },
-   "first": "2026-10-22T16:49:18+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "1e33aa2b0a75522c",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Trump ordered to answer questions under oath in BBC lawsuit",
-     "s": "BBC World",
-     "u": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-     "ts": "2026-10-22T16:49:29+00:00"
-    }
-   ],
-   "sources": {
-    "BBC World": "2026-10-22T16:49:29+00:00"
-   },
-   "first": "2026-10-22T16:49:29+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "34b9f1d8bae2ba4d",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Lawsuit accuses Trump of illegally profiting off foreign crypto deals",
-     "s": "CNBC Top News",
-     "u": "https://www.cnbc.com/2026/10/22/trump-world-liberty-crypto-lawsuit-uae.html",
-     "ts": "2026-10-22T16:49:56+00:00"
-    }
-   ],
-   "sources": {
-    "CNBC Top News": "2026-10-22T16:49:56+00:00"
-   },
-   "first": "2026-10-22T16:49:56+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "14854b42f4a919d2",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "[عکس] افزایش فشار بر معترضان در فرانسه همزمان با تشدید نارضایتی عمومی",
-     "s": "ایرنا",
-     "u": "https://t.me/irna_1313/465126",
-     "ts": "2026-10-22T16:50:09+00:00"
-    }
-   ],
-   "sources": {
-    "ایرنا": "2026-10-22T16:50:09+00:00"
-   },
-   "first": "2026-10-22T16:50:09+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -42154,25 +40472,6 @@
    "alerted": false
   },
   {
-   "id": "a329573ba596abea",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Dow Jones falls at midday as oil surge drags 0.1 percent",
-     "s": "AD HOC NEWS",
-     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMmN2VllKdDN2SFJUZFRqUlZ3OVMxMlVZc21MWFQ0Q2NjYXV6bDZYZW5raG9WbEZySUtWVXU4cHRYQk0tUFpTQl9OY0plWWFMRnVfWVJWX1NKUC1HNUxLWHViWDlYMjRuY3prRzMtSmdrWUJ4SjRQNDdWNGxxYkhQTThKaTlnamZTNlM3SlkxTDFoT1cyVGI1Snh3SW5ZMVFHY2NrMWNGUTd5RmxVMTFWdnpwWEQ4a2M4Znc?oc=5",
-     "ts": "2026-10-22T16:52:52+00:00"
-    }
-   ],
-   "sources": {
-    "AD HOC NEWS": "2026-10-22T16:52:52+00:00"
-   },
-   "first": "2026-10-22T16:52:52+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "a1287a49c51d0118",
    "lang": "fa",
    "titles": [
@@ -42194,25 +40493,6 @@
    },
    "first": "2026-10-22T16:53:00+00:00",
    "last": "2026-10-22T19:30:39+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "eb2105aad0f84c47",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Breakingviews - COMMENTARY: Blackstone sets up $10 bln test of banks’ AI risk",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZS1KT05sRmwyY1gyWnRwaHNhUjBydDBtbXR4aTZKTGV0alFVY0J6MC1TREhIRHJRWmZaTDNrWnB1bXFxZzN5a3JXcEJWZE9nc01QWXZQUkI0OE82Wml4bGVpcEdGNVFJa3pvaEdlTmI3S0NpTkRKTzlyUjRjSzNERkZhcWhIanBmSW1pU0dxdTRSdUpGVDdRWEx1dm5RMHd3WlpNNDYtZ04?oc=5",
-     "ts": "2026-10-22T16:53:05+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T16:53:05+00:00"
-   },
-   "first": "2026-10-22T16:53:05+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -42239,158 +40519,6 @@
    },
    "first": "2026-10-22T16:53:11+00:00",
    "last": "2026-10-22T17:30:42+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "fc87a22d16d4edc5",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "حسرت رئالی‌ها برای از دست رفتن یک ستاره!",
-     "s": "شهرآرانیوز",
-     "u": "https://shahraranews.ir/fa/news/454390/حسرت-رئالی-ها-برای-از-دست-رفتن-یک-ستاره",
-     "ts": "2026-10-22T16:53:17+00:00"
-    }
-   ],
-   "sources": {
-    "شهرآرانیوز": "2026-10-22T16:53:17+00:00"
-   },
-   "first": "2026-10-22T16:53:17+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "94184941cc76f200",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "بازگشت شاهسون‌ها به قشلاق مغان؛ جشنواره‌ای برای دیده‌شدن ظرفیت‌ عشایر",
-     "s": "مهر (سایت)",
-     "u": "https://www.mehrnews.com/news/6986584/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%AA-%D8%B4%D8%A7%D9%87%D8%B3%D9%88%D9%86-%D9%87%D8%A7-%D8%A8%D9%87-%D9%82%D8%B4%D9%84%D8%A7%D9%82-%D9%85%D8%BA%D8%A7%D9%86-%D8%AC%D8%B4%D9%86%D9%88%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C-%D8%A8%D8%B1%D8%A7%DB%8C-%D8%AF%DB%8C%D8%AF%D9%87…",
-     "ts": "2026-10-22T16:53:24+00:00"
-    }
-   ],
-   "sources": {
-    "مهر (سایت)": "2026-10-22T16:53:24+00:00"
-   },
-   "first": "2026-10-22T16:53:24+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "a32677cc54a7f26f",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Billionaire Jeff Yass Pours $110 Million Into Republican Midterm Push",
-     "s": "Bloomberg Politics",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-22/billionaire-jeff-yass-pours-110-million-into-republican-midterm-push",
-     "ts": "2026-10-22T16:54:18+00:00"
-    }
-   ],
-   "sources": {
-    "Bloomberg Politics": "2026-10-22T16:54:18+00:00"
-   },
-   "first": "2026-10-22T16:54:18+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "003d118b6b5072bb",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "رسالت دفاعی ارتش، همسو با خدمت‌رسانی به مناطق محروم توسعه یافته است",
-     "s": "ایسنا (سایت)",
-     "u": "https://www.isna.ir/news/1405073020639/%D8%B1%D8%B3%D8%A7%D9%84%D8%AA-%D8%AF%D9%81%D8%A7%D8%B9%DB%8C-%D8%A7%D8%B1%D8%AA%D8%B4-%D9%87%D9%85%D8%B3%D9%88-%D8%A8%D8%A7-%D8%AE%D8%AF%D9%85%D8%AA-%D8%B1%D8%B3%D8%A7%D9%86%DB%8C-%D8%A8%D9%87-%D9%85%D9%86%D8%A7%D8%B7%D9%82-%D9%85%D8%AD%D8%B1%D9%88%D9%85-%D8%…",
-     "ts": "2026-10-22T16:56:05+00:00"
-    }
-   ],
-   "sources": {
-    "ایسنا": "2026-10-22T16:56:05+00:00"
-   },
-   "first": "2026-10-22T16:56:05+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "047204effe17a3f7",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "[ویدیو] رییس دادگاه کیفری چهارم سوریه اعلام کرد احکام صادرشده در غیاب بشار اسد و ماهر اسد به‌طور رسمی به اینترپل ارسال شده است تا روند قانو…",
-     "s": "ایران اینترنشنال",
-     "u": "https://t.me/IranintlTV/363448",
-     "ts": "2026-10-22T16:56:33+00:00"
-    }
-   ],
-   "sources": {
-    "ایران اینترنشنال": "2026-10-22T16:56:33+00:00"
-   },
-   "first": "2026-10-22T16:56:33+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "c11394a8e6baa6a3",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "گلنور اولین بازی لیگ را به زاگرس جنوبی واگذار کرد",
-     "s": "مهر (سایت)",
-     "u": "https://www.mehrnews.com/news/6986607/%DA%AF%D9%84%D9%86%D9%88%D8%B1-%D8%A7%D9%88%D9%84%DB%8C%D9%86-%D8%A8%D8%A7%D8%B2%DB%8C-%D9%84%DB%8C%DA%AF-%D8%B1%D8%A7-%D8%A8%D9%87-%D8%B2%D8%A7%DA%AF%D8%B1%D8%B3-%D8%AC%D9%86%D9%88%D8%A8%DB%8C-%D9%88%D8%A7%DA%AF%D8%B0%D8%A7%D8%B1-%DA%A9%D8%B1%D8%AF",
-     "ts": "2026-10-22T16:57:34+00:00"
-    }
-   ],
-   "sources": {
-    "مهر (سایت)": "2026-10-22T16:57:34+00:00"
-   },
-   "first": "2026-10-22T16:57:34+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "a270695fd5879d2a",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "سقوط کارگر در چاله آسانسور یک ساختمان نیمه‌ساز در بلوار امام خمینی (ره)",
-     "s": "شهرآرانیوز",
-     "u": "https://shahraranews.ir/fa/news/454393/سقوط-کارگر-در-چاله-آسانسور-یک-ساختمان-نیمه-ساز-در-بلوار-امام-خمینی-ره",
-     "ts": "2026-10-22T16:57:59+00:00"
-    }
-   ],
-   "sources": {
-    "شهرآرانیوز": "2026-10-22T16:57:59+00:00"
-   },
-   "first": "2026-10-22T16:57:59+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "384ed9610bc21678",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "سردار نقدی: فشارهای خارجی زمینه افزایش آگاهی عمومی و تقویت همبستگی میان مردم و رهبری را فراهم کرده/ مقاومت ملت ایران در برابر فشارهای خارجی…",
-     "s": "خبرآنلاین (سایت)",
-     "u": "https://www.khabaronline.ir/news/2291652/%D8%B3%D8%B1%D8%AF%D8%A7%D8%B1-%D9%86%D9%82%D8%AF%DB%8C-%D9%81%D8%B4%D8%A7%D8%B1%D9%87%D8%A7%DB%8C-%D8%AE%D8%A7%D8%B1%D8%AC%DB%8C-%D8%B2%D9%85%DB%8C%D9%86%D9%87-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%A2%DA%AF%D8%A7%D9%87%DB%8C-%D8%B9%D9%85%D9%88%D9%85%DB%8…",
-     "ts": "2026-10-22T16:59:00+00:00"
-    }
-   ],
-   "sources": {
-    "خبرآنلاین": "2026-10-22T16:59:00+00:00"
-   },
-   "first": "2026-10-22T16:59:00+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -42464,25 +40592,6 @@
    "alerted": false
   },
   {
-   "id": "65a65ba74e13e02d",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Tehran Turns to Central Asia for Trade as Conflict With U.S. Simmers",
-     "s": "OilPrice",
-     "u": "https://oilprice.com/Geopolitics/International/Tehran-Turns-to-Central-Asia-for-Trade-as-Conflict-With-US-Simmers.html",
-     "ts": "2026-10-22T17:00:00+00:00"
-    }
-   ],
-   "sources": {
-    "OilPrice": "2026-10-22T17:00:00+00:00"
-   },
-   "first": "2026-10-22T17:00:00+00:00",
-   "last": "2026-10-22T17:00:49+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "ff51e0ee99d12166",
    "lang": "fa",
    "titles": [
@@ -42536,7 +40645,7 @@
     "خبرآنلاین": "2026-10-22T17:00:00+00:00"
    },
    "first": "2026-10-22T17:00:00+00:00",
-   "last": "2026-10-22T18:30:43+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -42567,63 +40676,6 @@
    "alerted": false
   },
   {
-   "id": "a1c533fb7497f9eb",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Iran Threatens Infrastructure Attacks if New Strikes Occur",
-     "s": "PravdaReport",
-     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRW55YUhITTNLZnFiZW1HRWwwcklhc2RvWlBnNE1RZXJBUFdnTmVxMHVQTXRoZGRhRGNPSEtfZjdDYTVBbnQ0RTlJcVRUM1RWNzUwU283dTFYRTBKeDRPWXBrTEZvS2E4WVNNM092bVFxNVZtdjFoaUpYb3UyV0tVSjF4Zw?oc=5",
-     "ts": "2026-10-22T15:04:00+00:00"
-    }
-   ],
-   "sources": {
-    "PravdaReport": "2026-10-22T15:04:00+00:00"
-   },
-   "first": "2026-10-22T15:04:00+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "c39173eed721c962",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Kuwait Tanker Hit in Strait of Hormuz; 21 Indian Crew Safe",
-     "s": "Rediff MoneyWiz",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVnVPMnVXQVFzZWczajhqNlk0MDV0WUhqM2dYRXhuS05DaUdOMDhvQi1xamNRbjRTNXdFLU1qbnRHTUJMQkpNd0h6cHNmdklQby13ODVDZ2VldWRKOXBYcXZlb3VXb1Y2WWNuX1RjSE1OVTdUTzZfVVRjSXdPdFNDejJwN3cyU0V1cGNVUmtpSE85ZzBZSlZaX2hkQ3dGaHNhZGZkWDEwRENQWDk1VmIweGowb9IBswFBVV95cUxOVn…",
-     "ts": "2026-10-22T15:20:19+00:00"
-    }
-   ],
-   "sources": {
-    "Rediff MoneyWiz": "2026-10-22T15:20:19+00:00"
-   },
-   "first": "2026-10-22T15:20:19+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "00a1fcd16af7acd8",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "T05A.DE",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1KWWVuRGVVQnZRZHFiSzFXTG5yZG95bkRFZnN3MnJfUXNNZWR6QUJ4MENsNU9vZVVLS2h2REt6TnJvNEs1bnBuWTRQNTVISHdkWjR3SVVPVk5SZw?oc=5",
-     "ts": "2026-10-22T15:40:00+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-22T15:40:00+00:00"
-   },
-   "first": "2026-10-22T15:40:00+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "0e7254c9fdf04dae",
    "lang": "en",
    "titles": [
@@ -42646,63 +40698,6 @@
    },
    "first": "2026-10-22T16:16:00+00:00",
    "last": "2026-10-22T18:30:43+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "0e93a908bb162571",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
-     "s": "Al Jazeera",
-     "u": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
-     "ts": "2026-10-22T16:24:43+00:00"
-    }
-   ],
-   "sources": {
-    "Al Jazeera": "2026-10-22T16:24:43+00:00"
-   },
-   "first": "2026-10-22T16:24:43+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "a4a8e654eeed59aa",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
-     "s": "Cointelegraph",
-     "u": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-     "ts": "2026-10-22T16:50:51+00:00"
-    }
-   ],
-   "sources": {
-    "Cointelegraph": "2026-10-22T16:50:51+00:00"
-   },
-   "first": "2026-10-22T16:50:51+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "c2e7889e7eabff3b",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Trump bemoans Iran's efforts to keep oil prices high",
-     "s": "Just The News",
-     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMkhwOWVMRzFPTDU1SzFmNk5UbTBSeDctUTMwOU1qZDZGa1YybmVNai1Bbzh1dWhlQ1ZmU3hfdUlWN1lOYy1jSzgydFU2aUw1bnFHM25oZnFTdzZIczI5dVBLRFBxVkFaS1J0SkxfMjhVekNmdlVSTHJVUS1lc0ljcWR6LVctcnpKNG85TWJCbnNuWXZsRi1j?oc=5",
-     "ts": "2026-10-22T16:51:21+00:00"
-    }
-   ],
-   "sources": {
-    "Just The News": "2026-10-22T16:51:21+00:00"
-   },
-   "first": "2026-10-22T16:51:21+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -42740,63 +40735,6 @@
    "alerted": false
   },
   {
-   "id": "ffbfc3a945a363df",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "صالحی: روستا باید از حاشیه به متن زندگی ایرانی بازگردد",
-     "s": "مهر (سایت)",
-     "u": "https://www.mehrnews.com/news/6986616/%D8%B5%D8%A7%D9%84%D8%AD%DB%8C-%D8%B1%D9%88%D8%B3%D8%AA%D8%A7-%D8%A8%D8%A7%DB%8C%D8%AF-%D8%A7%D8%B2-%D8%AD%D8%A7%D8%B4%DB%8C%D9%87-%D8%A8%D9%87-%D9%85%D8%AA%D9%86-%D8%B2%D9%86%D8%AF%DA%AF%DB%8C-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C-%D8%A8%D8%A7%D8%B2%DA%AF%D8%B1…",
-     "ts": "2026-10-22T17:00:37+00:00"
-    }
-   ],
-   "sources": {
-    "مهر (سایت)": "2026-10-22T17:00:37+00:00"
-   },
-   "first": "2026-10-22T17:00:37+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "11c6abbacd94251f",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "WI 5y TIPS yield about 2.36% before $26 billion auction|FJ",
-     "s": "FinancialJuice",
-     "u": "https://t.me/FinancialJuice/142187",
-     "ts": "2026-10-22T17:00:48+00:00"
-    }
-   ],
-   "sources": {
-    "FinancialJuice": "2026-10-22T17:00:48+00:00"
-   },
-   "first": "2026-10-22T17:00:48+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "57eda10278a7ad17",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-     "s": "BBC World",
-     "u": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
-     "ts": "2026-10-22T17:01:47+00:00"
-    }
-   ],
-   "sources": {
-    "BBC World": "2026-10-22T17:01:47+00:00"
-   },
-   "first": "2026-10-22T17:01:47+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "bedd8b4cc94bf606",
    "lang": "fa",
    "titles": [
@@ -42821,25 +40759,6 @@
    "last": "2026-10-22T20:34:33+00:00",
    "trend_at": null,
    "alerted": false
-  },
-  {
-   "id": "ea2a08d93ca27ffd",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "❗ Traders no longer fully price in a Fed hike before year-end|FJ",
-     "s": "FinancialJuice",
-     "u": "https://t.me/FinancialJuice/142188",
-     "ts": "2026-10-22T17:03:04+00:00"
-    }
-   ],
-   "sources": {
-    "FinancialJuice": "2026-10-22T17:03:04+00:00"
-   },
-   "first": "2026-10-22T17:03:04+00:00",
-   "last": "2026-10-22T17:04:38+00:00",
-   "trend_at": null,
-   "alerted": true
   },
   {
    "id": "5dc5e71ed0cd5f86",
@@ -53627,14 +51546,21 @@
      "s": "ANI News",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbDNXcmV2ck9EUE81a2oxMzlaMm93dFEwanFONlhqLVhMSDdvbE1jRzRSc3lMRWxGay1IOE56NmJidldhWjJBMVpZMmtGQVllaExDcmk3dVdEbXpVTGhuQXhvVVNET2tyZlEtSGQwNjF5SGZ1QVZIWWMyX0syaUJFbl9PY0hDTVoyWGV0ald2NzlXOWI1VGd2WHhrSXNtY240ZnRRSE1kT2JuUUlMWTFMQUZWdjZ2S29XMWNsWUR5Tm…",
      "ts": "2026-10-23T00:39:00+00:00"
+    },
+    {
+     "t": "\"Get your story straight\": Iran FM Araghchi criticises Macron's stance on nuclear deal",
+     "s": "Big News Network.com",
+     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRl9Wdk54MXgycjRnWV8yeE92Y2Rwb2xYcG9wR3BaQWp2U1huLUgwSkQtd3NyOE1aZ2ZhWk1zUjNqS2prWi11S0tJczdETzVuWnF4T1U1NlRrSjQzVHJmSnRQbUVaZEI5cm9iMGxvNEVpd1Nra2pFUlZnYzJCeXBEN05zWGtJV3VMZGw2OVJTVVNCa0NNajRFQXo2SmRaYlFkd3owU1psTktVbU9RdlVrdXZlcHBYY2tMWktlRFp1Q1…",
+     "ts": "2026-10-23T00:58:00+00:00"
     }
    ],
    "sources": {
     "Breakingthenews.net": "2026-10-22T20:20:00+00:00",
-    "ANI News": "2026-10-23T00:39:00+00:00"
+    "ANI News": "2026-10-23T00:39:00+00:00",
+    "Big News Network.com": "2026-10-23T00:58:00+00:00"
    },
    "first": "2026-10-22T20:20:00+00:00",
-   "last": "2026-10-23T01:00:46+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -53967,10 +51893,10 @@
    ],
    "sources": {
     "FinancialJuice": "2026-10-22T20:26:49+00:00",
-    "Breitbart News": "2026-10-22T23:57:21+00:00"
+    "Breitbart News": "2026-10-22T23:54:14+00:00"
    },
    "first": "2026-10-22T20:26:49+00:00",
-   "last": "2026-10-23T01:00:46+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -56222,7 +54148,7 @@
     "خبرگزاری فارس": "2026-10-22T20:07:26+00:00"
    },
    "first": "2026-10-22T20:07:26+00:00",
-   "last": "2026-10-22T22:00:44+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -59051,7 +56977,7 @@
     "Reuters": "2026-10-22T21:28:38+00:00"
    },
    "first": "2026-10-22T21:28:51+00:00",
-   "last": "2026-10-23T00:30:37+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -59450,14 +57376,21 @@
      "s": "Reuters",
      "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTJqdzA2UHpkbmExTlVYbWgxX2VuMGQ3ck9XcUpfUEgxQURja19JdmlfLURneW9HUWpZbzNPMFJ3bS15Zk5DYlNTWU1teWprbW1hOHlJNXdDNWxYbExYRUU0bTIyVzFPLVlRZjY2cFk0THZTb094X2FrM3lPZ005THBHczdTdEl4WEhIUXVCdnA2TE9qTEtFWHh4aHloeWZFU0RuQmhlR0VRSDRCTURWZDB2eTNnWDloNWJIWktsNG…",
      "ts": "2026-10-22T23:54:19+00:00"
+    },
+    {
+     "t": "Japanese Yen gathers strength as CPI inflation exceeds target, backing BoJ rate hikes",
+     "s": "www.tmgm.com",
+     "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVWJkeHFycWhPSFZUZXk4bU8yVVM1cUlQRkI1eXN4dHc3UFpRTEx1TmhRNnVCUXNGYTNEWFJoMGtjNFhxOFdNdVNoRWEwTkJUa1Jwb2VaZFJjVklEMGdqV21RNlVidnJQclRfTEtnLVVzZ3l3cnNFbmZyekc2N0R4YzBiN1pTTy14aS16dkZWSkZzZWMtajlKUkczc3Vob2ZadURJS1ZNMy1jS09SN0hzNXZMODV2QlB4MnRxWklFdD…",
+     "ts": "2026-10-23T00:36:33+00:00"
     }
    ],
    "sources": {
     "Bloomberg Markets": "2026-10-22T23:32:16+00:00",
-    "Reuters": "2026-10-22T23:54:19+00:00"
+    "Reuters": "2026-10-22T23:54:19+00:00",
+    "www.tmgm.com": "2026-10-23T00:36:33+00:00"
    },
    "first": "2026-10-22T23:32:16+00:00",
-   "last": "2026-10-23T00:00:48+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -60124,7 +58057,7 @@
     "FinancialJuice": "2026-10-23T00:14:59+00:00"
    },
    "first": "2026-10-23T00:14:59+00:00",
-   "last": "2026-10-23T00:30:37+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -60219,7 +58152,7 @@
     "FinancialJuice": "2026-10-23T00:22:30+00:00"
    },
    "first": "2026-10-23T00:22:30+00:00",
-   "last": "2026-10-23T00:30:37+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -60835,6 +58768,621 @@
    },
    "first": "2026-10-23T00:58:01+00:00",
    "last": "2026-10-23T01:00:46+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "e12144203add6c37",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "VEEH.BO",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3TXRxTFdIOGota1VUbmRiNHZtV1JKZ2hsNUlpb1hVd25zaDI5ZkpYd0R6OVVpaUJtdXlCZy03cklsWm40aHVHZDZNaUNPMTRnT2ZVX3FrUjNjblZRcnllZ2hyaHN2QjVqMWxjZzd2M1FGZXlicWxFUFU4OUc?oc=5",
+     "ts": "2026-10-22T22:49:54+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-22T22:49:54+00:00"
+   },
+   "first": "2026-10-22T22:49:54+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "ef3f85e34eb14f08",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Trump lands in China ahead of high-stakes talks with Xi on trade, Iran, and Taiwan",
+     "s": "WXLV",
+     "u": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQOG5HbGRHcE1uOWdVeVBmR2k1b1U4U1ZTUjBId0xid1JPcGtCbk4zUmNBMWwwdXBfYTVDbXZBVnNRTFBObFRTUWpLbGhISVp4UTdZOVJUTjlaNENZdWNCQ1l5YVE0RGdNdW1qcTJqeHlncHZBdTN6RzdIM2k0TDB4WXFkTHJmVUt4R3FMdXJrMUI4NDR2NUdfUHZ1UHhOak1OVnJWQ0V0U21FbTJOdzFmQ0RWaktUVXYxa2o5c0ZWVF…",
+     "ts": "2026-10-22T22:58:00+00:00"
+    }
+   ],
+   "sources": {
+    "WXLV": "2026-10-22T22:58:00+00:00"
+   },
+   "first": "2026-10-22T22:58:00+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "37dd14e7dc81b046",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "در زمان بمباران کجا پناه بگیریم؟",
+     "s": "تابناک",
+     "u": "https://www.tabnak.ir/fa/news/1399958/در-زمان-بمباران-کجا-پناه-بگیریم",
+     "ts": "2026-10-22T23:14:56+00:00"
+    }
+   ],
+   "sources": {
+    "تابناک": "2026-10-22T23:14:56+00:00"
+   },
+   "first": "2026-10-22T23:14:56+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "7a172b6080b32d2f",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Mexican Peso nears 18.75 as Iran risks and AI selloff hit sentiment",
+     "s": "www.tmgm.com",
+     "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQaUk2eVJmbmxQTWNNcGYtVlpoY2EyOVFTb0pSUk5wODJVR3VkVkRzbG80MHB2Z29aRXAtSFA1bU5rRy0tbW4wY0dmT1ktNWJXU3BjaEdLY2VLajZJNERoTUZNeXE4WWlHcF9xU24wRGM5SzZ3dTYwZy1TTFZPZVlFbXRqdXpEQjFlNnlTNXZQVG5Sa0Rpa1FWcm1Bdldtc2I1QlNwbWlRYUV2UVkwdjZXcDFaWjNjNzFPeUo2TXJPcX…",
+     "ts": "2026-10-22T23:41:42+00:00"
+    }
+   ],
+   "sources": {
+    "www.tmgm.com": "2026-10-22T23:41:42+00:00"
+   },
+   "first": "2026-10-22T23:41:42+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "bb864dc4d6d1bda7",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "LDIG.DE",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1dGxsd2RuNkoyRVZpR0d0NWVlYmlvcmFyeGZTRkxjSVBNRVV2S2ZaT0ZzYTNfX0h4eXRnTzhVTWVzcV82LU1oaEJrT0UzdVQ0M21ocVg2MkwxUQ?oc=5",
+     "ts": "2026-10-23T00:22:38+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-23T00:22:38+00:00"
+   },
+   "first": "2026-10-23T00:22:38+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "2e90291f8d2b28ff",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Cosco unit bets on artificial intelligence as global shipping faces fresh shocks",
+     "s": "TradeWinds News",
+     "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObWwzd19wc3NTY0ZCd003YXRiTVRkVzFBTjZPRlRZc1FVLVZWcjJjOVlnTFMyTVc2U1JsUlFaX29uMjdTUmR3VE1QRUhpQXZLSHk2YzdfUzZCLTJCUEpreFBzdnNjQ3lucFZ2SzM5cjgxR2s3Q2pHejJkc1ZHQTdxT0VlZkxCS0h4NjFnUXNSOVM5NTMyN2JubjMtd3ZFQVFTUDNZZjVxYWk2TndRLUVBZHE5WFo0dERpM1dRaEstT0…",
+     "ts": "2026-10-23T00:29:27+00:00"
+    }
+   ],
+   "sources": {
+    "TradeWinds News": "2026-10-23T00:29:27+00:00"
+   },
+   "first": "2026-10-23T00:29:27+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "03726a7a6547d21f",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Musk Giving Tops $445 Million in Midterm Election Push for GOP",
+     "s": "Bloomberg Politics",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-23/musk-giving-tops-445-million-in-midterm-election-push-for-gop",
+     "ts": "2026-10-23T00:51:42+00:00"
+    }
+   ],
+   "sources": {
+    "Bloomberg Politics": "2026-10-23T00:51:42+00:00"
+   },
+   "first": "2026-10-23T00:51:42+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "c2912b4e910acd31",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Australian TV reporter recalls 'terrifying' rescue of man from sinking car",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNS3F1RDB3UjZDc29VNHZLc25nTzBzM0ZhcmVzbFB0MG9Va2lZOVFiVWFLdWIzMXhFNy1IcUVXNXA3OUptQjVyWUFDTVVEVlNGdEpzME5MQlhQYnZJTFI2TU5iN2swaHRQUXEzSFVHcWs3VkNwb2MwYkh5MEo0am50emVTR3NGTWp1SFV0cG5IcmNOVW9xU0pndDlrR05GQlNCSlFGVVJuRVRFUkxLeHYySnBrTnJOTDZZSE1FRUJB?o…",
+     "ts": "2026-10-23T00:54:00+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-23T00:54:00+00:00"
+   },
+   "first": "2026-10-23T00:54:00+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "cd08f4d0842efcea",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Thousands protest across Poland for access to free and legal abortions",
+     "s": "Al Jazeera",
+     "u": "https://www.aljazeera.com/news/2026/10/23/thousands-protest-across-poland-for-access-to-free-and-legal-abortions?traffic_source=rss",
+     "ts": "2026-10-23T00:54:51+00:00"
+    }
+   ],
+   "sources": {
+    "Al Jazeera": "2026-10-23T00:54:51+00:00"
+   },
+   "first": "2026-10-23T00:54:51+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "1ba2c2ad47916091",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "HD Hyundai to build US shipyard with Kiewit, create 3,000 jobs",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORGdFZnB1cTFHSkN6U3AxVjRId3pBdGlzcGJSMFVNODZIRGRvWkY1UnIxbmt1dmlHRlhZM2ZCWlBDOE9sWHZJSnl3c3pVM1otWlFDQXJMSmpPWUp6Skl6cnBFVjR6d1NJcFltempDUlQtdDZNTTIzb1BvQ0h1OUpKb0w4S1o1bXlBTmQ1X0Y1R2ZVVlQtRXVsYUpfUFR1dEhrU2czdGRuX0xZaFM1ZmdTeHV3?oc=5",
+     "ts": "2026-10-23T00:56:00+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-23T00:56:00+00:00"
+   },
+   "first": "2026-10-23T00:56:00+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "3782095712686531",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Switzerland approves first spot Bitcoin ETF for retail investors",
+     "s": "Cointelegraph",
+     "u": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "ts": "2026-10-23T00:59:35+00:00"
+    }
+   ],
+   "sources": {
+    "Cointelegraph": "2026-10-23T00:59:35+00:00"
+   },
+   "first": "2026-10-23T00:59:35+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "2990eb58cb4bedec",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "نکاتی درباره «پیاده‌روی لنفاوی»",
+     "s": "عصرایران",
+     "u": "https://www.asriran.com/fa/news/1200669/نکاتی-درباره-پیاده-روی-لنفاوی",
+     "ts": "2026-10-23T01:00:01+00:00"
+    }
+   ],
+   "sources": {
+    "عصرایران": "2026-10-23T01:00:01+00:00"
+   },
+   "first": "2026-10-23T01:00:01+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "8c3fc930638a7ca6",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "درگیری پلیس تونس با معترضان در پایتخت و افزایش تنش‌ها در چند شهر",
+     "s": "ایسنا (سایت)",
+     "u": "https://www.isna.ir/news/1405080100013/%D8%AF%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D9%BE%D9%84%DB%8C%D8%B3-%D8%AA%D9%88%D9%86%D8%B3-%D8%A8%D8%A7-%D9%85%D8%B9%D8%AA%D8%B1%D8%B6%D8%A7%D9%86-%D8%AF%D8%B1-%D9%BE%D8%A7%DB%8C%D8%AA%D8%AE%D8%AA-%D9%88-%D8%A7%D9%81%D8%B2%D8%A7%DB%8C%D8%B4-%D8%AA%D9%86%D8%B4-%D9%…",
+     "ts": "2026-10-23T01:00:24+00:00"
+    }
+   ],
+   "sources": {
+    "ایسنا": "2026-10-23T01:00:24+00:00"
+   },
+   "first": "2026-10-23T01:00:24+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "c4ab275e7877c319",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Oil little changed as supply concern lingers amid Houthi attacks on Saudi Arabia",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2dZUC10TmJYRUk2RmM5WWpxaUx2XzBPZ0ZTV3hIR3BkaGFvZ3B2T1hhd0xEcXZOWk5LdXhLLUF5QU9XdTRQdnRyTk9jcmVNMEZvZlZBRW8xcG1TVW1fTkY2UnFrcXlVWlUwbDhRYk9pcW1fdEdzMVNRR2ZhYVl2T0RZa09uZTktZGFWRVRWSEpGeFhYVXVPR09zNDVaTVdiNDdRRHg3VFNyZWNNWVBmdkxGMWFOa05yN2NBRnRVZj…",
+     "ts": "2026-10-23T01:04:00+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-23T01:04:00+00:00"
+   },
+   "first": "2026-10-23T01:04:00+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "e8ba914458a526a8",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Energy White Paper Warns: Middle East Turmoil Exposes Supply Chain Weaknesses and the Limits of Reliance on Reserves",
+     "s": "BigGo Finance",
+     "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lVTg1ZTNLTDNrN3c3X19TRHpzUFY1NGJmamNIZG9rTFRSNVVVOTFEdUZDamI3WWZrSnozeHpkU1ZfZ0ZTTGRsTnJuMVhpMDhRX1BnUEMwUTRLaG95SGh5T3BScjBYQk5NQlJhdWZzZm5kWUw4T2c?oc=5",
+     "ts": "2026-10-23T01:05:00+00:00"
+    }
+   ],
+   "sources": {
+    "BigGo Finance": "2026-10-23T01:05:00+00:00"
+   },
+   "first": "2026-10-23T01:05:00+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "35664468dbc7abf7",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "[عکس] زلنسکی: گازوئیل روسیه تاثیر کافی بر قیمت‌های آمریکا ندارد",
+     "s": "ایرنا",
+     "u": "https://t.me/irna_1313/465196",
+     "ts": "2026-10-23T01:05:22+00:00"
+    }
+   ],
+   "sources": {
+    "ایرنا": "2026-10-23T01:05:22+00:00"
+   },
+   "first": "2026-10-23T01:05:22+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "ee7006f08d3282ae",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "ナイジェリアで初のエボラ感染確認、隔離治療のための支援要請",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Yd1BBV1hYaVNFTHlFWVZpTENUdDJWa2Z5NEMtTWNLVjhqaVJBRXNQZ1I1b21PWFE4V1d6MFBrcmZUbWxHN0M3Z3U5dkJaRERmVXlacEJMSTJFRGl2ejB0RDNwTUoyX3hhY2Nra2szQW9fdFJUWTNRdVhR?oc=5",
+     "ts": "2026-10-23T01:07:29+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-23T01:07:29+00:00"
+   },
+   "first": "2026-10-23T01:07:29+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "c5d8f301fafac321",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Rupee slumps 43 paise to close at 94.81 against US dollar",
+     "s": "The Shillong Times",
+     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0lETVdDdzBIdzh0Y1pGVTRFYjFsNW5ST01CSkdvVThLcDZlOUhxaW1aNnFuN2xJNmpxajB6UnlYLS1RTnhrUEYzbk9NZGNaYmY4ZDNLRGV4LThiRGRmUEtwdnNTT20teVZaTk1raGIwWmE5Z0Jsdk0wTkRiMnZDVTdCYlhWUVlhTFdFY01iMzdRcVJfb0VzMlFPN1IyWVE?oc=5",
+     "ts": "2026-10-23T01:07:39+00:00"
+    }
+   ],
+   "sources": {
+    "The Shillong Times": "2026-10-23T01:07:39+00:00"
+   },
+   "first": "2026-10-23T01:07:39+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "4f9c2ef1827833a8",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "[عکس] ۲ مدال نقره و برنز پرتاب دیسک ناگویا برای بانوان ایرانی",
+     "s": "فارس",
+     "u": "https://t.me/farsna/470112",
+     "ts": "2026-10-23T01:13:45+00:00"
+    },
+    {
+     "t": "مدال نقره و برنز پرتاب دیسک به دختران ایران رسید",
+     "s": "مهر (سایت)",
+     "u": "https://www.mehrnews.com/news/6986772/%D9%85%D8%AF%D8%A7%D9%84-%D9%86%D9%82%D8%B1%D9%87-%D9%88-%D8%A8%D8%B1%D9%86%D8%B2-%D9%BE%D8%B1%D8%AA%D8%A7%D8%A8-%D8%AF%DB%8C%D8%B3%DA%A9-%D8%A8%D9%87-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86-%D8%B1%D8%B3%DB%8C%D8%AF",
+     "ts": "2026-10-23T01:19:42+00:00"
+    }
+   ],
+   "sources": {
+    "فارس": "2026-10-23T01:13:45+00:00",
+    "مهر (سایت)": "2026-10-23T01:19:42+00:00"
+   },
+   "first": "2026-10-23T01:13:45+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "f85d395ea07aa6be",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "COMMENTARY: US tariff war is fueling Vietnam's coal boom",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOG84XzgtRVI4UzlHbEhTWFNJMlVkOU1hTG13WWxmU25waWNBekhRSHZpODA5MlZWTlBmNUxvaFljaDZRcEU4LXdTc1RxTUpIUGRjcjNjLVdSTUVETV9jT3lWME5vR1pzOUN0cXpyU2x3dzg3Y0NwRkpqTGVaX2h2bm1GVmN1OEo1VG1Id3VGWmptd3RST2ZhTk94Y0kta1E2SnlhYUlDNmhLQjczTEVvT3ZR?oc=5",
+     "ts": "2026-10-23T01:14:00+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-23T01:14:00+00:00"
+   },
+   "first": "2026-10-23T01:14:00+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "788f3f4b2041f89c",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Wall Street Highlights: S&P 500, Nasdaq Fall As AI Jitters Ease Bets On Fed Hikes",
+     "s": "NDTV Profit",
+     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbVJsR1BSSWFYckxUYlhhUm5DYmxGdkdDV0NMZU5tZWNVUXM5YnRUYm4zeGRXU2hfNjlCeGNuUFRwTDdGNFljRHlGcVhmU2s1U1MxeEVibEh5YzcyLXhJdHVhQ1RyU3JsUjBiSk5wWmZWbENqd2FnODdUVzAwVG1COGMzUVFlMlBWTUh2RDBISXI2UHZKWVo4Nm5IYktQSjNhSlk1UDAzWTJvQm9sRFJBczFHUkZ6UEhkV3J5WW51VF…",
+     "ts": "2026-10-23T01:14:28+00:00"
+    }
+   ],
+   "sources": {
+    "NDTV Profit": "2026-10-23T01:14:28+00:00"
+   },
+   "first": "2026-10-23T01:14:28+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "493dad52643dfa90",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Yen Hits One-Month High as US Tech Rout Revives Haven Appeal",
+     "s": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-23/yen-hits-one-month-high-as-us-tech-rout-revives-haven-appeal",
+     "ts": "2026-10-23T01:15:38+00:00"
+    }
+   ],
+   "sources": {
+    "Bloomberg Markets": "2026-10-23T01:15:38+00:00"
+   },
+   "first": "2026-10-23T01:15:38+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "947bf5d14646bca7",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Hall of Famer Marshall Faulk reveals Parkinson's diagnosis",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdFhZT1BtTnpOUHN3MVZ2ZHE5dm55cFRJaFZPaHczX0xYLXhVUUtuLWxlUHBQcDhYOGxXQnczZzVGUlhHOUNqaDhRS3dyejlzb1pMZ2g4TEwyZXM4MHVLUmxneXV0blVUVG1YeEsyaFNvenJMU01HWk5LVTBlaERubGtlckNvbV9NdnJkWW5PTGY4eWFSeUlRN09sNWkya0hXVjhVZQ?oc=5",
+     "ts": "2026-10-23T01:17:00+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-23T01:17:00+00:00"
+   },
+   "first": "2026-10-23T01:17:00+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "9affea668f799fe4",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "China sets yuan mid-point at strongest level since Feb. 2, 2023|FJ",
+     "s": "FinancialJuice",
+     "u": "https://t.me/FinancialJuice/142271",
+     "ts": "2026-10-23T01:17:23+00:00"
+    }
+   ],
+   "sources": {
+    "FinancialJuice": "2026-10-23T01:17:23+00:00"
+   },
+   "first": "2026-10-23T01:17:23+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "cb6287baf303654c",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "US bans BYD from air base in Japan over security concern, news report says",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRGNKcXBtcDlRVC1hQWltZmxFSTNLRERxS0E1cENlTnFGUUFISFBqVzh1RGFjVHU2UUhndmY5bUtnT0dRLW5ZVHBFNGdGM3R3S050aUZfT0xtMG9wR05IakJXWGREYkZFcm1tcnlObmtFazNmRE9KOXVrR1BrcmFfUzRPUjlqZUh1b1BWQjE2dU1pUnZDUGRDN2JCS2Npdzg0dGJZR09Ya3g1S0gtRl9ZeWM3aDBxaTQ4aG4tdQ?oc=5",
+     "ts": "2026-10-23T01:18:00+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-23T01:18:00+00:00"
+   },
+   "first": "2026-10-23T01:18:00+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "b44059f027dd7d75",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "China cbank: 7-day reverse repo volume at zero on Friday - statement|FJ",
+     "s": "FinancialJuice",
+     "u": "https://t.me/FinancialJuice/142272",
+     "ts": "2026-10-23T01:22:15+00:00"
+    }
+   ],
+   "sources": {
+    "FinancialJuice": "2026-10-23T01:22:15+00:00"
+   },
+   "first": "2026-10-23T01:22:15+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "deacb363aea0631a",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Wealthy Chinese move offshore money to U.S. banks as Beijing’s tax net widens",
+     "s": "CNBC Top News",
+     "u": "https://www.cnbc.com/2026/10/23/wealthy-chinese-tax-offshore-trusts-capital-control-.html",
+     "ts": "2026-10-23T01:23:12+00:00"
+    }
+   ],
+   "sources": {
+    "CNBC Top News": "2026-10-23T01:23:12+00:00"
+   },
+   "first": "2026-10-23T01:23:12+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "abec23a9bc379bce",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "تیم پاراریکرو بانوان بدون مدال به کار خود پایان داد",
+     "s": "مهر (سایت)",
+     "u": "https://www.mehrnews.com/news/6986773/%D8%AA%DB%8C%D9%85-%D9%BE%D8%A7%D8%B1%D8%A7%D8%B1%DB%8C%DA%A9%D8%B1%D9%88-%D8%A8%D8%A7%D9%86%D9%88%D8%A7%D9%86-%D8%A8%D8%AF%D9%88%D9%86-%D9%85%D8%AF%D8%A7%D9%84-%D8%A8%D9%87-%DA%A9%D8%A7%D8%B1-%D8%AE%D9%88%D8%AF-%D9%BE%D8%A7%DB%8C%D8%A7%D9%86-%D8%AF%D8%A7%D8%AF",
+     "ts": "2026-10-23T01:24:27+00:00"
+    }
+   ],
+   "sources": {
+    "مهر (سایت)": "2026-10-23T01:24:27+00:00"
+   },
+   "first": "2026-10-23T01:24:27+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "32d9599cef8712c4",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "درپی حملات یمن، منابع خبری از وقوع انفجار در نجران عربستان و فعال‌شدن آژیرهای خطر در این منطقه خبر می‌دهند.",
+     "s": "فارس",
+     "u": "https://t.me/farsna/470113",
+     "ts": "2026-10-23T01:24:48+00:00"
+    }
+   ],
+   "sources": {
+    "فارس": "2026-10-23T01:24:48+00:00"
+   },
+   "first": "2026-10-23T01:24:48+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "f4607e604ada6f4e",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "استقلال به دنبال صدر و طلسم شکنی؛ تلاش دو تیم برای فرار از بحران",
+     "s": "مهر (سایت)",
+     "u": "https://www.mehrnews.com/news/6985371/%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D8%B5%D8%AF%D8%B1-%D9%88-%D8%B7%D9%84%D8%B3%D9%85-%D8%B4%DA%A9%D9%86%DB%8C-%D8%AA%D9%84%D8%A7%D8%B4-%D8%AF%D9%88-%D8%AA%DB%8C%D9%85-%D8%A8%D8%B1%D8%A7%DB%8C-%D9%81%D8%B1%D8%…",
+     "ts": "2026-10-23T01:25:33+00:00"
+    }
+   ],
+   "sources": {
+    "مهر (سایت)": "2026-10-23T01:25:33+00:00"
+   },
+   "first": "2026-10-23T01:25:33+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "04848d0d051acf0d",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "کوشنر اتهام دست داشتن در معاملات مالی محرمانه با امارات، عربستان و اسرائیل را رد کرد",
+     "s": "ایسنا (سایت)",
+     "u": "https://www.isna.ir/news/1405080100014/%DA%A9%D9%88%D8%B4%D9%86%D8%B1-%D8%A7%D8%AA%D9%87%D8%A7%D9%85-%D8%AF%D8%B3%D8%AA-%D8%AF%D8%A7%D8%B4%D8%AA%D9%86-%D8%AF%D8%B1-%D9%85%D8%B9%D8%A7%D9%85%D9%84%D8%A7%D8%AA-%D9%85%D8%A7%D9%84%DB%8C-%D9%85%D8%AD%D8%B1%D9%85%D8%A7%D9%86%D9%87-%D8%A8%D8%A7-%D8%A7%D9%8…",
+     "ts": "2026-10-23T01:26:24+00:00"
+    }
+   ],
+   "sources": {
+    "ایسنا": "2026-10-23T01:26:24+00:00"
+   },
+   "first": "2026-10-23T01:26:24+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "15ba7dfc9e9e808b",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "گوگل به دیگران پول می‌دهد تا برق کمتری مصرف کنند!",
+     "s": "ایسنا (سایت)",
+     "u": "https://www.isna.ir/news/1405073020692/%DA%AF%D9%88%DA%AF%D9%84-%D8%A8%D9%87-%D8%AF%DB%8C%DA%AF%D8%B1%D8%A7%D9%86-%D9%BE%D9%88%D9%84-%D9%85%DB%8C-%D8%AF%D9%87%D8%AF-%D8%AA%D8%A7-%D8%A8%D8%B1%D9%82-%DA%A9%D9%85%D8%AA%D8%B1%DB%8C-%D9%85%D8%B5%D8%B1%D9%81-%DA%A9%D9%86%D9%86%D8%AF",
+     "ts": "2026-10-23T01:30:00+00:00"
+    }
+   ],
+   "sources": {
+    "ایسنا": "2026-10-23T01:30:00+00:00"
+   },
+   "first": "2026-10-23T01:30:00+00:00",
+   "last": "2026-10-23T01:30:34+00:00",
    "trend_at": null,
    "alerted": false
   }
