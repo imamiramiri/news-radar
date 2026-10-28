@@ -1,66 +1,6 @@
 {
  "version": 1,
  "seen": {
-  "google_news:818a3eaeb06c3d66": "2026-10-25T03:30:33+00:00",
-  "google_news:f2390e8c9fb11cc9": "2026-10-25T03:30:33+00:00",
-  "google_news:7cf01658a0098e07": "2026-10-25T03:30:33+00:00",
-  "google_news:a9f5efebd35d64a8": "2026-10-25T03:30:33+00:00",
-  "google_news:2f5ee0f5881aa1a4": "2026-10-25T03:30:33+00:00",
-  "google_news:1e46afc24ac5d275": "2026-10-25T03:30:33+00:00",
-  "google_news:6c1ca5eec830a271": "2026-10-25T03:30:33+00:00",
-  "google_news:99c1de876ae77490": "2026-10-25T03:30:33+00:00",
-  "google_news:fd825f13d8fb7638": "2026-10-25T03:30:33+00:00",
-  "google_news:4dbab01f1325b3c8": "2026-10-25T03:30:33+00:00",
-  "google_news:8f67f0ed994cff62": "2026-10-25T03:30:33+00:00",
-  "google_news:d5f728ce3986351f": "2026-10-25T03:30:33+00:00",
-  "google_news:0f4ae75a5b664916": "2026-10-25T03:30:33+00:00",
-  "rss:42af4ac62b013639": "2026-10-25T03:30:33+00:00",
-  "tg:isna94/410235": "2026-10-25T03:30:33+00:00",
-  "rss:b8a769e5a9447924": "2026-10-25T03:30:33+00:00",
-  "tg:isna94/410234": "2026-10-25T03:30:33+00:00",
-  "rss:5190763d5cd9ccb8": "2026-10-25T03:30:33+00:00",
-  "rss:ffc164dce88ec152": "2026-10-25T03:30:33+00:00",
-  "google_news:54e2198c9c3df7a5": "2026-10-25T03:30:33+00:00",
-  "google_news:c287332de88b590c": "2026-10-25T03:30:33+00:00",
-  "rss:a3352832c47d095b": "2026-10-25T03:30:33+00:00",
-  "google_news:2b07649af8b04999": "2026-10-25T03:30:33+00:00",
-  "rss:61788a025d3293bd": "2026-10-25T03:30:33+00:00",
-  "google_news:56403b5472cd2956": "2026-10-25T03:30:33+00:00",
-  "tg:FinancialJuice/142506": "2026-10-25T03:30:33+00:00",
-  "rss:e993b66f3805ffcd": "2026-10-25T03:30:33+00:00",
-  "rss:00aea2bcb6efeed9": "2026-10-25T03:30:33+00:00",
-  "rss:69d9e93f0e10a521": "2026-10-25T03:30:33+00:00",
-  "rss:d3af061246e6dcd7": "2026-10-25T03:30:33+00:00",
-  "google_news:1152fd39d0f47366": "2026-10-25T03:30:33+00:00",
-  "rss:a7071c7e3b9dfbce": "2026-10-25T03:30:33+00:00",
-  "tg:IranintlTV/363771": "2026-10-25T03:30:33+00:00",
-  "tg:farsna/470499": "2026-10-25T03:30:33+00:00",
-  "google_news:78b1a52896532273": "2026-10-25T03:30:33+00:00",
-  "tg:FinancialJuice/142507": "2026-10-25T03:30:33+00:00",
-  "google_news:7dce3658713df5a7": "2026-10-25T03:30:33+00:00",
-  "rss:affc540c317cc98c": "2026-10-25T03:30:33+00:00",
-  "rss:d3ea89af4bf5e5dc": "2026-10-25T03:30:33+00:00",
-  "rss:a0d0cbdba50d5d6c": "2026-10-25T03:30:33+00:00",
-  "google_news:a979f4af9a3a82aa": "2026-10-25T03:30:33+00:00",
-  "rss:edc7c771a1d88ca6": "2026-10-25T03:30:33+00:00",
-  "tg:farsna/470500": "2026-10-25T03:30:33+00:00",
-  "rss:b11ac21230c72308": "2026-10-25T03:30:33+00:00",
-  "rss:9a835f329eb8f16e": "2026-10-25T03:30:33+00:00",
-  "google_news:43e7f29e0216b14f": "2026-10-25T03:30:33+00:00",
-  "google_news:8c534d3fd02e91bc": "2026-10-25T03:30:33+00:00",
-  "rss:e58534305191bde0": "2026-10-25T03:30:33+00:00",
-  "tg:bbcpersian/293956": "2026-10-25T03:30:33+00:00",
-  "rss:c0378dba34ef9984": "2026-10-25T03:30:33+00:00",
-  "tg:bbcpersian/293958": "2026-10-25T03:30:33+00:00",
-  "rss:3f3257737909b651": "2026-10-25T03:30:33+00:00",
-  "tg:farsna/470501": "2026-10-25T03:30:33+00:00",
-  "tg:FinancialJuice/142508": "2026-10-25T03:30:33+00:00",
-  "rss:8cf24c1b2d515300": "2026-10-25T03:30:33+00:00",
-  "rss:5a51e952d0cf79b5": "2026-10-25T03:30:33+00:00",
-  "rss:f496599e4e682a8d": "2026-10-25T03:30:33+00:00",
-  "rss:e71f4d07eb7a1e41": "2026-10-25T03:30:33+00:00",
-  "rss:3d82ae5f19c54e0a": "2026-10-25T03:30:33+00:00",
-  "rss:29818e5974b179e8": "2026-10-25T03:30:33+00:00",
   "google_news:79a84505b28008e7": "2026-10-25T04:00:41+00:00",
   "google_news:f7d2fd7b06408702": "2026-10-25T04:00:41+00:00",
   "google_news:9e336c37e5bc86e9": "2026-10-25T04:00:41+00:00",
@@ -19077,7 +19017,57 @@
   "rss:ebaafbb9783d81ff": "2026-10-28T03:00:47+00:00",
   "rss:b91143c9fb34f111": "2026-10-28T03:00:47+00:00",
   "rss:efd206671a6b19a9": "2026-10-28T03:00:47+00:00",
-  "rss:1ab55d17042e744b": "2026-10-28T03:00:47+00:00"
+  "rss:1ab55d17042e744b": "2026-10-28T03:00:47+00:00",
+  "tg:irna_1313/467033": "2026-10-28T03:30:36+00:00",
+  "tg:farsna/471154": "2026-10-28T03:30:36+00:00",
+  "tg:bbcpersian/294159": "2026-10-28T03:30:36+00:00",
+  "tg:bbcpersian/294160": "2026-10-28T03:30:36+00:00",
+  "tg:bbcpersian/294161": "2026-10-28T03:30:36+00:00",
+  "rss:b21933f56a6074f5": "2026-10-28T03:30:36+00:00",
+  "rss:34f859d14ca64ce3": "2026-10-28T03:30:36+00:00",
+  "rss:047cd44e87bd9341": "2026-10-28T03:30:36+00:00",
+  "rss:7aa55e99b0482bb8": "2026-10-28T03:30:36+00:00",
+  "rss:deaa1b8636567e42": "2026-10-28T03:30:36+00:00",
+  "rss:d2477e2d20e58aba": "2026-10-28T03:30:36+00:00",
+  "rss:0ce2f4fc9d637247": "2026-10-28T03:30:36+00:00",
+  "rss:07684c03f1e634e2": "2026-10-28T03:30:36+00:00",
+  "rss:ecca56b0a85e35e6": "2026-10-28T03:30:36+00:00",
+  "rss:f99d55f3666e8e09": "2026-10-28T03:30:36+00:00",
+  "rss:83f473ee54647719": "2026-10-28T03:30:36+00:00",
+  "tg:FinancialJuice/143082": "2026-10-28T03:30:36+00:00",
+  "tg:FinancialJuice/143084": "2026-10-28T03:30:36+00:00",
+  "tg:FinancialJuice/143083": "2026-10-28T03:30:36+00:00",
+  "tg:FinancialJuice/143085": "2026-10-28T03:30:36+00:00",
+  "rss:daf08c6e7f9d1560": "2026-10-28T03:30:36+00:00",
+  "rss:16587dc4aecc49b8": "2026-10-28T03:30:36+00:00",
+  "google_news:0d7b0252c2c7a3a7": "2026-10-28T03:30:36+00:00",
+  "rss:65aa090331ec7fc1": "2026-10-28T03:30:36+00:00",
+  "rss:1c079af35de8d5c0": "2026-10-28T03:30:36+00:00",
+  "google_news:9fa2161e9d4fd22e": "2026-10-28T03:30:36+00:00",
+  "rss:4874537eb888846f": "2026-10-28T03:30:36+00:00",
+  "rss:880bc62840737453": "2026-10-28T03:30:36+00:00",
+  "rss:7f16c50f51c38178": "2026-10-28T03:30:36+00:00",
+  "rss:e75595a67da3d58e": "2026-10-28T03:30:36+00:00",
+  "google_news:140f50ffa0a2ffa7": "2026-10-28T03:30:36+00:00",
+  "rss:721980d06a420f5a": "2026-10-28T03:30:36+00:00",
+  "rss:a7fd08a15da5175e": "2026-10-28T03:30:36+00:00",
+  "tg:IranintlTV/364216": "2026-10-28T03:30:36+00:00",
+  "rss:a763e8dc80d21c8a": "2026-10-28T03:30:36+00:00",
+  "rss:362d42d497a92cca": "2026-10-28T03:30:36+00:00",
+  "rss:d3a4fbe5ed848de6": "2026-10-28T03:30:36+00:00",
+  "tg:irna_1313/467051": "2026-10-28T03:30:36+00:00",
+  "rss:2e46d35d9271b79f": "2026-10-28T03:30:36+00:00",
+  "rss:28ff503bea354110": "2026-10-28T03:30:36+00:00",
+  "rss:7b68a43ae41fe88c": "2026-10-28T03:30:36+00:00",
+  "rss:13b2c27b591c1a27": "2026-10-28T03:30:36+00:00",
+  "rss:bb3bf9954cca7e86": "2026-10-28T03:30:36+00:00",
+  "rss:f51eedca7f2f661b": "2026-10-28T03:30:36+00:00",
+  "rss:f8864dbf17cca1da": "2026-10-28T03:30:36+00:00",
+  "rss:03348614ac674417": "2026-10-28T03:30:36+00:00",
+  "rss:349db61cd1fafe76": "2026-10-28T03:30:36+00:00",
+  "rss:f17f89b2672f4f48": "2026-10-28T03:30:36+00:00",
+  "rss:ba813ff526213fd6": "2026-10-28T03:30:36+00:00",
+  "rss:3e5826b2dd0dd8fe": "2026-10-28T03:30:36+00:00"
  },
  "sent": [
   {
@@ -20171,6 +20161,12 @@
    "headline": "Iran Blocks IAEA Inspectors From Damaged Isfahan Nuclear Site",
    "category": "ترند",
    "score": 95
+  },
+  {
+   "ts": "2026-10-28T03:30:36+00:00",
+   "headline": "Dollar holds gains ahead of Fed policy signal, RBNZ decision",
+   "category": "ترند",
+   "score": 95
   }
  ],
  "pool": [
@@ -20457,19 +20453,6 @@
  ],
  "pending_quiet": [],
  "price_history": [
-  {
-   "ts": "2026-10-26T21:30:33+00:00",
-   "values": {
-    "gold_ounce": 4031.0,
-    "brent": 110.27,
-    "dxy": 102.002,
-    "btc": 79916.16,
-    "spx_fut": 7714.5,
-    "usdt_irt": 269899.0,
-    "gold18_intrinsic": 26234094.29003167,
-    "coin_intrinsic": 256034266.63299304
-   }
-  },
   {
    "ts": "2026-10-26T22:00:41+00:00",
    "values": {
@@ -21301,6 +21284,19 @@
     "gold18_intrinsic": 26369667.36782034,
     "coin_intrinsic": 257357405.64297938
    }
+  },
+  {
+   "ts": "2026-10-28T03:30:36+00:00",
+   "values": {
+    "gold_ounce": 4060.6,
+    "brent": 110.66,
+    "dxy": 102.389,
+    "btc": 80995.47,
+    "spx_fut": 7764.25,
+    "usdt_irt": 269071.0,
+    "gold18_intrinsic": 26345661.322680727,
+    "coin_intrinsic": 257123116.24483478
+   }
   }
  ],
  "market_alert_last": {
@@ -21364,12 +21360,12 @@
  "source_health": {
   "FinancialJuice": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "اخبار فوری": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "تسنیم": {
@@ -21379,57 +21375,57 @@
   },
   "ایران اینترنشنال": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "ایسنا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "تجارت‌نیوز": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "رادیو فردا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "وحید آنلاین": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "بی‌بی‌سی فارسی": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "اکواحسان (رقیب)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "ایرنا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "فارس": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "راستاد (رقیب)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "خبرآنلاین": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "Times of Israel": {
@@ -21439,77 +21435,77 @@
   },
   "fx_arad (رقیب)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "Al Jazeera": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "BBC World": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "BBC Middle East": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "Bloomberg Markets": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "MarketWatch": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "WSJ World": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "WSJ Markets": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "Bloomberg Politics": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "NYT Middle East": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "Bloomberg Economics": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "CNBC Economy": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "BBC Business": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "Federal Reserve": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "HTTPError: 404 Client Error: Not Found for url: https://www.federalreserve.gov/feeds/press_all.xml"
   },
   "CNBC Top News": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "FXStreet": {
@@ -21519,116 +21515,116 @@
   },
   "Cointelegraph": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "CoinDesk": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · بازار ارز و طلا": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%D8%AF%D9%84%D8%A7%D8%B1+OR+%D8%B7%D9%84%D8%A7+OR+%D8%B3%DA%A9%D9%87+OR+%D8%AA%D8%AA%D8%B1%29+when%3A2"
   },
   "گوگل‌نیوز · اقتصادنیوز": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aeghtesadnews.com+when%3A3h&hl=fa&gl=IR&ceid=IR:fa"
   },
   "گوگل‌نیوز · Markets (EN)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28gold+price+OR+oil+prices+OR+Federal+Reserve+OR+dollar+index%29+when%3A2h&hl=en-US&gl=US&ceid=US:en"
   },
   "گوگل‌نیوز · Reuters": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Areuters.com+%28Iran+OR+oil+OR+Fed+OR+gold+OR+Hormuz%29+when%3A3h&hl=en-US&gl=US&ceid=US:en"
   },
   "OilPrice": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "گوگل‌نیوز · دنیای اقتصاد": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Adonya-e-eqtesad.com+when%3A3h&hl=fa&gl=IR&ceid=IR:fa"
   },
   "گوگل‌نیوز · Iran (EN)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Iran+%28sanctions+OR+talks+OR+nuclear+OR+strike+OR+Hormuz%29+when%3A3h&hl=en-US&gl=US&ceid=US:en"
   },
   "گوگل‌نیوز · سیاست خارجی": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%D9%85%D8%B0%D8%A7%DA%A9%D8%B1%D9%87+OR+%D8%AA%D8%AD%D8%B1%DB%8C%D9%85+OR+%D8%A7%D8%B3%D9%86%D9%BE%E2%"
   },
   "گوگل‌نیوز · اکوایران": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=site%3Aecoiran.com+when%3A3h&hl=fa&gl=IR&ceid=IR:fa"
   },
   "گوگل‌نیوز · معیشت و سیاست‌گذاری": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "HTTPError: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%28%D8%A8%D8%A7%D9%86%DA%A9+%D9%85%D8%B1%DA%A9%D8%B2%DB%8C+OR+%D8%A8%D9%86%D8%B2%DB%8C%D9%86+OR+%DA%A9%D8"
   },
   "مهر (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": ""
   },
   "ایسنا (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "ReadTimeout: HTTPSConnectionPool(host='www.isna.ir', port=443): Read timed out. (read timeout=20)"
   },
   "خبرآنلاین (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "ConnectTimeout: HTTPSConnectionPool(host='www.khabaronline.ir', port=443): Max retries exceeded with url: /rss (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.khabaronline.ir', port=443) at "
   },
   "تجارت‌نیوز (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='tejaratnews.com', port=443): Read timed out."
   },
   "رویداد۲۴": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='www.rouydad24.ir', port=443): Max retries exceeded with url: /fa/rss/allnews (Caused by NameResolutionError(\"HTTPSConnection(host='www.rouydad24.ir', port=44"
   },
   "فرارو": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   },
   "عصرایران": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='www.asriran.com', port=443): Max retries exceeded with url: /fa/rss/allnews (Caused by NameResolutionError(\"HTTPSConnection(host='www.asriran.com', port=443)"
   },
   "تابناک": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "FetchError: فید خالی است یا قابل خواندن نیست"
   },
   "شهرآرانیوز": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "ConnectionError: HTTPSConnectionPool(host='shahraranews.ir', port=443): Max retries exceeded with url: /fa/rss/allnews (Caused by NameResolutionError(\"HTTPSConnection(host='shahraranews.ir', port=443)"
   },
   "خبرفوری (سایت)": {
    "fail_streak": 0,
-   "last_ok": "2026-10-28T03:00:47+00:00",
+   "last_ok": "2026-10-28T03:30:36+00:00",
    "last_error": "ConnectionError: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
   }
  },
- "llm_fail_streak": 62,
+ "llm_fail_streak": 63,
  "daily": {
   "2026-10-17": {
    "alerts": 16,
@@ -21688,7 +21684,7 @@
   "2026-10-28": {
    "alerts": 0,
    "usd": 0.0,
-   "trends": 16
+   "trends": 17
   }
  },
  "stories": [
@@ -22145,10 +22141,11 @@
     "Euronews.com": "2026-10-27T17:04:21+00:00",
     "헤럴드경제": "2026-10-27T21:41:21+00:00",
     "Qatar Tribune": "2026-10-27T22:31:57+00:00",
-    "Riviera Maritime Media": "2026-10-28T00:00:00+00:00"
+    "Riviera Maritime Media": "2026-10-28T00:00:00+00:00",
+    "News On AIR": "2026-10-28T00:56:10+00:00"
    },
    "first": "2026-10-17T16:52:33+00:00",
-   "last": "2026-10-28T02:30:36+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": "2026-10-18T05:04:19+00:00",
    "alerted": true
   },
@@ -22291,7 +22288,7 @@
     "Ship & Bunker": "2026-10-28T00:39:03+00:00"
    },
    "first": "2026-10-17T17:50:27+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": "2026-10-17T22:37:10+00:00",
    "alerted": true
   },
@@ -22331,7 +22328,7 @@
     "Bloomberg.com": "2026-10-25T23:18:54+00:00"
    },
    "first": "2026-10-18T10:45:34+00:00",
-   "last": "2026-10-28T02:00:41+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -22501,10 +22498,12 @@
     "Yahoo News UK": "2026-10-28T00:29:00+00:00",
     "WRAL": "2026-10-28T00:52:05+00:00",
     "Yahoo News New Zealand": "2026-10-28T00:29:54+00:00",
-    "Fakti.bg": "2026-10-28T02:09:00+00:00"
+    "Fakti.bg": "2026-10-28T02:09:00+00:00",
+    "CNBC": "2026-10-28T03:02:00+00:00",
+    "CNBC Top News": "2026-10-28T03:02:44+00:00"
    },
    "first": "2026-10-21T02:26:43+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": true
   },
@@ -22670,7 +22669,7 @@
     "Latest news from Azerbaijan": "2026-10-28T02:43:41+00:00"
    },
    "first": "2026-10-23T20:24:12+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": "2026-10-23T21:00:46+00:00",
    "alerted": true
   },
@@ -23197,7 +23196,7 @@
     "X": "2026-10-28T00:48:46+00:00"
    },
    "first": "2026-10-26T15:16:40+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -23312,7 +23311,7 @@
     "UA.NEWS": "2026-10-28T02:31:39+00:00"
    },
    "first": "2026-10-27T05:05:49+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -23558,25 +23557,6 @@
    },
    "first": "2026-10-27T09:18:11+00:00",
    "last": "2026-10-27T19:30:39+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "86376967191f0f2d",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Qatar extends force majeure on LNG cargoes to Italy's Edison until end-December",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZWRlZmpfTjMzTk8wb2tLV1hzbFprenNTR2JMcDVlWmFUQ3hkemhVVzd3X0loUXlGeHRENDd0Nll3cTh2eUpOSVJNVU53MThUaC1HYjJwSkFpa1BreXRxdm0teFoyZGJpaXowcXgtUmE0OTdSYXdDVzhuV0hCSlZqUjdpMHRNUjJxbDAzNDBfbDRjZjFpZUU2djNfV3RPaENwb1M2TzNUV0xIRUZFTVMtSDVhWmpFQU1ZaG0zZzhEa2…",
-     "ts": "2026-10-27T09:50:57+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T09:50:57+00:00"
-   },
-   "first": "2026-10-27T09:50:57+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -23882,7 +23862,7 @@
     "Reuters": "2026-10-27T11:08:51+00:00"
    },
    "first": "2026-10-27T11:08:51+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -23965,29 +23945,11 @@
     "Modern Diplomacy": "2026-10-27T16:20:00+00:00",
     "WKZO": "2026-10-27T16:47:49+00:00",
     "The Standard (HK)": "2026-10-27T20:16:45+00:00",
-    "アラブニュース": "2026-10-27T22:50:41+00:00"
+    "アラブニュース": "2026-10-27T22:50:41+00:00",
+    "chinadailyhk": "2026-10-28T02:13:40+00:00"
    },
    "first": "2026-10-27T11:25:57+00:00",
-   "last": "2026-10-28T01:30:43+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "2e46ad8e0a51c023",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Great Wall Motor to build Ora 5 compact SUV in Bulgaria",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTER5Q2J0T3ZKTGxGWGY2bkdKM2dvOGhMUjFjeUtxRjRxWHNEa3ZEUDBTd0R4LVpYUGZtNkpTRHVlSTJySE44RUNvUHdNSHBBcGtMZEc1Q3R2N3FDajFfbmRxMU5JazE5a1FmVXJieGFrSWo5dGo4OWdPcGQxSTVXSmUtWVF6UXMxWVdlTF85ZkVwYk82TGpiWjVTd3czckQtUXlUZ1ppSUs1RnI5eFE2Z0xSdW84UQ?oc=5",
-     "ts": "2026-10-27T11:33:45+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T11:33:45+00:00"
-   },
-   "first": "2026-10-27T11:33:45+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -24052,67 +24014,6 @@
    },
    "first": "2026-10-27T11:51:44+00:00",
    "last": "2026-10-27T19:30:39+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "9fb033264dd130c1",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Qatar Urges 'Good Faith' from Iran as Talks Renew",
-     "s": "شبكة تواصل الإخبارية",
-     "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFZXRfcktxMzcxMV9XRkdyX010ZHRyZm9rNjNCemFzUUQyN2swS1NLeWNOSFZ1clJaWVMyU0NPQkFMSEVKWFVkSllMYy1vVHBGanRJ?oc=5",
-     "ts": "2026-10-27T11:55:50+00:00"
-    },
-    {
-     "t": "Qatar Urges 'Good Faith' from Iran as Talks Renew",
-     "s": "ASHARQ AL-AWSAT English",
-     "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWUhEWEphZVJCb2VubllpX2IybFpJVC1LUlJyaGRzTHdWMnlENGhWaXI4Rzl6Rk1uNlJEbS1mcXg4UFM3ZU9nOFJ5UnBLWnVEaUpjQnJKZU5hUERDbmFkeDNXVGF0azBhZEtjV1hJLWJZUEJveHI1bHRhc3g0bWNUYjZFWFcyZw?oc=5",
-     "ts": "2026-10-27T11:56:12+00:00"
-    },
-    {
-     "t": "Qatar says Iran must show 'good faith' as talks restart",
-     "s": "Al-Bawaba",
-     "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCRkNGSVJCcTdQeEtub0U3SC1Gemt1bnMxSlpKNm9tWHFIWVJLME5DVFFHS3I4eGFDcE5jaXlEWGQ3MFNSZVIxVnVYbkxoUnN0Z1E0bEtodmRJdXpnUkxZNXphN3V5T21sZ1F5ZzViWFNpM1lIN1hEMHNJR2dFYnM?oc=5",
-     "ts": "2026-10-27T12:41:44+00:00"
-    },
-    {
-     "t": "Mediator Qatar urges 'good faith' from Iran as talks renew",
-     "s": "The Peninsula Qatar",
-     "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNGQ0UGFkNVlDZk1iVFRKUEVrNjk2M2dpQTROcDVrakFLZmlDQWhjREh5dUp3LW5aS3dBc2xwWlFCd1R1ZzdRRHdZX3IwYU9ZOWdNeGJjbmhHZU1KbEd4MDN3VWFfMDQ5bi1xazR3X2dJSUd0d1ZoZXFJREVCeV9GRDl6aml1YVNSZlJoRVlBajFJX0hvb0RSVVVHaGsxRVBDTE9xOHh4ZFc?oc=5",
-     "ts": "2026-10-27T12:04:28+00:00"
-    },
-    {
-     "t": "Mediator Qatar urges ‘good faith’ from Iran as talks renew",
-     "s": "Macau Business",
-     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkZuczFEYUJ6d2lNUXhVcEV2QlNVQ2NGaHZ4V0ZLZXpPNTVtVks5SS1KdWxkY1NmU1YyQlo2TjRvX3c3V1ROdmE3Vm9nQmtyczhUXy0yRllMUWRlU3dZQzZMTDE5MUtBc0ZNZ3UzUm1oQW85QmZ4RGdhX1A4X3pBdmk3ME1fNzdmTGZv?oc=5",
-     "ts": "2026-10-27T12:33:45+00:00"
-    },
-    {
-     "t": "Qatar says ball is in Iran’s court to show ‘good faith’ as talks resume",
-     "s": "Bol News",
-     "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQldObFVpM0wxYjhMWGx1Z21hYS1WR2NmakZLdDhIS2syaTRZZnpwcTJEZW1MUzctY3VTRVdJWEFKQ055eVlqUklpUzlScVRpRWpJdzF0U2Z0N0FsUVVRa2xtRHZXbjVHSnJkZ1VfcDlkVHp1c1lLTHM2REpDZzZEa3BGTEo4RFRQTnVCaFlQN2tXeWhmUTYxWmN2UzVDR0k?oc=5",
-     "ts": "2026-10-27T14:46:26+00:00"
-    },
-    {
-     "t": "Mediator Qatar urges 'good faith' from Iran as talks renew",
-     "s": "Naharnet",
-     "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaGw0cEkxUy1hdXdENVFvejlmOGl5VmpWcDROaHRycWRlbGNpUXJxVnJpMjhGNVNOdVZYYklFVnAwSVl6WEZsWVJNNzBHaFZ6RzRvbjBRS1hWWGZyblBZNy1nX2dkOTZucWtwZ0xsVUkwYXZDVEQ3V1BtWldINjk0NlF1VE1USmFaZU16X1J3M3VTLVNPMnFYVUpqS3pCQQ?oc=5",
-     "ts": "2026-10-27T16:50:45+00:00"
-    }
-   ],
-   "sources": {
-    "شبكة تواصل الإخبارية": "2026-10-27T11:55:50+00:00",
-    "ASHARQ AL-AWSAT English": "2026-10-27T11:56:12+00:00",
-    "Al-Bawaba": "2026-10-27T12:41:44+00:00",
-    "The Peninsula Qatar": "2026-10-27T12:04:28+00:00",
-    "Macau Business": "2026-10-27T12:33:45+00:00",
-    "Bol News": "2026-10-27T14:46:26+00:00",
-    "Naharnet": "2026-10-27T16:50:45+00:00"
-   },
-   "first": "2026-10-27T11:55:50+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -24295,26 +24196,7 @@
     "خبرآنلاین": "2026-10-28T02:30:00+00:00"
    },
    "first": "2026-10-27T13:01:08+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "d9eb96800f8014ca",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Israel's shekel jumps to 3-week high amid high election turnout",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVEF1eVg2dldmWWJjaXJHTkxTeWlrU080UldSdDNCazJpWnFMbDIwa2pmN0JhOTJfbFJKS0tqNWVwRDExUEtKZUJIb3kzNGJoM2h1UFFiMzIzcWprMm94eW9qMVVfSC1jX2V4N25xRzlydkQ4aklQaGtLdVhrNF9jX2tFVXh2SlE2cjd0bTZ0R3FXOFp1dFE4bWJROHpGNDMwdW5GX2FwcmQtV25FN0FOSi1ETQ?oc=5",
-     "ts": "2026-10-27T13:01:43+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T13:01:43+00:00"
-   },
-   "first": "2026-10-27T13:01:43+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -24409,50 +24291,11 @@
     "Bangladesh Sangbad Sangstha (BSS)": "2026-10-27T19:25:18+00:00",
     "Roya News": "2026-10-27T20:20:39+00:00",
     "The Standard (HK)": "2026-10-27T20:10:31+00:00",
-    "The Indian Express": "2026-10-28T01:50:40+00:00"
+    "The Indian Express": "2026-10-28T01:50:40+00:00",
+    "The Times of India": "2026-10-28T02:57:00+00:00"
    },
    "first": "2026-10-27T13:06:00+00:00",
-   "last": "2026-10-28T02:30:36+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "fb9305bc3ce76169",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Qatar says Iran needs to show good intentions for mediation efforts to succeed",
-     "s": "Islamabad Post",
-     "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNlMteHJNbmVBSGU4VDBWakRQWThtVVE4NWZxc0N2R1JhU0pmbmlQSkdkOEZJYjh6RDJzVmdqQms5VDVBUnNMbi1uaWE2Zi1qMExTNHNhS0o3b1NiWWJpY2pPRDh2X0VYVzNtVTJjRnBXcFNGekxPZXBsS0xIU200TTFfekw0MkV0SjlLUzJ4Y0hmZEVBWFNxRjl2VktMaEp2ekUtc2k5c1B4QkpO?oc=5",
-     "ts": "2026-10-27T13:26:14+00:00"
-    },
-    {
-     "t": "Qatar says Iran needs to show good intentions for mediation efforts to succeed",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRG1tam9JT0hBZDA3dTlSV21WdUNuNjNzY0ItTjJORk5BZld1Sl9jWUJ2cFhicnJfYlRCdXFQdnFveFcwWm9BVFpTVkJlVnd0R0cwbDdvcVlGSTR3aEE2YXVuRVVnQU1YYWVsTmtRWWZkeVJNMGJmd3pUcm96Y0FXYmdVWjBXcW5RTzlXRHVJdmVIYU1idXBBX3F2bzJRVm5mVlVPd0tkTnFBNEl6bjgzdkpiY1dMVDFUVlhXVFdVQ0…",
-     "ts": "2026-10-27T15:01:44+00:00"
-    },
-    {
-     "t": "Qatar says Iran needs to show good intentions for mediation efforts to succeed",
-     "s": "The Straits Times",
-     "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMEhsb3QzTERjek9QdEhmQnNUbGxmb0xYdEJsQXBCV003UDN1ZUZxZWttS0c5SE53dmN5SnlSYlBKcEhULXFWd3Z5TnUtdUVMM0JtcUZZai1sQlRQWS1aRlVtZDQ3VHVpRzNoaTYyZkh5ZzJWWXgza3VPMXRkRm5VckludVNHLUNYUmJNQm1hQkctOVFEajdra3F2aWdGN3N1dG9aSWZ4UGFFS3E1UFVQX0ViTmh4SWJsdVRraHdwQj…",
-     "ts": "2026-10-27T15:00:00+00:00"
-    },
-    {
-     "t": "Qatar says Iran needs to show good intentions for mediation efforts to succeed",
-     "s": "Deccan Herald",
-     "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSDhmQkxlbzFnMnNJU2tkQ1o1ZzZSRFNibzd5NUNhTWZlU3VDZnBBNEVUaThRZDJsZFRIamNmNmtDRC1Kc0g2VF9GOGxyeTNoRGM0QlFVc3BQX2pEZ0JQRXhZWmdUczhJQkdYZ244d1NoQVNwZk5oSHFxNmFoOWVqMG5saURBX3ZCRlpqTFdTcXJMTlVFUm1hclBRallCdno4ME0wTjhVVHZKbGVYNnN3MXpMLVlvWmQweTc1aFpnOW…",
-     "ts": "2026-10-27T16:24:50+00:00"
-    }
-   ],
-   "sources": {
-    "Islamabad Post": "2026-10-27T13:26:14+00:00",
-    "Reuters": "2026-10-27T15:01:44+00:00",
-    "The Straits Times": "2026-10-27T15:00:00+00:00",
-    "Deccan Herald": "2026-10-27T16:24:50+00:00"
-   },
-   "first": "2026-10-27T13:26:14+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -24595,72 +24438,6 @@
    },
    "first": "2026-10-27T14:20:47+00:00",
    "last": "2026-10-27T19:30:39+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "c44ea8d6eb002da6",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "نشست شورای امنیت سازمان ملل در پی ارجاع پرونده ایران از آژانس/ اعتراض روسیه و چین",
-     "s": "خبرآنلاین (سایت)",
-     "u": "https://www.khabaronline.ir/news/2294046/%D9%86%D8%B4%D8%B3%D8%AA-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D9%85%D9%84%D9%84-%D8%AF%D8%B1-%D9%BE%DB%8C-%D8%A7%D8%B1%D8%AC%D8%A7%D8%B9-%D9%BE%D8%B1%D9%88%D9%86%D8%AF%D9%87-%D8%A7%DB%8C%D8%B1%D8…",
-     "ts": "2026-10-27T14:26:32+00:00"
-    },
-    {
-     "t": "[عکس] مخالفت روسیه و چین با برگزاری نشست اخیر شورای امنیت بر مبنای تحرکات ضدایرانی ",
-     "s": "ایرنا",
-     "u": "https://t.me/irna_1313/466916",
-     "ts": "2026-10-27T14:29:25+00:00"
-    },
-    {
-     "t": "نشست شورای امنیت سازمان ملل در پی ارجاع پرونده ایران از آژانس",
-     "s": "خبرفوری (سایت)",
-     "u": "https://www.khabarfoori.com/fa/tiny/news-3255588",
-     "ts": "2026-10-27T14:40:45+00:00"
-    },
-    {
-     "t": "مخالفت روسیه و چین با نشست شورای امنیت به‌دنبال قطعنامه ضدایرانی آژانس",
-     "s": "ایسنا (سایت)",
-     "u": "https://www.isna.ir/news/1405080503388/%D9%85%D8%AE%D8%A7%D9%84%D9%81%D8%AA-%D8%B1%D9%88%D8%B3%DB%8C%D9%87-%D9%88-%DA%86%DB%8C%D9%86-%D8%A8%D8%A7-%D9%86%D8%B4%D8%B3%D8%AA-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%A8%D9%87-%D8%AF%D9%86%D8%A8%D8%A7%D9%84-%D9%82%D8%B7%D8%B9%D9%…",
-     "ts": "2026-10-27T15:02:31+00:00"
-    },
-    {
-     "t": "[عکس] 🔻مخالفت روسیه و چین با برگزاری نشست اخیر شورای امنیت بر مبنای تحرکات ضدایرانی ",
-     "s": "تجارت‌نیوز",
-     "u": "https://t.me/tejaratnews/316232",
-     "ts": "2026-10-27T15:21:19+00:00"
-    },
-    {
-     "t": "نشست شورای امنیت سازمان ملل درباره ایران",
-     "s": "فرارو",
-     "u": "https://fararu.com/fa/news/1012832/%D9%86%D8%B4%D8%B3%D8%AA-%D8%B4%D9%88%D8%B1%D8%A7%DB%8C-%D8%A7%D9%85%D9%86%DB%8C%D8%AA-%D8%B3%D8%A7%D8%B2%D9%85%D8%A7%D9%86-%D9%85%D9%84%D9%84-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%DB%8C%D8%B1%D8%A7%D9%86",
-     "ts": "2026-10-27T15:05:31+00:00"
-    },
-    {
-     "t": "[ویدیو] ♦️ ایران: قطعنامه ۲۲۳۱ منقضی شده و نشست اخیر شورای امنیت مبنای قانونی ندارد 🔹شورای امنیت در برابر تجاوزات نظامی و اقدامات ضددیپلمات…",
-     "s": "اخبار فوری",
-     "u": "https://t.me/akhbarefori/702141",
-     "ts": "2026-10-27T16:30:11+00:00"
-    },
-    {
-     "t": "ایران خطاب به شورای امنیت: اسرائیل سلاح هسته‌ای دارد، نگران نبود بازرسان در ایران هستید!",
-     "s": "ایسنا",
-     "u": "https://t.me/isna94/410652",
-     "ts": "2026-10-27T16:34:28+00:00"
-    }
-   ],
-   "sources": {
-    "خبرآنلاین": "2026-10-27T14:26:32+00:00",
-    "ایرنا": "2026-10-27T14:29:25+00:00",
-    "اخبار فوری": "2026-10-27T14:40:45+00:00",
-    "ایسنا": "2026-10-27T15:02:31+00:00",
-    "تجارت‌نیوز": "2026-10-27T15:21:19+00:00",
-    "فرارو": "2026-10-27T15:05:31+00:00"
-   },
-   "first": "2026-10-27T14:26:32+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -24990,7 +24767,7 @@
     "Al Jazeera": "2026-10-28T00:43:56+00:00"
    },
    "first": "2026-10-27T13:04:02+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -25070,7 +24847,7 @@
     "The Times of India": "2026-10-28T01:05:00+00:00"
    },
    "first": "2026-10-27T15:11:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -25128,46 +24905,6 @@
    },
    "first": "2026-10-27T15:33:20+00:00",
    "last": "2026-10-28T00:30:36+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "63733974f2286a52",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "درگذشت تصویربردار تلویزیون در برنامه زنده مسابقات جهانی کشتی",
-     "s": "فرارو",
-     "u": "https://fararu.com/fa/news/1012840/%D8%AF%D8%B1%DA%AF%D8%B0%D8%B4%D8%AA-%D8%AA%D8%B5%D9%88%DB%8C%D8%B1%D8%A8%D8%B1%D8%AF%D8%A7%D8%B1-%D8%AA%D9%84%D9%88%DB%8C%D8%B2%DB%8C%D9%88%D9%86-%D8%AF%D8%B1-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D8%B2%D9%86%D8%AF%D9%87-%D9%85%D8%B3%D8%A7%D8%A8%D9%82%D8%A7%D8%AA…",
-     "ts": "2026-10-27T15:33:54+00:00"
-    },
-    {
-     "t": "ابراهیم گرجی، تصویربردار باسابقه صداوسیما درگذشت | تلخ‌ترین اتفاق در حاشیه مسابقات جهانی کشتی",
-     "s": "شهرآرانیوز",
-     "u": "https://shahraranews.ir/fa/news/455505/ابراهیم-گرجی-تصویربردار-باسابقه-صداوسیما-درگذشت-تلخ-ترین-اتفاق-در-حاشیه-مسابقات-جهانی-کشتی",
-     "ts": "2026-10-27T15:39:18+00:00"
-    },
-    {
-     "t": "درگذشت تصویربردار تلویزیون در برنامه زنده مسابقات جهانی کشتی",
-     "s": "خبرفوری (سایت)",
-     "u": "https://www.khabarfoori.com/fa/tiny/news-3255603",
-     "ts": "2026-10-27T16:12:24+00:00"
-    },
-    {
-     "t": "درگذشت تصویربردار تلویزیون در برنامه زنده مسابقات جهانی کشتی",
-     "s": "رویداد۲۴",
-     "u": "https://www.rouydad24.ir/fa/news/475567/درگذشت-تصویربردار-تلویزیون-در-برنامه-زنده-مسابقات-جهانی-کشتی",
-     "ts": "2026-10-27T16:28:07+00:00"
-    }
-   ],
-   "sources": {
-    "فرارو": "2026-10-27T15:33:54+00:00",
-    "شهرآرانیوز": "2026-10-27T15:39:18+00:00",
-    "اخبار فوری": "2026-10-27T16:12:24+00:00",
-    "رویداد۲۴": "2026-10-27T16:28:07+00:00"
-   },
-   "first": "2026-10-27T15:33:54+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -25257,25 +24994,6 @@
    "alerted": false
   },
   {
-   "id": "d898614cd7fa281f",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Indian tax officials visit liquor maker Radico Khaitan's offices amid Scotch imports review",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaUxyMUFTSm1EMGstLWN1TFBfN29lSW1USF9UNTNFQUlEakl6XzNPZm1IYUhXeHlxLXFZbXpQcmRjZVpTUUFsUWJmSjJxTVcydVF5QmVBc2RPeWd3V05pSWJDbE80dHhLTzMwWVFucFZHM29EeGJGWmdiRlpIR1laSlpuYUs0OHpmNC1mal9icWZmcjduT29MNkZHWlo5LXA0T1dpeEhnWGpzbm9lZnFZWlVURWZrbDNYNzROQnF5d0…",
-     "ts": "2026-10-27T15:43:43+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T15:43:43+00:00"
-   },
-   "first": "2026-10-27T15:43:43+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "1019b6cef6f5b815",
    "lang": "en",
    "titles": [
@@ -25321,25 +25039,6 @@
    "alerted": false
   },
   {
-   "id": "eeccb6b462c749eb",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Pope Leo to meet survivors of abuse by clergy in Latin America, Vatican says",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN0NNNHJQZTRRLUh4TldycXFLZnJ6a3dfSmZHQWJXVjB6Q3cwYV96NDh1ZWt2WF9PZ2gzV0ptS2UwOXhPN1RJUV9hZGdEUHkyWW1ibmNYUFA3WXdSbEdCTWlyYjF3V2VpNlJ3cTFDb19BZlhBdDFQaGF1dS1uOWpVVU1DNFoxa3pJay1hbXhkSkZ2MkxOUVIzS05vNnY4Q1VLTDNkZXFma3dNTThWbm5GVm5RMEZUQQ?oc=5",
-     "ts": "2026-10-27T15:58:52+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T15:58:52+00:00"
-   },
-   "first": "2026-10-27T15:58:52+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "dd9b1d6314542a35",
    "lang": "en",
    "titles": [
@@ -25378,25 +25077,6 @@
    "alerted": false
   },
   {
-   "id": "0eee6dbe01264759",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Putin says curbing Russian gas raises consumer costs, hints at US cooperation",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN3FkS3FJOGNLTkQtZWJUSWFnVkw1dERsMUdRUFRLVThOQy1DNm5LVldVTzZ6Nld2elBfR3BGUk15eXlRbDZLYUszbnlkZUZ1QVJXeFlMTjVpMkYwLUZFclBZVzFPTlIxRXhxVTNxSHJjaXUxSUFJSDFQUldWdWVFNFEyQQ?oc=5",
-     "ts": "2026-10-27T16:05:29+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T16:05:29+00:00"
-   },
-   "first": "2026-10-27T16:05:29+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "b34054121d220469",
    "lang": "en",
    "titles": [
@@ -25412,89 +25092,6 @@
    },
    "first": "2026-10-27T16:06:10+00:00",
    "last": "2026-10-27T22:30:34+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "ccf38d600ffad759",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "First lady Melania Trump says Ukraine-Russia ceasefire expanded within Kherson",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVWI5XzRBZkxjUTFKVVhqZmVHVkU4NmZVRGdWak5SRUhZN1ZIMEdzMzRzQjI3eW9zeC1UakhZZmZuNF9hS0VtV2J0YVF4bDVad2kyUklyYnNVOVNlWXBES29JUk9iVHJhTld2NEVSSE9Wa0F6UUwzM3pCQmVTTFlUNm43ZUEwLXZHbHoyTmRYX29oREFfdGZrUjhwZmx5UVprM3owTmR0N2FhLXlkalVzd1JUbjgybTdWbVREMEVwb3…",
-     "ts": "2026-10-27T16:10:26+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T16:10:26+00:00"
-   },
-   "first": "2026-10-27T16:10:26+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "fd54b7f647dd4a28",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Congo opposition rejects armed rebellion, calls for inclusive dialogue",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMFB6Zk05RkNXM29mSmUzc2wzZDFUdWJra0RYT0lhUmRZdko0UGZTZ05scFppUnJ0QzZGMFJtNDh1VXd1ejhNSzJqaE5vWERYLTRBc1B6MGxxVS1JSVUtVXd5ZTFWV1M4M3JBZGg2ZDFlUlFhSFlUUExzRy0tQmZLM0FNTWxLYkpOOU1pZ2ZKVnB1UHpZUEtCYkQ3a0ljNkJWOVRsWE5ZdkxpUGdYa0Q1OXFvRFk?oc=5",
-     "ts": "2026-10-27T16:11:32+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T16:11:32+00:00"
-   },
-   "first": "2026-10-27T16:11:32+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "0e9cedcbc40f9b54",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
-     "s": "BBC World",
-     "u": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-     "ts": "2026-10-27T16:11:35+00:00"
-    },
-    {
-     "t": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
-     "s": "BBC Middle East",
-     "u": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-     "ts": "2026-10-27T16:11:35+00:00"
-    }
-   ],
-   "sources": {
-    "BBC World": "2026-10-27T16:11:35+00:00",
-    "BBC Middle East": "2026-10-27T16:11:35+00:00"
-   },
-   "first": "2026-10-27T16:11:35+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "b22ce51f4e6fd6c1",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "COMMENTARY: JPMorgan says ex-banker Rana pushed sister, friend to lie to support sexual assault case",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPM2ZPaHBha2VSa3dLeVpmb3FmdWkyaU1kSUdsOFg4eDF4WHJLcm1qUDdOb1BMQnU3aWJNMFFxakdkekprUzk2dWNMZmdNczRuUzVmNU9wVHVjN0E1RERfS0hIMzA3SXR2RWxKMURtQnRvb2FXNDhIUzJrZXQtQ0N0VGoxZFh5ZzlnWUo2eDVmV2R2THRxZ1l6ZkNSS3k4OHRMbzhGcTQyRGljdC00T2pvSDdqdjUtbEFzS2J4ZWNwdl…",
-     "ts": "2026-10-27T16:11:40+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T16:11:40+00:00"
-   },
-   "first": "2026-10-27T16:11:40+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -25540,25 +25137,6 @@
    },
    "first": "2026-10-27T15:04:16+00:00",
    "last": "2026-10-27T20:55:51+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "9c509bb5148d7cf9",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Breakingviews - COMMENTARY: Ares and Apollo embrace new private-credit alchemy",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdGZmZE1iM2tVYXBDaVNDYVRWeGo4TFFNdVFOOUJwNEppZmFqTlFQOGdoR1ZTcGlja1BZLW0wOXEtUkhFMXdDY1IySzVTUVFvWUEwSUUxM2otREticWpxcXE3X3hRUXc4V1BaOEtiSjZ1NDk2Vmd2dEVOZ01KU3Z6bEM1akVNQ002TVFOVlRuenVhUlIzRTJFQmpObjFJbFV3VTRoYWhSVnRlUWM?oc=5",
-     "ts": "2026-10-27T16:02:07+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T16:02:07+00:00"
-   },
-   "first": "2026-10-27T16:02:07+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -25681,45 +25259,7 @@
     "Moneycontrol.com": "2026-10-28T01:34:06+00:00"
    },
    "first": "2026-10-27T16:02:02+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "93459b8567a6f73c",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Raptors F Kawhi Leonard (knee) out at least a week",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOT1FxSWR6TUVaSXhZMC01aFY0Y1hIZVNvVGVjVDltTDBDMDItcWpycGpSUThvSGxjN0Jlbl9sV2ZrSEhBblZWellvN2hkRGZpZlhWdVFqTVZ6Q1NwTmhUa29JV0d0X29mUC1sVk1ZLWsxMFJuVW5Kc1JOaURjY1doUTMzWnhSTE5uQmVPSEY4elJSTmtsTFE?oc=5",
-     "ts": "2026-10-27T16:15:43+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T16:15:43+00:00"
-   },
-   "first": "2026-10-27T16:15:43+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "a73f4ae238e0ef64",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Trump says he will ban term artificial intelligence",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5",
-     "ts": "2026-10-27T16:26:16+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T16:26:16+00:00"
-   },
-   "first": "2026-10-27T16:26:16+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -25819,44 +25359,6 @@
    "alerted": false
   },
   {
-   "id": "43d5b7b61f3f9a21",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "UPS Raises Outlook as CEO Plans to Stay On to Oversee Union Talks",
-     "s": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-27/ups-raises-outlook-video",
-     "ts": "2026-10-27T16:42:24+00:00"
-    }
-   ],
-   "sources": {
-    "Bloomberg Markets": "2026-10-27T16:42:24+00:00"
-   },
-   "first": "2026-10-27T16:42:24+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "06580cb9016ed1fe",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "U.S. Bancorp Poised for Canada Bond Return After Two Decades",
-     "s": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-27/u-s-bancorp-poised-for-canada-bond-return-after-two-decades",
-     "ts": "2026-10-27T16:43:32+00:00"
-    }
-   ],
-   "sources": {
-    "Bloomberg Markets": "2026-10-27T16:43:32+00:00"
-   },
-   "first": "2026-10-27T16:43:32+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "eec0331b7ca198a2",
    "lang": "en",
    "titles": [
@@ -25895,25 +25397,6 @@
    "alerted": false
   },
   {
-   "id": "8cb567c6e9e1fc8c",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "SEC Weighing Overhaul to Crowdfunding Rules, Atkins Says",
-     "s": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-27/sec-weighing-overhaul-to-crowdfunding-rules-atkins-says",
-     "ts": "2026-10-27T16:49:14+00:00"
-    }
-   ],
-   "sources": {
-    "Bloomberg Markets": "2026-10-27T16:49:14+00:00"
-   },
-   "first": "2026-10-27T16:49:14+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "b2dced37181ecc97",
    "lang": "en",
    "titles": [
@@ -25929,25 +25412,6 @@
    },
    "first": "2026-10-27T16:50:21+00:00",
    "last": "2026-10-27T19:30:39+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "e1ef5e9c7a135d6c",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Saudi Aramco Offers Europe More Spot Oil as Supplies Ramp Up",
-     "s": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/articles/2026-10-27/saudi-aramco-offers-europe-more-spot-oil-as-supplies-ramp-up",
-     "ts": "2026-10-27T16:50:31+00:00"
-    }
-   ],
-   "sources": {
-    "Bloomberg Markets": "2026-10-27T16:50:31+00:00"
-   },
-   "first": "2026-10-27T16:50:31+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -26034,6 +25498,12 @@
      "s": "Laredo Morning Times",
      "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQamlLcUNjcGNlSFM5eFc1b2FHalNTZzZfcWNNa2M4em5EcTNjaGVGUy0ySmJSUWpoaXZnZ0tuUXVVbGdVRzI0UFd6dWtnbEJSbmlNSzhWT0hqQ3QwcmlRREdzbDdrUHFfaHJDMEVTVTFSQ1VybVFhMy1yVGFrWUhaTkN6c05wVWM3SExBV1liOWxyYm1heVBPZng0elpsUk44TERZZEN0TQ?oc=5",
      "ts": "2026-10-28T02:56:44+00:00"
+    },
+    {
+     "t": "Iran hasn't tried to repair nuclear facilities damaged in US strikes, UN nuclear chief says",
+     "s": "Bozeman Daily Chronicle",
+     "u": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQdHBvU05nemV1V2F6TEVvTWJjX2tPVzF3QXhPY3ZqM29ZY2pWRmZ4dzVBQzViaFJqeHJCSE9tUXVjQmZDSm4xSHptODRJTXVKUHlXRklfY3lJVTV3MTI4ckhmZXdjZkxqYlRhaHRPMkxUT2VYb0JyZFFhTXVVdGRlOElwenZPc2lJdTI1bWduLW1lTEk1R2NFNkM3b0JHcENsXzVvOFVlZkF4VjJ5ZHFFR2dYSE4zOS1CU29hUkhpMU…",
+     "ts": "2026-10-28T02:37:47+00:00"
     }
    ],
    "sources": {
@@ -26043,10 +25513,16 @@
     "The Straits Times": "2026-10-28T02:30:00+00:00",
     "WV News": "2026-10-28T02:36:16+00:00",
     "Laodong.vn": "2026-10-28T02:35:22+00:00",
-    "Laredo Morning Times": "2026-10-28T02:56:44+00:00"
+    "Laredo Morning Times": "2026-10-28T02:56:44+00:00",
+    "Bozeman Daily Chronicle": "2026-10-28T02:37:47+00:00",
+    "Ottumwa Courier": "2026-10-28T02:37:47+00:00",
+    "Toronto Star": "2026-10-28T02:39:06+00:00",
+    "The Boston Globe": "2026-10-28T02:48:05+00:00",
+    "United News of Bangladesh": "2026-10-28T03:06:08+00:00",
+    "Mathrubhumi English": "2026-10-28T03:10:54+00:00"
    },
    "first": "2026-10-27T14:59:49+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": "2026-10-28T03:00:47+00:00",
    "alerted": true
   },
@@ -26066,25 +25542,6 @@
    },
    "first": "2026-10-27T16:32:19+00:00",
    "last": "2026-10-27T19:30:39+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "1a1305e586ba1007",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Crusoe CEO on AI Energy Demand and Building in Texas",
-     "s": "Bloomberg Markets",
-     "u": "https://www.bloomberg.com/news/videos/2026-10-27/crusoe-ceo-on-ai-energy-demand-and-building-in-texas-video",
-     "ts": "2026-10-27T16:51:04+00:00"
-    }
-   ],
-   "sources": {
-    "Bloomberg Markets": "2026-10-27T16:51:04+00:00"
-   },
-   "first": "2026-10-27T16:51:04+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -26499,32 +25956,6 @@
    "alerted": false
   },
   {
-   "id": "0bba26160b7fc4d7",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "[ویدیو] 🎥 پیام فرمانده هوا فضای سپاه برای نوجوانان جان‌فدای ایران",
-     "s": "فارس",
-     "u": "https://t.me/farsna/471108",
-     "ts": "2026-10-27T17:31:10+00:00"
-    },
-    {
-     "t": "ویدئو | پیام سیدمجید موسوی برای نوجوانان جان‌فدای ایران",
-     "s": "شهرآرانیوز",
-     "u": "https://shahraranews.ir/fa/news/455533/ویدئو-پیام-سیدمجید-موسوی-برای-نوجوانان-جان-فدای-ایران",
-     "ts": "2026-10-27T17:36:21+00:00"
-    }
-   ],
-   "sources": {
-    "فارس": "2026-10-27T17:31:10+00:00",
-    "شهرآرانیوز": "2026-10-27T17:36:21+00:00"
-   },
-   "first": "2026-10-27T17:31:10+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "083f3a764d055d80",
    "lang": "en",
    "titles": [
@@ -26809,32 +26240,6 @@
    "alerted": false
   },
   {
-   "id": "05e284687fadd212",
-   "lang": "fa",
-   "titles": [
-    {
-     "t": "[ویدیو] حنظله امنیت انتخابات اسرائیل را به چالش کشید",
-     "s": "فارس",
-     "u": "https://t.me/farsna/471113",
-     "ts": "2026-10-27T17:55:41+00:00"
-    },
-    {
-     "t": "[ویدیو] حنظله امنیت انتخابات اسرائیل را به چالش کشید",
-     "s": "اخبار فوری",
-     "u": "https://t.me/akhbarefori/702177",
-     "ts": "2026-10-27T17:58:41+00:00"
-    }
-   ],
-   "sources": {
-    "فارس": "2026-10-27T17:55:41+00:00",
-    "اخبار فوری": "2026-10-27T17:58:41+00:00"
-   },
-   "first": "2026-10-27T17:55:41+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
    "id": "ea5ec869e5200259",
    "lang": "en",
    "titles": [
@@ -26869,25 +26274,6 @@
    },
    "first": "2026-10-27T17:55:49+00:00",
    "last": "2026-10-28T02:00:41+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "cdbbd1216bd8f080",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Iran Continues Crude Exports Despite US Blockade, Vortexa Says",
-     "s": "EnergyNow.com",
-     "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2NBRlNzMTlGVzhjOF81RjZHS0p4d1RvSUxOMEVkREJxblVJaGlvRlpqZ3U3TEZ6NWNNbVRRZGM4dnNOaWVCWFQ1ck9XZXB5ekpJNFhMTFpGRjNXUmc5ODBOdjhjOE5VaEVJM3BLZW80bk1ITjlDVFFGaHpJd2Jwek14SmxBLTNHLVFqYkRlTWlsVFRqVG5V?oc=5",
-     "ts": "2026-10-27T16:14:13+00:00"
-    }
-   ],
-   "sources": {
-    "EnergyNow.com": "2026-10-27T16:14:13+00:00"
-   },
-   "first": "2026-10-27T16:14:13+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -27345,64 +26731,7 @@
     "Bloomberg Politics": "2026-10-28T02:47:34+00:00"
    },
    "first": "2026-10-27T16:02:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "26666bfb0d769f10",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "- Reuters",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeTh0TWVWbHFmV1hEZXZJQzJTbmVQV2gxWkVOV3lUaTZXajE1NDVCSG54WWJPNEkxdS1iYjdUVDNBMzB5NUJIR3N5aENnYldkLXRRQWRfeUpYa3daQjhDOS1UeVYyX0pOSHk5M0ZEOTFIRi1iYVBiN25zcm5JeHhNTVFfOGM0M28yal9Yc1ZNTl82dw?oc=5",
-     "ts": "2026-10-27T16:22:46+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T16:22:46+00:00"
-   },
-   "first": "2026-10-27T16:22:46+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "b7800682a5967678",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Bagheri: Tehran quadrilateral meeting reflects Iran’s defense capabilities",
-     "s": "Tehran Times",
-     "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVROb1p4Y1JvMC1tZGdORzRRcDh6TVZJSThlZS1qUmJTNEJwR2ZNM3VyVjFwVVMzeS05OXVQMXhkUUR0Q1lobmRNWWZLUmxtZFRCRmJJOVFyLVozRGtmS3I1U1EzX0U2Y3pvOXk5ZUxjamxnRy1wWExuZXNNbG5hal9uc0tyaFN1MXhjQWYtcDlVNFVNcTI3UnJpb2Y3cV92RXc?oc=5",
-     "ts": "2026-10-27T16:38:22+00:00"
-    }
-   ],
-   "sources": {
-    "Tehran Times": "2026-10-27T16:38:22+00:00"
-   },
-   "first": "2026-10-27T16:38:22+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "a20446458322af35",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "US military says strike on suspected drug-trafficking vessel in Eastern Pacific kills five",
-     "s": "The Economic Times",
-     "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPX19teDVRLXV3WXhYMmhFZjBlM1Jidlk4SzZ1Z21ZaTVDTTVJOTkxMXRHczV5RDZVMjFFeWpIN1BXS080ZURRY0Z5NWhwdmxHaktJUWNPMWktekg2TGZDVHVxdFkyM2YzTjZRelM3cU95NHo5YnptRlVBQ19sU1pBSW94Xy1QMWRyWkQyNFdDdjdMa3AxVnZTRnFEdmRkY0thSWc1LWtrb2JyZm0xWklERjNuVWVmaTVybVUyeFdTY1…",
-     "ts": "2026-10-27T16:44:52+00:00"
-    }
-   ],
-   "sources": {
-    "The Economic Times": "2026-10-27T16:44:52+00:00"
-   },
-   "first": "2026-10-27T16:44:52+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -27467,25 +26796,6 @@
    },
    "first": "2026-10-27T16:55:00+00:00",
    "last": "2026-10-28T00:27:18+00:00",
-   "trend_at": null,
-   "alerted": false
-  },
-  {
-   "id": "5d7b6d0f89430214",
-   "lang": "en",
-   "titles": [
-    {
-     "t": "Transcript - Reuters",
-     "s": "Reuters",
-     "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkVOQk45Vl9seThIYVFEblY2dDVwSl81Ml84SGpiQi1DQnJuRHpvaHVEVUdvVjNMUERsMVFuVGVrRXJ3UklycWxERkxSWWdLYlpQdmdSM3gzMkYyYTMtWjZrQ0dDaWIycWdMLTVSRE9aVTdpVk4wTDB4RzFEWWdZOU9idzVSQWkxMEJv?oc=5",
-     "ts": "2026-10-27T17:00:00+00:00"
-    }
-   ],
-   "sources": {
-    "Reuters": "2026-10-27T17:00:00+00:00"
-   },
-   "first": "2026-10-27T17:00:00+00:00",
-   "last": "2026-10-27T19:01:04+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -29842,7 +29152,7 @@
     "Sahi": "2026-10-27T20:01:48+00:00"
    },
    "first": "2026-10-27T20:01:48+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -30027,7 +29337,7 @@
     "اخبار فوری": "2026-10-28T02:19:28+00:00"
    },
    "first": "2026-10-27T20:31:15+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -30929,7 +30239,7 @@
     "PJ Media": "2026-10-27T21:26:48+00:00"
    },
    "first": "2026-10-27T21:26:48+00:00",
-   "last": "2026-10-28T00:00:43+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -31755,7 +31065,7 @@
     "Bloomberg.com": "2026-10-27T22:15:00+00:00"
    },
    "first": "2026-10-27T22:04:57+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -31859,7 +31169,7 @@
     "Metrobank Wealth Insights": "2026-10-28T00:09:28+00:00"
    },
    "first": "2026-10-27T22:09:07+00:00",
-   "last": "2026-10-28T02:30:36+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": "2026-10-28T00:00:43+00:00",
    "alerted": true
   },
@@ -33105,7 +32415,7 @@
     "Newswav": "2026-10-28T01:43:00+00:00"
    },
    "first": "2026-10-27T23:10:14+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -33143,7 +32453,7 @@
     "فارس": "2026-10-27T23:14:25+00:00"
    },
    "first": "2026-10-27T23:14:25+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -33230,6 +32540,12 @@
      "s": "Yahoo Finance",
      "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3FvNzlaUWh0MUg0djE0dXRNMzluR1pDMTZvRFI3anViRktveU9xX1VwU0hOUEVmRnNnZWhQT1kzdk9KSjg1SG9tSENaM09ISjItRkZNTUZMVk1YMEJUQ1lPSktQeEMteEZYU0JUNUhjYm9sdGZoWFRZY3V0NTJjNTVGYnJHYXlfcWxvWGhLd1FaeURBUy12TGdldw?oc=5",
      "ts": "2026-10-28T01:27:00+00:00"
+    },
+    {
+     "t": "Gold rises above $4,050 ahead of Fed rate decision",
+     "s": "Mitrade",
+     "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWDZadWVtR0FfVHg5ZFRHRndKcTNVbkFxSW13ano5bDNZZzQyX1dVb0Q2aWdYUkYyTURvTEt3UF8xWFVDQ2dvZlY2UmtiZmVCNkRNWmlQZFNxbEg3WDBsWjBwdmJjWlJKZ0phZzg5RmJleFd6TW1CeENPT0xjQUFMemNlNnV5QVNMaFNJcDhxeFBYRk45bmFNdVROYU0?oc=5",
+     "ts": "2026-10-28T01:59:17+00:00"
     }
    ],
    "sources": {
@@ -33239,10 +32555,11 @@
     "The Business Times": "2026-10-28T00:32:00+00:00",
     "شبكة تواصل الإخبارية": "2026-10-27T23:45:58+00:00",
     "www.tmgm.com": "2026-10-28T00:25:32+00:00",
-    "Yahoo Finance": "2026-10-28T01:27:00+00:00"
+    "Yahoo Finance": "2026-10-28T01:27:00+00:00",
+    "Mitrade": "2026-10-28T01:59:17+00:00"
    },
    "first": "2026-10-27T23:18:03+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": "2026-10-28T00:00:43+00:00",
    "alerted": true
   },
@@ -33743,7 +33060,7 @@
     "Bloomberg Politics": "2026-10-27T23:40:51+00:00"
    },
    "first": "2026-10-27T23:40:51+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34137,7 +33454,7 @@
     "Reuters": "2026-10-28T01:23:00+00:00"
    },
    "first": "2026-10-28T00:02:05+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34517,7 +33834,7 @@
     "Reuters": "2026-10-28T00:14:00+00:00"
    },
    "first": "2026-10-28T00:14:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34561,17 +33878,24 @@
      "s": "The Economic Times",
      "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQzE5NmZWbGxiUU1KT0c1dmZrOFlPMFJDQ3gxeWVxdGt4SVhJVGk5ZUdzejFKblpRVWRZOEFjeUlkVURCVjdSZkZsYlZTM0NQbDd4SnZ0YzRDNTU4M2hGbDFRbzZGb2MtdmFUaEdXOE9rdGRkMmhfN1k4TnRZNUt2RThZaGFkbGFzRFg3dkprbVljQzlkS25fMDFhMlRfejYxcTBHbUVNX1I5WDVIazREdFItb2lYYkMtOHp1cDRJcH…",
      "ts": "2026-10-28T02:04:00+00:00"
+    },
+    {
+     "t": "Dollar steady ahead of Fed decision, kiwi slumps after RBNZ holds",
+     "s": "Investify",
+     "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOanJ4eXpfQWNaQU04NTlWOExMOGk1UGI3NVEtVkwtSVFPNG4zTE1VVGNMM0hLTlc4RVdfb3Z4ZGRxeGxSM2hQa2N3RG1GZEVGYjdjTVkxTVd4NzRueHA5Q2I0a0ptUjlDOTZOcVhjUGhrYzk3TXR4bXBUazREd3dfTzJKZ0pvdndrWkd3MURmTDY5alFPZUN1cUVkN0t3amptYmhhZVp6dEd1Q0E?oc=5",
+     "ts": "2026-10-28T01:58:20+00:00"
     }
    ],
    "sources": {
     "Reuters": "2026-10-28T00:22:00+00:00",
     "Business Recorder": "2026-10-28T01:58:20+00:00",
-    "The Economic Times": "2026-10-28T02:04:00+00:00"
+    "The Economic Times": "2026-10-28T02:04:00+00:00",
+    "Investify": "2026-10-28T01:58:20+00:00"
    },
    "first": "2026-10-28T00:22:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
-   "trend_at": null,
-   "alerted": false
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": "2026-10-28T03:30:36+00:00",
+   "alerted": true
   },
   {
    "id": "05afdcc3478118d2",
@@ -34588,7 +33912,7 @@
     "Reuters": "2026-10-28T00:23:00+00:00"
    },
    "first": "2026-10-28T00:23:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34626,7 +33950,7 @@
     "Bloomberg Economics": "2026-10-28T00:31:12+00:00"
    },
    "first": "2026-10-28T00:31:12+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34645,7 +33969,7 @@
     "Pakistan Connect": "2026-10-28T00:31:54+00:00"
    },
    "first": "2026-10-28T00:31:54+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34664,7 +33988,7 @@
     "Bloomberg Economics": "2026-10-28T00:32:29+00:00"
    },
    "first": "2026-10-28T00:32:29+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34683,7 +34007,7 @@
     "Bloomberg Markets": "2026-10-28T00:32:33+00:00"
    },
    "first": "2026-10-28T00:32:33+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34702,7 +34026,7 @@
     "بی‌بی‌سی فارسی": "2026-10-28T00:33:57+00:00"
    },
    "first": "2026-10-28T00:33:57+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34715,13 +34039,20 @@
      "s": "Reuters",
      "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMnBsQUVaem9YZkdBUHZ0aFRjRFVadWg5ektvU0ozc3VOWmhpXzRQcmJjY3BZaS0yRERZa1hTdjZxSjkwdFRlWWhuUnJIRk9HMUVjdzdibExtbnJIbnFUVzZKM1BhemljWDI3MTlTTEZHUmEzX1dkWC1RcHd6TjIxMVBxUDAzS1VUMjIzZkpIaHlLbHpJVGtpcUVLTERnWklieDJlVldNUkplUnJjNjFZVkMzYjRpaXpJQ3B3?oc=5",
      "ts": "2026-10-28T00:34:00+00:00"
+    },
+    {
+     "t": "Jio Platforms Listing Live Updates: Ambani Firm's Trading Debut After Record IPO",
+     "s": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/live-blog/2026-10-28/jio-platforms-trading-debut",
+     "ts": "2026-10-28T03:04:48+00:00"
     }
    ],
    "sources": {
-    "Reuters": "2026-10-28T00:34:00+00:00"
+    "Reuters": "2026-10-28T00:34:00+00:00",
+    "Bloomberg Markets": "2026-10-28T03:04:48+00:00"
    },
    "first": "2026-10-28T00:34:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34740,7 +34071,7 @@
     "Reuters": "2026-10-28T00:35:00+00:00"
    },
    "first": "2026-10-28T00:35:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34759,7 +34090,7 @@
     "Reuters": "2026-10-28T00:37:00+00:00"
    },
    "first": "2026-10-28T00:37:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34778,7 +34109,7 @@
     "بی‌بی‌سی فارسی": "2026-10-28T00:48:46+00:00"
    },
    "first": "2026-10-28T00:48:46+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34797,7 +34128,7 @@
     "Bloomberg Markets": "2026-10-28T00:49:45+00:00"
    },
    "first": "2026-10-28T00:49:45+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34930,7 +34261,7 @@
     "Al Jazeera": "2026-10-28T00:43:02+00:00"
    },
    "first": "2026-10-28T00:43:02+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34949,7 +34280,7 @@
     "Reuters": "2026-10-28T00:54:00+00:00"
    },
    "first": "2026-10-28T00:54:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -34987,7 +34318,7 @@
     "Reuters": "2026-10-28T01:00:00+00:00"
    },
    "first": "2026-10-28T01:00:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35006,7 +34337,7 @@
     "عصرایران": "2026-10-28T01:00:02+00:00"
    },
    "first": "2026-10-28T01:00:02+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35058,7 +34389,7 @@
     "The Economic Times": "2026-10-28T01:23:26+00:00"
    },
    "first": "2026-10-28T01:01:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": "2026-10-28T01:30:43+00:00",
    "alerted": true
   },
@@ -35114,6 +34445,12 @@
      "s": "Times Now",
      "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWNHMVBvb0taOV9tcC1tS2IyYVM2QndGanhMa2dEM2s4ZUg5aWpwZkJwNmJjZ2F3VlIyaThUaGxRQlh5Rm92cHcxYlg4aEh6aGFOVG8yamFwNnBuX2ZmSVdRZTFtcTVpM25rekh3dUo3WEhtdWxLY2FuYktwaGlJT29tNVlxclE2eUVLTmxIUXhrSTlNd3VpYi1DYU5kSThDN0JqeEsyVVFKZUdTLUV2NjVHUzIzdFFoQ2hNZTM1MU…",
      "ts": "2026-10-28T02:40:47+00:00"
+    },
+    {
+     "t": "US warns Gulf allies of possible short, intense Iran campaign after midterms: WSJ",
+     "s": "investingLive",
+     "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFdtUldkQXhPblMybmtKbTdOeGNPMnNoa2daZzhHWUZ2U3haTDREMDZWRkJVMG9qRlhIWFFHRDg3LXhWNTRvZnhqdmdUYTJBXzdUY2p0T01NVXA2ZVN5azhWQnlyMFdGWXhlMlN5bUIybjdScFJCcktfRVFSTlllbkpBR1hQRGI1Vm9JVnV4X0NVci1DSDlJODdBRk1zV0U0Y3lMeW1BNU1wcmpUUTI0WTlDQlhudzJRb3c?oc=5",
+     "ts": "2026-10-28T02:38:35+00:00"
     }
    ],
    "sources": {
@@ -35121,10 +34458,11 @@
     "The Australian": "2026-10-28T01:19:05+00:00",
     "Daily Mail": "2026-10-28T02:12:00+00:00",
     "Anadolu Ajansı": "2026-10-28T02:18:50+00:00",
-    "Times Now": "2026-10-28T02:40:47+00:00"
+    "Times Now": "2026-10-28T02:40:47+00:00",
+    "investingLive": "2026-10-28T02:38:35+00:00"
    },
    "first": "2026-10-28T01:02:43+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": "2026-10-28T02:30:36+00:00",
    "alerted": true
   },
@@ -35219,7 +34557,7 @@
     "Reuters": "2026-10-28T01:03:00+00:00"
    },
    "first": "2026-10-28T01:03:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35257,7 +34595,7 @@
     "Bloomberg Economics": "2026-10-28T01:04:33+00:00"
    },
    "first": "2026-10-28T01:04:33+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35276,7 +34614,7 @@
     "بی‌بی‌سی فارسی": "2026-10-28T01:05:18+00:00"
    },
    "first": "2026-10-28T01:05:18+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35295,7 +34633,7 @@
     "Reuters": "2026-10-28T01:06:00+00:00"
    },
    "first": "2026-10-28T01:06:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35314,7 +34652,7 @@
     "بی‌بی‌سی فارسی": "2026-10-28T01:16:55+00:00"
    },
    "first": "2026-10-28T01:16:55+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35333,7 +34671,7 @@
     "Gulf News": "2026-10-28T01:17:40+00:00"
    },
    "first": "2026-10-28T01:17:40+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35428,7 +34766,7 @@
     "Vietnam.vn": "2026-10-28T00:55:52+00:00"
    },
    "first": "2026-10-28T00:55:52+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35447,7 +34785,7 @@
     "Reuters": "2026-10-28T01:16:00+00:00"
    },
    "first": "2026-10-28T01:16:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35466,7 +34804,7 @@
     "Reuters": "2026-10-28T01:21:00+00:00"
    },
    "first": "2026-10-28T01:21:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35549,7 +34887,7 @@
     "اخبار فوری": "2026-10-28T01:30:00+00:00"
    },
    "first": "2026-10-28T01:30:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35568,7 +34906,7 @@
     "عصرایران": "2026-10-28T01:30:01+00:00"
    },
    "first": "2026-10-28T01:30:01+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35594,7 +34932,7 @@
     "UA.NEWS": "2026-10-28T02:53:47+00:00"
    },
    "first": "2026-10-28T01:30:30+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35613,7 +34951,7 @@
     "Moneycontrol.com": "2026-10-28T01:31:36+00:00"
    },
    "first": "2026-10-28T01:31:36+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35632,7 +34970,7 @@
     "Reuters": "2026-10-28T01:34:00+00:00"
    },
    "first": "2026-10-28T01:34:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35665,7 +35003,7 @@
     "ایسنا": "2026-10-28T01:51:46+00:00"
    },
    "first": "2026-10-28T01:34:23+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": "2026-10-28T02:00:41+00:00",
    "alerted": true
   },
@@ -35703,7 +35041,7 @@
     "bloomingbit": "2026-10-28T01:36:38+00:00"
    },
    "first": "2026-10-28T01:36:38+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35722,7 +35060,7 @@
     "조선일보": "2026-10-28T01:37:03+00:00"
    },
    "first": "2026-10-28T01:37:03+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35741,7 +35079,7 @@
     "ایرنا": "2026-10-28T01:37:58+00:00"
    },
    "first": "2026-10-28T01:37:58+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35760,7 +35098,7 @@
     "Reuters": "2026-10-28T01:40:00+00:00"
    },
    "first": "2026-10-28T01:40:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35779,7 +35117,7 @@
     "WSJ": "2026-10-28T01:44:58+00:00"
    },
    "first": "2026-10-28T01:44:58+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35798,7 +35136,7 @@
     "ایسنا": "2026-10-28T01:45:00+00:00"
    },
    "first": "2026-10-28T01:45:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35836,7 +35174,7 @@
     "agc communication news": "2026-10-28T01:48:30+00:00"
    },
    "first": "2026-10-28T01:48:30+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35849,13 +35187,20 @@
      "s": "Reuters",
      "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYUhHblNqOGNPczlpdUR2NDFMWjZxX2FZYjVTTzREX2R4YU5jRzF2ckN1MG9sSnIxWG9hbDJ0TjV4YTZXRjdqSUc3aF9OcTJuUVlJZkZrdUd0V0RMUU1qUWxiNDdmdXhCTmJUczZWOFRUWTRKdzJQLUJYNXZBODhnTjJfOXMyNU01OGVreWM5TkNyamNjbzV5UzAxX3ZOdWcwcUE5SFZHSkEyUjZ1M1dUQ3ByRDdxbC13ZzRQR0xfcT…",
      "ts": "2026-10-28T01:49:00+00:00"
+    },
+    {
+     "t": "Oil prices rise after attack on Saudi Arabian refinery reignites supply concerns",
+     "s": "NST Online",
+     "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTXhyNnNqcWU4V2NoRktjYUlIX2Q4QWtwMVpXTEtKNTRfSi14YTdRYi05a0h4Y2szMklOWF9nbEtFV3BrNDRXWlhYd0Z5dFVycTJVVEZBSTVoa0dBZTJMc01IVG10ZURCcGVXTW1INHZ6blJNbk5RQ2xRM0trMndPalFCZkxfVW5kMk5YdUpWeW5HMzJuQkVydE83RktHWTdxV0RRV3NIejJUNlBKMk02SF9qWHNmUXI2Qnp3ZGZn0g…",
+     "ts": "2026-10-28T02:31:11+00:00"
     }
    ],
    "sources": {
-    "Reuters": "2026-10-28T01:49:00+00:00"
+    "Reuters": "2026-10-28T01:49:00+00:00",
+    "NST Online": "2026-10-28T02:31:11+00:00"
    },
    "first": "2026-10-28T01:49:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35874,7 +35219,7 @@
     "Global Banking & Finance Review": "2026-10-28T01:49:00+00:00"
    },
    "first": "2026-10-28T01:49:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35893,7 +35238,7 @@
     "Bloomberg Markets": "2026-10-28T01:50:36+00:00"
    },
    "first": "2026-10-28T01:50:36+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35919,7 +35264,7 @@
     "Newswav": "2026-10-28T01:51:00+00:00"
    },
    "first": "2026-10-28T01:51:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35938,7 +35283,7 @@
     "Bloomberg Markets": "2026-10-28T01:51:10+00:00"
    },
    "first": "2026-10-28T01:51:10+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35951,13 +35296,20 @@
      "s": "https://aapnews.aap.com.au/",
      "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOTJVQ1hVenFpdUFXMnBwN0VfejE2b2VaaWtFWS1uTkVRSFNIQmtSLUxZX3hlZ0h4Z0V2S1Bnb1ozMVBMUFZMS0JwdjYtZjRTOGxVQUxHOURsblZvLWp2b0hZbzcxU0lXU0FPbDNST2YxMmd4Rkl0VERJdXZGUFZVNWVSUEZfVUhNdkNGeWY4REQ?oc=5",
      "ts": "2026-10-28T01:51:42+00:00"
+    },
+    {
+     "t": "Australian shares lift but inflation spurs rate worries",
+     "s": "aapnews.com.au",
+     "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbVdOUHJkZDlXMWluSms3dERUVWdtZEZKamtNYUtrVnRMcmo0cnc0SnVQUVpvRzU0LWJhRkNpWnZqeU1MRm9YSmh1eFpXNWUzOVQ4dWN5VFlsQzNpd0NkZUhIaGRqWnd3bFFaZ202NzEwTGhYcDJaY3RFQ2lBbjljbklJRUVoSU5oVFZaZTNONmE?oc=5",
+     "ts": "2026-10-28T01:49:57+00:00"
     }
    ],
    "sources": {
-    "https://aapnews.aap.com.au/": "2026-10-28T01:51:42+00:00"
+    "https://aapnews.aap.com.au/": "2026-10-28T01:51:42+00:00",
+    "aapnews.com.au": "2026-10-28T01:49:57+00:00"
    },
    "first": "2026-10-28T01:51:42+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -35995,7 +35347,7 @@
     "Gulf News": "2026-10-28T01:52:32+00:00"
    },
    "first": "2026-10-28T01:52:32+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36014,7 +35366,7 @@
     "China Daily Global Edition": "2026-10-28T01:10:55+00:00"
    },
    "first": "2026-10-28T01:10:55+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36033,7 +35385,7 @@
     "Vietnam.vn": "2026-10-28T01:18:03+00:00"
    },
    "first": "2026-10-28T01:18:03+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36052,7 +35404,7 @@
     "The Financial Express": "2026-10-28T01:45:13+00:00"
    },
    "first": "2026-10-28T01:45:13+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36071,7 +35423,7 @@
     "富途牛牛": "2026-10-28T01:46:11+00:00"
    },
    "first": "2026-10-28T01:46:11+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36116,7 +35468,7 @@
     "Livemint": "2026-10-28T01:45:48+00:00"
    },
    "first": "2026-10-28T01:54:46+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36135,7 +35487,7 @@
     "Iran International": "2026-10-28T02:00:01+00:00"
    },
    "first": "2026-10-28T02:00:01+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36154,7 +35506,7 @@
     "عصرایران": "2026-10-28T02:00:01+00:00"
    },
    "first": "2026-10-28T02:00:01+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36173,7 +35525,7 @@
     "خبرآنلاین": "2026-10-28T02:02:18+00:00"
    },
    "first": "2026-10-28T02:02:18+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36192,7 +35544,7 @@
     "ایران اینترنشنال": "2026-10-28T02:02:45+00:00"
    },
    "first": "2026-10-28T02:02:45+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36211,7 +35563,7 @@
     "The Economic Times": "2026-10-28T02:02:49+00:00"
    },
    "first": "2026-10-28T02:02:49+00:00",
-   "last": "2026-10-28T02:30:36+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36256,7 +35608,7 @@
     "اخبار فوری": "2026-10-28T02:34:09+00:00"
    },
    "first": "2026-10-28T02:03:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36275,7 +35627,7 @@
     "Moneycontrol.com": "2026-10-28T02:04:39+00:00"
    },
    "first": "2026-10-28T02:04:39+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36294,7 +35646,7 @@
     "ایسنا": "2026-10-28T02:04:46+00:00"
    },
    "first": "2026-10-28T02:04:46+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36332,7 +35684,7 @@
     "Reuters": "2026-10-28T02:06:00+00:00"
    },
    "first": "2026-10-28T02:06:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36370,7 +35722,7 @@
     "ایسنا": "2026-10-28T02:07:00+00:00"
    },
    "first": "2026-10-28T02:07:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36408,7 +35760,7 @@
     "Reuters": "2026-10-28T02:10:00+00:00"
    },
    "first": "2026-10-28T02:10:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36493,7 +35845,7 @@
     "فارس": "2026-10-28T02:31:48+00:00"
    },
    "first": "2026-10-28T02:11:27+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": "2026-10-28T02:30:36+00:00",
    "alerted": true
   },
@@ -36531,7 +35883,7 @@
     "FinancialJuice": "2026-10-28T02:12:37+00:00"
    },
    "first": "2026-10-28T02:12:37+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36550,7 +35902,7 @@
     "FinancialJuice": "2026-10-28T02:13:43+00:00"
    },
    "first": "2026-10-28T02:13:43+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36588,7 +35940,7 @@
     "اخبار فوری": "2026-10-28T02:15:52+00:00"
    },
    "first": "2026-10-28T02:15:52+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36607,7 +35959,7 @@
     "CNBC Top News": "2026-10-28T02:15:55+00:00"
    },
    "first": "2026-10-28T02:15:55+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36626,7 +35978,7 @@
     "www.tmgm.com": "2026-10-28T02:16:05+00:00"
    },
    "first": "2026-10-28T02:16:05+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36645,7 +35997,7 @@
     "FinancialJuice": "2026-10-28T02:17:12+00:00"
    },
    "first": "2026-10-28T02:17:12+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36683,7 +36035,7 @@
     "FinancialJuice": "2026-10-28T02:23:24+00:00"
    },
    "first": "2026-10-28T02:23:24+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36702,7 +36054,7 @@
     "اخبار فوری": "2026-10-28T02:23:35+00:00"
    },
    "first": "2026-10-28T02:23:35+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36759,7 +36111,7 @@
     "ایرنا": "2026-10-28T02:27:18+00:00"
    },
    "first": "2026-10-28T02:27:18+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36778,7 +36130,7 @@
     "FinancialJuice": "2026-10-28T02:27:55+00:00"
    },
    "first": "2026-10-28T02:27:55+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36797,7 +36149,7 @@
     "ایسنا": "2026-10-28T02:30:00+00:00"
    },
    "first": "2026-10-28T02:30:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36816,7 +36168,7 @@
     "ایسنا": "2026-10-28T02:30:00+00:00"
    },
    "first": "2026-10-28T02:30:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36854,7 +36206,7 @@
     "Livemint": "2026-10-28T01:32:46+00:00"
    },
    "first": "2026-10-28T01:32:46+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36873,7 +36225,7 @@
     "Dawn": "2026-10-28T01:51:07+00:00"
    },
    "first": "2026-10-28T01:51:07+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36892,7 +36244,7 @@
     "Reuters": "2026-10-28T01:57:00+00:00"
    },
    "first": "2026-10-28T01:57:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36911,7 +36263,7 @@
     "Reuters": "2026-10-28T01:59:00+00:00"
    },
    "first": "2026-10-28T01:59:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36930,7 +36282,7 @@
     "BBC Middle East": "2026-10-28T02:09:11+00:00"
    },
    "first": "2026-10-28T02:09:11+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36949,7 +36301,7 @@
     "Laodong.vn": "2026-10-28T02:23:13+00:00"
    },
    "first": "2026-10-28T02:23:13+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36968,7 +36320,7 @@
     "Reuters": "2026-10-28T02:25:00+00:00"
    },
    "first": "2026-10-28T02:25:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -36987,7 +36339,7 @@
     "Al Jazeera": "2026-10-28T02:26:27+00:00"
    },
    "first": "2026-10-28T02:26:27+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37006,7 +36358,7 @@
     "اخبار فوری": "2026-10-28T02:28:51+00:00"
    },
    "first": "2026-10-28T02:28:51+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37025,7 +36377,7 @@
     "عصرایران": "2026-10-28T02:30:02+00:00"
    },
    "first": "2026-10-28T02:30:02+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37044,7 +36396,7 @@
     "Reuters": "2026-10-28T02:32:00+00:00"
    },
    "first": "2026-10-28T02:32:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37063,7 +36415,7 @@
     "ایرنا": "2026-10-28T02:32:39+00:00"
    },
    "first": "2026-10-28T02:32:39+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37082,7 +36434,7 @@
     "Reuters": "2026-10-28T02:33:00+00:00"
    },
    "first": "2026-10-28T02:33:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37101,7 +36453,7 @@
     "FinancialJuice": "2026-10-28T02:33:59+00:00"
    },
    "first": "2026-10-28T02:33:59+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37120,7 +36472,7 @@
     "FinancialJuice": "2026-10-28T02:34:13+00:00"
    },
    "first": "2026-10-28T02:34:13+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37139,7 +36491,7 @@
     "FinancialJuice": "2026-10-28T02:34:18+00:00"
    },
    "first": "2026-10-28T02:34:18+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37158,7 +36510,7 @@
     "خبرآنلاین": "2026-10-28T02:35:00+00:00"
    },
    "first": "2026-10-28T02:35:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37177,7 +36529,7 @@
     "Bloomberg Markets": "2026-10-28T02:35:31+00:00"
    },
    "first": "2026-10-28T02:35:31+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37196,7 +36548,7 @@
     "اخبار فوری": "2026-10-28T02:36:14+00:00"
    },
    "first": "2026-10-28T02:36:14+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37215,7 +36567,7 @@
     "Reuters": "2026-10-28T02:37:00+00:00"
    },
    "first": "2026-10-28T02:37:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37234,7 +36586,7 @@
     "خبرآنلاین": "2026-10-28T02:40:00+00:00"
    },
    "first": "2026-10-28T02:40:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37298,7 +36650,7 @@
     "اخبار فوری": "2026-10-28T02:48:41+00:00"
    },
    "first": "2026-10-28T02:44:59+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37317,7 +36669,7 @@
     "Reuters": "2026-10-28T02:48:00+00:00"
    },
    "first": "2026-10-28T02:48:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37336,7 +36688,7 @@
     "Reuters": "2026-10-28T02:49:00+00:00"
    },
    "first": "2026-10-28T02:49:00+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   },
@@ -37355,7 +36707,287 @@
     "UA.NEWS": "2026-10-28T02:53:47+00:00"
    },
    "first": "2026-10-28T02:53:47+00:00",
-   "last": "2026-10-28T03:00:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "bd55a7ec14469f14",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Tehran talks",
+     "s": "Pakistan Observer",
+     "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9nT19fdDJLZ2dZOXdNYTBMNTJiSlhHM0l1Tk8yVWN5MnEtX2xoMjV6UkVyNFhxUDI0QTVOT0ItTEJEbUlJQU84YjU5YlV1UQ?oc=5",
+     "ts": "2026-10-28T00:49:16+00:00"
+    }
+   ],
+   "sources": {
+    "Pakistan Observer": "2026-10-28T00:49:16+00:00"
+   },
+   "first": "2026-10-28T00:49:16+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "bc24b00b51a57fd8",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "The Tehran opening",
+     "s": "Dawn",
+     "u": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1RbjBnbzh4YTRiZjNjSTREaVZjcHYxcktMbHpLT1RkY3FUVEhPamNFc2FiNmRUYWVRWDhBc2ZJZmtoWmVhNk5hSg?oc=5",
+     "ts": "2026-10-28T01:52:31+00:00"
+    }
+   ],
+   "sources": {
+    "Dawn": "2026-10-28T01:52:31+00:00"
+   },
+   "first": "2026-10-28T01:52:31+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "473962c65ee72dd4",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "- Reuters",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVExUV0dNd1FVdUItTGJYMDA2REJnM1dwbG05NnJUczNhWFJPZHpKR1RrbkluVEtiOEVLQmpBT1JqWE5SMWpWanMtWWtSOVRuYm1ubVQ5YW5zWlVneE80WE4wNU5BeDJhV3Y4WGxGNkpZbm9EQ0daZHZUS2xqaFR5UmVaQWR6M0JZbW5GTFBORkhUUktDYTJicEFLQktFY3NTTDJ3RQ?oc=5",
+     "ts": "2026-10-28T02:29:47+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-28T02:29:47+00:00"
+   },
+   "first": "2026-10-28T02:29:47+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "6a7ca38d9ddab2f7",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Commonwealth Bank Now Expects RBA to Hike to 4.85% in November",
+     "s": "Bloomberg Economics",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-28/commonwealth-bank-now-expects-rba-to-hike-to-4-85-in-november",
+     "ts": "2026-10-28T02:52:17+00:00"
+    }
+   ],
+   "sources": {
+    "Bloomberg Economics": "2026-10-28T02:52:17+00:00"
+   },
+   "first": "2026-10-28T02:52:17+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "f4e13978b90ef733",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Grand jury declines to indict former White House aide Cassidy Hutchinson, source says",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSEEtdXNuQzdWYmJsM3R1M29Ka29aVmZhNk1nSk1EVlNzQS1mUHMwMi1kcU52cVVMQUNxeTJsMmtOTDY4VzdkanUtVW5md3hpLVFLZTdNSEkxQjRQVlJLd19qT095VUVUa3RuV05aVHUzZ05YaENjbE9Ed0lEai00MFg2WEFLRTRxMFkxTEtQc3V1TUpLXzNYSUtzUHEtQWxoalFlUzZVZGQ0bWtmdWNfakNsc21pSDZmQmhpTWFFVD…",
+     "ts": "2026-10-28T02:53:00+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-28T02:53:00+00:00"
+   },
+   "first": "2026-10-28T02:53:00+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "46be6f65030a1ae1",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "US military says it struck vessel in Eastern Pacific, killing five",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS0tJV2g0S2RNWGFlYmlQVV82bEZqWGNmR19OU2phV1N2VlR2NFZ5c0FrSW9zMnN4dVNYcFIzdFFiNVpUaU5oTlg3dk1GajM0SnlmUFdMQzJGYVhJdXpFYkZRODBfR0RoY2lib2RleUhnX3lBYWxyLUlxRG5FT0lQZlpFNzJ0bzc1NkpMcXl6SnZ1ZENGbzlaYVZpRFJNRkIzS1FNTlJqYw?oc=5",
+     "ts": "2026-10-28T02:59:00+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-28T02:59:00+00:00"
+   },
+   "first": "2026-10-28T02:59:00+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "45983414ab59ea11",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Chinese Government to Speed Bond Sales to Stimulate Growth",
+     "s": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-28/chinese-government-to-speed-bond-sales-to-stimulate-growth",
+     "ts": "2026-10-28T03:00:09+00:00"
+    }
+   ],
+   "sources": {
+    "Bloomberg Markets": "2026-10-28T03:00:09+00:00"
+   },
+   "first": "2026-10-28T03:00:09+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "dc64b60eb7f95a50",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Weakness across Asian FX before Fed decision to put mild pressure on rupee",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUFhCVnlLQ015bV9hYzRXWk5mN3FxT1c0UWo3VnIwallLV0F2TXVJby1LLWZ2ZG52NkJZT0J5Y2JVLVVTS3YwWmk5UVNkVnlQU1ZBZFI5cEdKUC1kQXF6cTFOQ0tpRkQ1ODZQRDV5Tlpvb0V6V2ItaEtGcnhHdjRTUlRCQnFMVVo2M1RnaHpOQThaQmJWVDViNXdMd3hkdTA1UnpVSG94WWVUbEpab0hYSm10VjZqMG8?oc=5",
+     "ts": "2026-10-28T03:04:00+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-28T03:04:00+00:00"
+   },
+   "first": "2026-10-28T03:04:00+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "12c23591be1ce434",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "اعتراف نتانیاهو به انتخابات سخت",
+     "s": "مهر (سایت)",
+     "u": "https://www.mehrnews.com/news/6992177/%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81-%D9%86%D8%AA%D8%A7%D9%86%DB%8C%D8%A7%D9%87%D9%88-%D8%A8%D9%87-%D8%A7%D9%86%D8%AA%D8%AE%D8%A7%D8%A8%D8%A7%D8%AA-%D8%B3%D8%AE%D8%AA",
+     "ts": "2026-10-28T03:04:18+00:00"
+    },
+    {
+     "t": "نتانیاهو: انتخابات سختی بود",
+     "s": "خبرفوری (سایت)",
+     "u": "https://www.khabarfoori.com/fa/tiny/news-3255670",
+     "ts": "2026-10-28T03:15:06+00:00"
+    }
+   ],
+   "sources": {
+    "مهر (سایت)": "2026-10-28T03:04:18+00:00",
+    "اخبار فوری": "2026-10-28T03:15:06+00:00"
+   },
+   "first": "2026-10-28T03:04:18+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "1e486e87619eb83b",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "بازگشایی موزه‌ها منوط به اعلام شرایط باثبات از سوی نهادهای امنیتی است",
+     "s": "مهر (سایت)",
+     "u": "https://www.mehrnews.com/news/6988814/%D8%A8%D8%A7%D8%B2%DA%AF%D8%B4%D8%A7%DB%8C%DB%8C-%D9%85%D9%88%D8%B2%D9%87-%D9%87%D8%A7-%D9%85%D9%86%D9%88%D8%B7-%D8%A8%D9%87-%D8%A7%D8%B9%D9%84%D8%A7%D9%85-%D8%B4%D8%B1%D8%A7%DB%8C%D8%B7-%D8%A8%D8%A7%D8%AB%D8%A8%D8%A7%D8%AA-%D8%A7%D8%B2-%D8%B3%D9%88%DB%8C-%D9%8…",
+     "ts": "2026-10-28T03:08:00+00:00"
+    },
+    {
+     "t": "بازگشایی موزه‌ها منوط به اعلام شرایط باثبات از سوی نهادهای امنیتی است",
+     "s": "خبرفوری (سایت)",
+     "u": "https://www.khabarfoori.com/fa/tiny/news-3255671",
+     "ts": "2026-10-28T03:17:00+00:00"
+    }
+   ],
+   "sources": {
+    "مهر (سایت)": "2026-10-28T03:08:00+00:00",
+    "اخبار فوری": "2026-10-28T03:17:00+00:00"
+   },
+   "first": "2026-10-28T03:08:00+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "6723076d97a1506d",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "US-Friendly Nations Slash Treasury Purchases by 60%, Led by Asia",
+     "s": "Bloomberg Markets",
+     "u": "https://www.bloomberg.com/news/articles/2026-10-28/us-friendly-nations-slash-treasury-purchases-by-60-led-by-asia",
+     "ts": "2026-10-28T03:21:11+00:00"
+    }
+   ],
+   "sources": {
+    "Bloomberg Markets": "2026-10-28T03:21:11+00:00"
+   },
+   "first": "2026-10-28T03:21:11+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "7523b482a73677dc",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Israel's Eisenkot touts 'new era' in deadlock with Netanyahu's party",
+     "s": "Reuters",
+     "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE41aUt2bUE0dWNPMi14LWtqdTdwYk9jaUZSNmZ3VDJQSWpITjc3YkZ0TFNxRWpYQjRsazVFdW1fWERQc0stdlVQajgzbUN1TTVjMmZmLW1EbC1xZ3loVWZhazJmSkl4aWc?oc=5",
+     "ts": "2026-10-28T03:22:55+00:00"
+    }
+   ],
+   "sources": {
+    "Reuters": "2026-10-28T03:22:55+00:00"
+   },
+   "first": "2026-10-28T03:22:55+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "dd12c24d32b3ae72",
+   "lang": "en",
+   "titles": [
+    {
+     "t": "Fact Check: Have US forces abandoned Strait of Hormuz and moved hundreds of kilometers away?",
+     "s": "MEAWW News",
+     "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeVpUUXJzSmtnc1FyNWJKWlhhWTJSaDhqNXU3eWNkdlhNQlF4UFhBZ2oxY21ybTNROWJrYzNWNHV4QUt2ZU5GcnYza25tRXRySVpVd0htdU1RY2ZlS01HYnIxQk1OdExnSk1KZmFWN0pXa1Zyay1fWjZSOFZ6RFIyVnZKd0tOcHNBQVJSU2Fhc0xVUmxXUDI1c1Rwelh1bzRDZHpFejVXRjRnQUNaZ3QwRnpLNlpDOGJS?oc=5",
+     "ts": "2026-10-28T03:26:08+00:00"
+    }
+   ],
+   "sources": {
+    "MEAWW News": "2026-10-28T03:26:08+00:00"
+   },
+   "first": "2026-10-28T03:26:08+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
+   "trend_at": null,
+   "alerted": false
+  },
+  {
+   "id": "bce3e0b4102c8b85",
+   "lang": "fa",
+   "titles": [
+    {
+     "t": "تصویب توافق تعیین حدود حوزه‌های صلاحیت دریایی که در سال ۲۰۱۹ میان ترکیه و لیبی امضا شده بود از سوی مجلس نمایندگان لیبی، پس از هفت سال، معاد…",
+     "s": "بی‌بی‌سی فارسی",
+     "u": "https://t.me/bbcpersian/294167",
+     "ts": "2026-10-28T03:30:30+00:00"
+    }
+   ],
+   "sources": {
+    "بی‌بی‌سی فارسی": "2026-10-28T03:30:30+00:00"
+   },
+   "first": "2026-10-28T03:30:30+00:00",
+   "last": "2026-10-28T03:30:36+00:00",
    "trend_at": null,
    "alerted": false
   }
